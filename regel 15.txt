@@ -1,0 +1,273 @@
+RULE 15 INSTANT REPLAY
+SECTION 1 INITIATING A REPLAY REVIEW
+ARTICLE 1. COACH CHALLENGES. Each team is permitted a minimum of two challenges that will initiate Instant Replay reviews:
+(a) The head coach can initiate a challenge by throwing a red flag onto the field of play before the next legal snap or kick.
+(b) A team that commits a foul that prevents the next snap can no longer challenge the previous play. The non-fouling team can
+still challenge the previous play, and both teams can benefit from the review.
+(c) The head coach may challenge on-field rulings listed in Section 3, except for those plays that only the Replay Official can
+review (Article 2).
+(d) Each challenge requires an available team timeout. A team that is out of timeouts, or has used all its available challenges,
+may not attempt to initiate a challenge.
+A team that initiates a challenge when the team is not permitted to challenge will be charged a team timeout.
+Penalty: For initiating a challenge when a team has exhausted its timeouts: Loss of 15 yards enforced as a foul between
+downs.
+(e) If a challenge is unsuccessful, the team will be charged a timeout.
+(f) A team will be permitted a third challenge if it is successful on at least one of its challenges. A fourth challenge will not be
+permitted.
+ARTICLE 2. REPLAY OFFICIAL REQUEST FOR REVIEW. Only the Replay Official or the Senior Vice President of Officiating or
+his or her designee may initiate a review of a play:
+(a) that begins after the two-minute warning of each half;
+(b) throughout any overtime period;
+(c) when points are scored by either team;
+(d) that is a Try attempt (successful or unsuccessful); and
+(e) when on-field officials rule:
+(1) an interception by an opponent;
+(2) a fumble or backward pass recovered by an opponent or that goes out of bounds through the opponent’s end zone;
+(3) that the offense failed to reach the line to gain on fourth down;
+(4) possession by the kicking team at the end of any free kick or scrimmage kick down; or
+(5) a disqualification of a player.
+Such plays may be reviewed regardless of whether a foul is committed on the play that, if accepted, would negate the on-field
+ruling.
+The Replay Official may only initiate a review of a play until the next legal snap or kick. The Replay Official may consult with a
+designated member of the Officiating department at the League office regarding whether to initiate a review.
+SECTION 2 REPLAY REVIEWS
+All Replay Reviews will be conducted by the Senior Vice President of Officiating or his or her designee. Reviews are conducted
+in consultation with the Replay Official and the Referee, who will have access to a field-level video monitor. An expedited review
+can occur without consultation with the Referee. The video will not be shared with the Referee on the field when there is an
+expedited review.
+ARTICLE 1. CHANGING A RULING. An on-field ruling will be changed only when the Senior Vice President of Officiating or his
+or her designee determines that clear and obvious video evidence warrants a change.
+ARTICLE 2. SCOPE OF REVIEW. Once a review is initiated, all reviewable aspects of a play (Section 3) may be examined and
+are subject to change, even if not the specific reason for the challenge.
+ARTICLE 3. AWARDING POSSESSION. When the on-field ruling results in a dead ball (e.g., score, down by contact, incomplete
+pass, etc.), and following replay review it is determined that possession was lost before the ball should have been ruled dead,
+possession may be awarded to a player who clearly recovers a loose ball in the immediate continuing action. A loose ball that
+touches out of bounds is deemed a clear recovery by the player who last possessed the ball.
+Note: If on-field officials make a preliminary ruling of which team recovered the ball, that preliminary ruling may constitute a
+clear recovery.
+ARTICLE 4. EACH RULING REVIEWED SEPARATELY. Any aspect of a ruling that is not changed will be considered a correct
+ruling for purposes of reviewing the play.
+SECTION 3 REVIEWABLE RULINGS
+ARTICLE 1. PLAY SITUATIONS. The Replay System will cover the following play situations:
+(a) Plays involving possession (see Section 3, Article 2).
+(b) Plays involving touching of either the ball or the ground (see Section 3, Article 3).
+(c) Plays governed by the goal line (see Section 3, Article 4).
+(d) Plays governed by the boundary lines (see Section 3, Article 5).
+(e) Plays governed by the line of scrimmage (see Section 3, Article 6).
+(f) Plays governed by the line to gain (see Section 3, Article 7).
+(g) Number of players on the field (see Section 3, Article 8).
+(h) Game administration (see Section 3, Article 9).
+(1) Penalty enforcement.
+(2) Proper down.
+(3) Spot of a foul.
+(4) Status of the game clock.
+(i) Disqualification of a player (see Section 3, Article 10).
+(j) Other reviewable plays (see Section 3, Article 11).
+ARTICLE 2. PLAYS INVOLVING POSSESSION.
+Item 1. Completion of a Pass. Whether a pass was complete or incomplete.
+Notes:
+(1) Incomplete Changed to Catch. If a ruling of incomplete is changed to a catch, the ball will be placed at the spot where it
+was when the receiver’s second foot or a body part touched the ground with control. No advance is awarded.
+(2) Incomplete Changed to Catch and Fumble. When a ruling of incomplete is changed to a catch and fumble, the ball will
+be awarded at the spot of recovery to the team that recovers the ball in the immediate continuing action. If there is no
+clear recovery, the ball will be awarded to the team last in possession at the spot where possession was lost.
+Item 2. Recovery of a Loose Ball. Whether a player legally recovered a loose ball in the field of play, at the sideline, goal line, or
+in the end zone.
+Item 3. Forward Pass or Fumble. Whether a passer’s hand started forward with control of the ball, or whether the ball was
+fumbled.
+Notes:
+(1) When an on-field ruling is incomplete, and the passer clearly fumbled the ball, the ball will be awarded at the spot of
+recovery to the team that recovers the ball in the immediate continuing action. If there is no clear recovery, the ball will be
+awarded to the team last in possession at the spot where possession was lost, except that if possession was lost in the
+team’s own end zone, and the ball was not clearly recovered in the end zone, the ball will be placed at the one-yard line.
+(2)When a ruling of fumble is changed to an incomplete forward pass, a foul for intentional grounding can be created in replay
+only if a pre-review announcement was made that a changed ruling would create the foul.
+(3) This item applies to a ruling that a passer muffed a snap or spiked the ball to stop a running clock.
+Item 4. Fumble. Whether a runner lost possession before he was down by contact or had given himself up.
+Notes:
+(1) When an on-field ruling is down by contact, and the runner clearly fumbled the ball, the ball will be awarded at the spot of
+recovery to the team that recovers the ball in the immediate continuing action. If there is no clear recovery, the ruling on
+the field stands.
+(2) The spot of a forward fumble out of bounds, or a fumble that occurs on fourth down, or after the two-minute warning, or
+during a Try, is reviewable regardless of whether on-field officials return the ball to the spot of the fumble, and regardless
+of whether it involves a score, potential score, a change of possession, or the line to gain.
+ARTICLE 3. PLAYS INVOLVING TOUCHING OF EITHER THE BALL OR THE GROUND.
+Item 1. Down by Contact. Whether a player should have been ruled down by contact while in possession of the ball.
+Item 2. Pass or Down by Contact. Whether the ball was thrown before the passer was ruled down by contact.
+Note: When an on-field ruling is down by contact, and the passer clearly throws the ball before being down by contact, the
+ball will be awarded at the spot of the completion or interception. No advance is permitted. If the pass is incomplete, the down
+counts.
+Item 3. Touching of a Forward Pass. Whether a player touched a forward pass.
+Notes:
+(1) Only the fact of touching, and not intent, is reviewable.
+(2) A player touching a pass will remove a foul for offensive or defensive pass interference if the touching occurs away from
+and noticeably before the interference.
+Item 4. Touching of a Kick. Whether a player touched a kick and the spot of touching.
+Note: A foul for running into or roughing the kicker or holder can be removed if the kicked ball was touched before the contact.
+If a pre-review announcement was made that there was no foul because the ball was ruled to be touched, a foul for running
+into or roughing the kicker or holder can be created in replay if the ball was not touched before the contact.
+Item 5. Touching of a Loose Ball. Whether a player touched a loose ball.
+Item 6. Ball Touching the Ground on a Free Kick. Whether a ball hit the ground after being kicked.
+Item 7. Ball Touching the Ground on a Scrimmage Kick. Whether a ball touched the ground before being caught or recovered
+by a punter or holder.
+ARTICLE 4. PLAYS GOVERNED BY THE GOAL LINE.
+Item 1. Ball breaking the plane of the goal line. Whether any part of the ball broke the plane of the goal line while in player
+possession and before the ball should have been declared dead.
+Notes:
+(1) A ruling of a touchdown can be reviewed to determine if the runner fumbled before the ball broke the plane of the goal
+line. If there is no clear recovery in the immediate continuing action, the team that fumbled is awarded the ball at the spot
+of the fumble.
+(2) The dead ball spot is not reviewable to determine solely whether it should be closer to or further from the goal line.
+Item 2. Momentum. Whether a player’s momentum spot was in the field of play or in the end zone (Rule 11-5-1-b, exc. 2). A
+ruling of whether a player’s momentum caused him to enter his end zone is not reviewable.
+Note: For purposes of a replay review, the momentum spot is the spot where the second foot (or other body part other than
+the hands) touched the ground. If that spot is on the goal line or in the end zone, it is a touchback.
+ARTICLE 5. PLAYS GOVERNED BY THE BOUNDARY LINES.
+Item 1. Runner Inbounds. A ruling that a runner was inbounds is reviewable to determine whether the runner touched out of
+bounds.
+Item 2. Runner Out of Bounds. A ruling that a runner was out of bounds is reviewable only to determine: (a) the spot of the ball
+in relation to the line to gain or the goal line at the spot where the runner was ruled to have touched out of bounds; (b) if the runner
+fumbled the ball before taking two additional steps beyond the spot where he was ruled out of bounds; or (c) if the ball was at or
+beyond the line to gain or broke the plane of the goal line in the runner’s possession before taking two additional steps beyond
+the spot where he was ruled out of bounds.
+Item 3. Receiver Out of Bounds. Whether a receiver touched out of bounds is reviewable to determine whether he was eligible
+to touch the ball and whether a defender could legally contact him.
+Item 4. Passer Out of Bounds Before Throwing Pass. A ruling that a player stepped out of bounds before throwing a pass is
+reviewable to determine if he was inbounds when he threw the pass.
+Note: When an on-field ruling is out of bounds, and the passer clearly threw the ball before touching out of bounds, the ball
+will be awarded at the spot of completion or interception. No advance is permitted. If the pass is incomplete, the down counts.
+Item 5. Player Out of Bounds on Scrimmage Kick. Whether a player was out of bounds during a scrimmage kick is reviewable
+to determine the spot of the ball and whether the ball was illegally touched.
+Item 6. Loose Ball. Whether a loose ball touched a boundary line, anything on the boundary line, a pylon, or an object, or the
+spot where a loose ball crossed the sideline.
+Note: Ball That Does Not Touch a Boundary Line. If an on-field ruling that a loose ball touched a boundary line is changed,
+possession can be awarded to a team that recovers the loose ball in the immediate continuing action.
+ARTICLE 6. PLAYS GOVERNED BY THE LINE OF SCRIMMAGE.
+Item 1. Illegal Passes. Whether a forward pass was thrown when the passer was beyond the line of scrimmage, or after the ball
+had crossed the line of scrimmage and returned behind it. Rule 8-1-2, Item 1.
+Item 2. Illegal Kick. Whether a scrimmage kick was from beyond the line of scrimmage, or a second kick was made after the ball
+had crossed the line of scrimmage. Rule 9-1-1.
+ARTICLE 7. PLAYS GOVERNED BY THE LINE TO GAIN. The dead ball spot is reviewable to determine whether it was short of,
+at, or beyond the line to gain.
+Notes:
+(1) For purposes of a replay review, forward progress is determined when a player with control of the ball is contacted by an
+opponent and driven backwards.
+(2) A challenge is successful only if the ruling of whether a new series was awarded is changed, regardless of whether the
+ball was moved closer to the line to gain.
+(3) Following review, the ball will be placed at the correct dead ball spot, but the challenge will be successful only if the line
+to gain ruling is changed.
+ARTICLE 8. NUMBER OF PLAYERS ON THE FIELD. Whether a player is on the field at the snap or when officials rule a dead
+ball foul for too many players in formation. For a player to be off the field, he must touch the ground out of bounds. For a player to
+be on the field, both feet or a body part must touch the ground in the field of play.
+ARTICLE 9. GAME CLOCK. The game clock is reviewable for purposes of restoring time to the clock but not for purposes of
+taking time off the clock.
+Notes:
+(1) Time can be restored to the game clock if the clock operator incorrectly starts the game clock when it should remain
+stopped, provided that the correction occurs before the next legal snap or kick.
+(2) An on-field ruling that time expired during or after the last play of any half, or of an overtime period in the regular season,
+or of an overtime half in the postseason, is reviewable by the Replay Official only when the visual evidence demonstrates
+that the clock should have stopped with two or more seconds remaining. In the first half, time shall be restored only if the
+additional play will be a snap from scrimmage. In the second half, time shall be restored only if the next play will be a snap
+from scrimmage by a team that is trailing by eight points or less, or by either team if the score is tied.
+(3) The game clock is reviewable to determine if it properly expired when on-field officials restore time after the last play of
+any half, or of an overtime period in the regular season, or of an overtime half in the postseason. Visual evidence that a
+clock should have stopped includes any situation when the clock stops by rule after the ball becomes dead. Visual
+evidence that the clock should have stopped for a team timeout occurs when an official starts to raise his or her arm to
+signal a stopped clock.
+(4) The game clock is reviewable to determine if the period expired or the two-minute warning occurred before any snap.
+ARTICLE 10. DISQUALIFICATION OF A PLAYER. The Senior Vice President of Officiating or his or her designee may review a
+decision by on-field officials to disqualify a player. When reviewing a disqualification under this Article other reviewable aspects of
+the play will not be reviewed unless the Replay Official would otherwise have authority to review the play, or it is challenged by a
+head coach.
+ARTICLE 11. OTHER REVIEWABLE PLAYS.
+Item 1. Direction of a Pass. Whether a pass was forward or backward.
+Note: When an on-field ruling is incomplete, and the pass was clearly backward, the ball will be awarded at the spot of
+recovery to the team that recovers the ball in the immediate continuing action. If there is no clear recovery, the ball will be
+awarded to the team last in possession at the spot where possession was lost.
+Item 2. Illegal Forward Pass. Whether a pass was illegally thrown.
+Item 3. Field Goal or Try Attempt. Whether a field goal or Try attempt crossed above the crossbar and inside the uprights is
+reviewable, but only if the ball crosses the plane of the goal post below the top of the uprights, or if the ball touches anything.
+Item 4. Illegal Forward Handoff. Whether a player received a handoff clearly in advance of a player making the handoff.
+Item 5. Ball Touching a Foreign Object. Whether a loose ball touched a scoreboard, guide wire, or any other object.
+Notes:
+(1) The Replay Official can initiate a review for this item at any time during the game.
+(2) If it is determined that the ball hit an object, the down will be replayed from the previous spot, and the game clock will be
+reset to the time when the ball was snapped and will start on the snap.
+SECTION 4 NON-REVIEWABLE PLAYS
+The following aspects of plays are not reviewable:
+(a) Whether an erroneous whistle sounded;
+(b) Whether a ball was illegally batted or kicked;
+(c) Whether a passer intentionally grounded a pass;
+(d) Whether an ineligible receiver was downfield before a pass;
+(e) Whether a receiver was illegally contacted;
+(f) Whether a block was illegal; and
+(g) Any aspect of a play not listed as reviewable in Section 3 of this Rule.
+SECTION 5 GAME CLOCK ADMINISTRATION
+ARTICLE 1. RESETTING GAME CLOCK. When a ruling is changed in replay, the clock status following review is determined by
+Rule 4-3, and the game clock will be reset to the time when the ball should have been declared dead. The game clock is not reset
+if the on-field ruling is not changed in replay.
+ARTICLE 2. 10-SECOND RUNOFF. When a changed ruling results in a running clock, or a clock that would have otherwise
+restarted before the next snap, for plays that begin after the two-minute warning, the clock is reset to the time when the play should
+have ended, and the clock will run for 10 seconds from the reset time. If less than 10 seconds remain in the half or the game, the
+half or the game is over.
+Note: Neither team may decline a 10-second runoff under this Article, but either team can avoid the 10-second runoff by
+taking a charged team timeout. If the 10-second runoff is avoided, the game clock will be reset to the time when the play
+should have ended and will start on the snap.
+SECTION 6 TIMEOUTS FOLLOWING REVIEW
+ARTICLE 1. UNSUCCESSFUL CHALLENGE. A team that makes an unsuccessful challenge is charged a team timeout. If a team
+takes a team timeout and then unsuccessfully challenges a play, it is charged a second timeout. A challenge is considered
+successful if any reviewable aspect of the play is changed.
+ARTICLE 2. CHARGED TIMEOUT RESTORED. A charged timeout taken after the two-minute warning of either half will be
+restored if a review changes the ruling. An injury timeout can be charged or restored if a ruling changed in replay would affect
+whether an injury timeout is charged.
+SECTION 7 FOULS
+ARTICLE 1. PENALTY ADMINISTRATION. Penalty administration, including the number of the down, yardage, the number of
+the fouling player, and the spot of a foul, is reviewable.
+ARTICLE 2. FOUL NULLIFIED BY A CHANGED RULING. A foul will be nullified when a necessary aspect of the foul is changed
+in replay. A foul can be created following a review if the reviewable aspect creates the foul, or if the Referee announced before
+the review that there was no foul on the play because of a specific ruling that is changed in the review.
+ARTICLE 3. ENFORCEMENT OF FOULS FOLLOWING A CHANGED RULING
+Item 1. Major Fouls. When a ruling is changed in replay, any foul that occurred after the ball should have been declared dead is
+disregarded except for personal fouls and unsportsmanlike conduct fouls. Live ball fouls that occurred on the reviewed play may
+be enforced if they occurred before the ball should have been declared dead.
+Item 2. Pre-Snap Fouls Before Challenge. Pre-snap fouls, other than personal fouls and unsportsmanlike conduct fouls, that
+occur before a replay review will be ignored if the ruling on the previous play is changed.
+Item 3. Head Coach’s Ability to Change Penalty Decision. If a ruling is changed in replay, a head coach can change a decision
+whether to accept or decline a penalty that was made before the review.
+SECTION 8 LOSS OF COMMUNICATION
+If communications between the officials and the League office are lost, the Referee will stay at the on-field monitor for one minute
+while communications are being restored. If communications are not restored within one minute, the Referee will conduct the
+replay review in consultation with the Replay Official. If communications are restored during the review, the League office will
+review the play as normal.
+SECTION 9 GAME ADMINISTRATION, CONSULTATION, AND ASSISTANCE
+The Replay Official or designated members of the Officiating department may provide information regarding the correct application
+of the playing rules, advise, consult with, or assist the on-field officials on specific, objective aspects of a play when clear and
+obvious video evidence is present, and/or address game administration issues, including, but not limited to:
+(a) penalty enforcement;
+(b) the proper down;
+(c) timing or spot of a foul;
+(d) the game clock;
+(e) possession;
+(f) completed, intercepted, or the direction of any pass;
+(g) touching of a loose ball, boundary line, goal line, or end line;
+(h) location of the football or a player in relation to a line or the pocket area;
+(i) down by contact (when a player is not ruled down by contact on the field);
+(j) if a foul is called for:
+1. roughing the passer based only on a hit to the passer’s head or neck area and there is clear and obvious video
+evidence that the defender did not make any contact with the passer’s head or neck area;
+2. intentional grounding and there is clear and obvious video evidence that the passer was out of the pocket area;
+3. unnecessary roughness based only on:
+a. forcibly contacting a runner when he is out of bounds and there is clear and obvious video evidence that the
+runner was not out of bounds; or
+b. forcibly hitting a defenseless player’s head or neck area, and there is clear and obvious video evidence that
+the defender did not make any contact with the defenseless player’s head or neck area;
+4. twisting, pulling or turning the facemask or helmet opening, and there is clear and obvious video evidence that the
+player did not make any contact with the hand to the opponent’s facemask or helmet opening;
+5. a horse-collar tackle, and there is clear and obvious video evidence that the player did not contact the inside collar
+of the back or the side of the opponent’s shoulder pads or jersey with the hand, or contact the jersey at the name
+plate or above with the hand;
+6. tripping, and there is clear and obvious video evidence that the player’s leg or foot did not contact the opponent; or
+7. roughing or running into the kicker, and there is clear and obvious video evidence that the defender who contacted
+the kicker touched the kick in flight.
+Nothing in this Article precludes a head coach or Replay Official from initiating a challenge or review otherwise allowed under Rule
+15, Section 1.

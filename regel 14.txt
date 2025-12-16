@@ -1,0 +1,345 @@
+RULE 14 PENALTY ENFORCEMENT
+(Governing all cases not otherwise specifically provided for)
+SECTION 1 GENERAL RULES
+ARTICLE 1. REFUSAL OF PENALTIES. Unless expressly prohibited, the penalty for any foul may be declined by the offended
+team and play proceeds as though no foul had been committed. The yardage distance for any penalty may be declined, even
+though the penalty is accepted. The offended team may not change its decision to accept or decline a penalty after the penalty
+has been fully administered or the ball has been made ready for play unless Rule 15-7-3-Item 3 applies. In all situations, a
+disqualified or suspended player must be removed, regardless of the number of fouls or their enforcement, including if the penalty
+is declined.
+ARTICLE 2. NUMBER OF DOWN AFTER PENALTY.
+Item 1. Foul by Team A. If the ball is behind the line to gain after the enforcement of a distance penalty for a foul by Team A that
+occurs prior to (between downs) or during a play from scrimmage, the number of the ensuing down remains the same, unless it is
+a combination penalty involving loss of down (see Item 2).
+Item 2. Combination Penalty. A combination penalty involving both distance and loss of down is enforced for the following fouls:
+(a) Illegal forward pass from behind or beyond the line (8-1-2)
+(b) Intentional grounding (8-2-1)
+(c) Backward pass that conserves time (8-7-2)
+(d) Illegally handing the ball forward (8-7-4)
+(e) Illegal punt, drop kick, or place kick (9-1-1)
+(f) Illegal batting of the ball (12-5-1)
+(g) Illegal kicking of the ball (12-5-2)
+If a loss-of-down penalty is enforced prior to fourth down, the number of the ensuing down is one greater than that of the previous
+down. If it is enforced on fourth down, the ball is awarded to Team B; if there is a combination penalty on fourth down, the distance
+penalty is also enforced.
+Item 3. Line to Gain and Change of Possession. If a change (or multiple changes) of possession is negated by enforcement of
+a penalty against Team A during a play from scrimmage, the line to gain for Team A remains the same.
+Item 4. Ball in Advance of Line to Gain. If the ball is in advance of the line to gain after the enforcement of a distance penalty
+for a foul by Team A during a play from scrimmage, it is first-and-10 for Team A. It is also first-and-10 after enforcement for a dead
+ball foul (Section 4, Article 9) by Team A at the end of a play from scrimmage when there has not been a change of possession.
+Exception: A foul against an official, a team initiating a challenge when it has exhausted its timeouts, and a fifth and
+subsequent excess timeout for injury, regardless of when they occur, are always treated as a foul between downs.
+Item 5. Foul by Team B. After a penalty for a foul by Team B prior to, during, or after a play from scrimmage, the ensuing down
+is first-and-10 for Team A.
+Exceptions:
+(1) Offside
+(2) Encroachment
+(3) Neutral zone infraction
+(4) Delay of game
+(5) Illegal substitution
+(6) Excess time out
+(7) Running into the kicker
+(8) More than 11 players on the field at the snap
+(9) More than 11 players in the formation prior to the snap
+(10) Illegal formation by the defense during a scrimmage kick play
+For the above exceptions, the number of the down and the line to gain remain the same unless a distance penalty places the ball
+on or in advance of the line to gain, in which case it is first-and-10 for Team A.
+Item 6. Foul After Change of Possession. If there is a foul, including a dead ball foul, after team possession has changed during
+a down, following enforcement of a distance penalty, it is first-and-10 for the team that was in possession at the time of the foul.
+Item 7. Foul Between Downs. If there is a foul between downs, the down remains the same, unless enforcement of the foul
+results in a first down.
+Item 8. Double Fouls. If there is a double foul during the down, and the fouls offset, the down is replayed, and the number of the
+down remains the same.
+ARTICLE 3. CHOICE OF PENALTIES (MULTIPLE FOULS). If there is a multiple foul (3-13-1-d) during the down, only one
+penalty may be enforced after the Referee has explained the alternatives to the offended team.
+Exceptions:
+(1) A foul against an official, a team initiating a challenge when it has exhausted its timeouts, and a fifth and subsequent
+excess timeout for injury are not part of a multiple foul and will be enforced in addition to any other foul.
+(2) If there is a personal foul that is also defensive pass interference, both fouls may be enforced.
+SECTION 2 SPECIAL ENFORCEMENT FOR PENALTIES
+ARTICLE 1. HALF-DISTANCE PENALTY. If the enforcement of a distance penalty would move the ball more than half the
+distance from the spot of enforcement to the offender’s goal line, the penalty shall be half the distance from the spot of enforcement
+to its goal line. This general rule supersedes any other general or specific enforcement of a distance penalty.
+Exceptions:
+(1) See Rule 8-2-1 for enforcement for intentional grounding.
+(2) See Rule 12-3-4 for enforcement for a palpably unfair act.
+ARTICLE 2. FOUL BEHIND A GOAL LINE.
+(a) When the spot of enforcement for a foul by the defense is behind the offensive goal line, a distance penalty is enforced from
+the goal line. However, if the play results in a touchback, the penalty is enforced from the 20-yard line, or from the 35-yard
+line or 20-yard line (as applicable by Rule 6-1-5) if the impetus was from a free kick. See Section 4, Article 6 for fouls during
+a backward pass or fumble and Section 4, Article 4 (b), Note, for exception when a player’s momentum carries him into the
+end zone.
+(b) When the spot of enforcement for a foul by the offense is behind the offensive goal line, it is a safety if the defense elects to
+enforce the penalty at that spot.
+(c) When the spot of enforcement for a foul by the offense is behind the defensive goal line, a distance penalty is enforced from
+the goal line.
+ARTICLE 3. FOUL DURING A SCORE. If a team commits a personal or unsportsmanlike conduct foul, or a palpably unfair act,
+during a down in which the opponent scores a field goal or safety, the penalty is enforced on the succeeding free kick (unless the
+score resulted from the enforcement). On a touchdown, the penalty, whether a live ball or dead ball foul or a foul between downs,
+is enforced on the Try. On a successful Try kick, any foul by Team B that does not result in a re-Try or negate a score may be
+enforced on the succeeding free kick. In all scoring situations, the offended team also has the option of accepting the penalty with
+customary enforcement and beginning a new series, or replaying the down, instead of counting the points.
+ARTICLE 4. PERSONAL FOULS AND UNSPORTSMANLIKE CONDUCT FOULS. If any team commits a personal foul or
+unsportsmanlike conduct foul that is not part of a double foul, and the opponent has possession at the end of the down,
+enforcement may be from the dead ball spot in addition to any other enforcement options provided by rule.
+SECTION 3 SPOT FROM WHICH PENALTY IS ENFORCED
+ARTICLE 1. GOVERNING PROVISIONS. The general provisions of Rule 14 govern all spots of enforcement, except for specific
+enforcements designated elsewhere in these rules.
+ARTICLE 2. FOUL BY NON-PLAYER. Penalties for fouls committed by non-players shall be enforced as provided for in Rule 13.
+ARTICLE 3. ENFORCEMENT SPOT NOT GOVERNED. When the spot of enforcement is not governed by a general or specific
+rule, it is the spot of the foul.
+ARTICLE 4. SPOTS OF ENFORCEMENT. The spot of enforcement is the spot at which a penalty is enforced. The spots of
+enforcement are as follows:
+(a) The previous spot: The spot at which the ball was last put in play.
+(b) The spot of the foul: The spot at which a foul was committed or, by rule, is considered to have been committed.
+(c) The spot of a backward pass or a fumble: The spot at which the backward pass or fumble occurred during the down in which
+there was a foul.
+(d) The dead ball spot: The spot at which the ball became dead.
+(e) The succeeding spot: The spot at which the ball will next be put in play (i.e., the spot of the ball after enforcement for a foul,
+or, if there has been no foul, the spot at which the ball became dead).
+(f) The other Try spot: The yard line of the other Try option, as determined by any previously enforced penalties, if applicable.
+(g) The spot of a change of possession: The spot at which possession is gained by or awarded to the opponent.
+ARTICLE 5. BASIC SPOT. The basic spot is a reference point that is used to determine the spot of enforcement for fouls
+committed pursuant to the Three-and-One Method of Enforcement. It is applicable for fouls committed during (i) a running play or
+(ii) a backward pass or fumble.
+(a) For fouls committed during a running play which is not followed by a change of possession, the basic spot is the dead ball
+spot.
+(b) For fouls committed during a running play which is followed by a change of possession, the basic spot is the spot where
+possession is lost.
+(c) For fouls committed during a backward pass or fumble, the basic spot is the spot of the backward pass or the spot of the
+fumble.
+ARTICLE 6. THREE-AND-ONE METHOD OF ENFORCEMENT. For fouls committed during a run, a backward pass, or a fumble,
+the penalty is enforced from the basic spot if:
+(a) the defense fouls in advance of the basic spot;
+(b) the defense fouls behind the basic spot; or
+(c) the offense fouls in advance of the basic spot.
+If the offense fouls behind the basic spot, enforcement is from the spot of the foul (three-and-one method of enforcement).
+Exceptions for fouls committed by the offense:
+(1) Fouls committed by the offense behind the line of scrimmage are enforced from the previous spot.
+(2) If the offense commits a foul behind its own goal line, it is a safety if the defense elects to enforce the penalty at that spot.
+See Rule 8-2-1 for enforcement for intentional grounding.
+(3) If the offense commits a foul beyond the line of scrimmage and the basic spot is behind the line of scrimmage,
+enforcement is from the previous spot. If the dead ball spot is in the offensive end zone, it is a safety, regardless of where
+the foul occurs.
+(4) If the offense commits a foul in the defense’s end zone prior to scoring a touchdown, enforcement is from the goal line.
+Exception for fouls committed by the defense:
+(1) When the basic spot is behind the line of scrimmage, and the defense has committed a foul either behind or beyond the
+line of scrimmage, the penalty is enforced from the previous spot.
+SECTION 4 SPOTS OF ENFORCEMENT
+ARTICLE 1. FOUL BEFORE OR AT THE SNAP.
+Item 1. Before the Snap. A foul that occurs prior to the snap is enforced from the succeeding spot, and the down remains the
+same, unless enforcement of the foul results in a first down.
+Item 2. At the Snap. A foul that occurs at the snap is enforced from the previous spot, and the down is repeated, unless
+enforcement of the foul results in a first down.
+ARTICLE 2. FOUL COMMITTED DURING RUNNING PLAY. For a foul committed during a running play when there is not a
+subsequent change of possession during the down, the basic spot is the dead ball spot. The three-and-one method of enforcement
+is used (see Section 3, Article 6).
+Note: A foul during a run prior to a forward pass or kick from behind the line is enforced as a foul during a passing play or
+during a scrimmage kick.
+ARTICLE 3. FOUL COMMITTED DURING RUNNING PLAY BEFORE CHANGE OF POSSESSION. When a foul occurs during
+a running play, and the run in which the foul occurs is followed by a change of possession, the basic spot is the spot where
+possession is lost. The three-and-one method of enforcement is used (see Section 3, Article 6).
+(a) If the foul is by the defensive team, the ball reverts to the offensive team prior to enforcement of the foul.
+(b) If the foul is by the offensive team, the defense must decline the penalty to retain possession. However, if the foul by the
+offense was a personal foul or unsportsmanlike conduct foul, the defense retains possession, and enforcement is from the
+dead ball spot. If the defense subsequently loses possession, the penalty is enforced from the spot where possession
+changed, and the defense retains possession.
+(c) If there are multiple fouls by the defense, the enforcement shall be that which is most beneficial to the offense.
+ARTICLE 4. FOUL COMMITTED AFTER CHANGE OF POSSESSION (END ZONE ENFORCEMENT). If there is a foul by either
+team after a change of possession, and the dead ball spot is in Team B’s end zone, enforcement shall be as follows:
+(a) Fouls by Team A:
+(1) If the impetus was provided by Team B, enforcement is from the goal line. See Note below for exception when a player’s
+momentum carries him into the end zone.
+(2) If the impetus was provided by Team A, enforcement is from the 20-yard line, or from the 35-yard line or 20-yard line (as
+applicable by Rule 6-1-5) if the impetus was from a free kick.
+(b) Fouls by Team B (Team A impetus):
+(1) If Team B attempts to advance the ball, and the spot of its foul is in the end zone, the result is a safety.
+(2) If Team B does not attempt to advance the ball, and its foul occurs in the end zone, enforcement is from the 20-yard line,
+or from the 35-yard line or 20-yard line (as applicable by Rule 6-1-5) if the impetus was from a free kick.
+(3) If the spot of its foul is in the field of play, the penalty is enforced from either the spot of the foul or the touchback spot
+(20 or 35), whichever is least beneficial to Team B, regardless of whether Team B attempts to advance the ball.
+Note: If a Team B player’s original momentum carries him into his end zone, where the ball is declared dead in his team’s
+possession, the dead ball spot is considered to be the spot at which the player established possession. See 11-5-1-Exc. 2.
+(c) Fouls by Team B (Team B impetus):
+(1) Regardless of whether the foul is in the field of play or in the end zone, the result is a safety.
+ARTICLE 5. FOUL COMMITTED DURING PASSING PLAY. If there is a foul by either team from the time of the snap until a
+forward pass thrown from behind the line ends, the penalty is enforced from the previous spot. A pass play ends and a running
+play begins at the instant that a pass is caught.
+Exceptions:
+(a) Intentional grounding is a loss of down at the spot of the foul, or a loss of down and a 10-yard penalty from the previous
+spot, whichever is less beneficial for the offense. If the foul occurs less than 10 yards behind the line of scrimmage, but
+more than half the distance to the goal line, the ball shall be placed at the spot of the pass. (If the pass is thrown from
+the end zone, it is a safety).
+(b) Pass interference by the defense is enforced at the spot of the foul. If the spot of the interference is behind the defensive
+team’s goal line and the previous spot was on or outside the defense’s two-yard line, then it is first down for the offensive
+team on the defense’s one-yard line at the inbounds spot corresponding to the spot of the interference, or, if the previous
+spot was inside the defense’s two-yard line, the penalty shall be halfway between the previous spot and the goal line,
+and it is first down for the offensive team. See Rule 8, Section 5, Penalty.
+(c) It is a safety when the offensive team commits a foul behind its own goal line if the defense elects to enforce the penalty
+at that spot.
+(d) If there is a personal foul or unsportsmanlike conduct foul by the defense prior to the completion of a forward pass thrown
+from behind the line, enforcement is from the previous spot or the dead ball spot, whichever is more beneficial to the
+offense. If the play results in a score for the offense, enforcement is on the Try. If the passing team is fouled and
+subsequently loses possession after a completion, the passing team retains possession of the ball, and enforcement is
+from the previous spot.
+(e) If there is a personal foul or unsportsmanlike conduct foul by the offense prior to the offense losing possession during a
+pass play or a subsequent running play, enforcement is from the dead ball spot. However, if the defense subsequently
+loses possession, the penalty is enforced from the spot of the defense's catch or recovery, and the defense retains
+possession. This also applies to a personal foul or unsportsmanlike conduct foul by the offense prior to a forward pass
+thrown from behind the line when the offense fails to make the line to gain.
+Notes:
+(1) The penalty for a forward pass from behind the line after the ball has been beyond the line, or for a second forward pass
+from behind the line, is enforced from the previous spot, unless the spot of the pass is behind the passer’s goal line, in
+which case it is a safety if the defense elects to enforce the penalty at that spot.
+(2) If a forward pass is thrown from beyond the line of scrimmage, or when there is no line of scrimmage, it is a foul during
+a running play.
+ARTICLE 6. FOUL DURING A BACKWARD PASS OR FUMBLE. If there is a foul by either team during a backward pass or
+fumble, the basic spot is the spot of the backward pass or fumble. The three-and-one method of enforcement is used (see Section
+3, Article 6).
+(a) When the spot of the backward pass or fumble is beyond the line of scrimmage, or when there is not a line of scrimmage,
+and there is a foul during the backward pass or fumble, the basic spot is the spot of the backward pass or the spot of the
+fumble. The three-and-one method of enforcement is used. See 14-3-6.
+(b) When the spot of a backward pass or fumble is behind the line of scrimmage, all fouls committed by either team, including
+a foul by Team B in Team A’s end zone, are enforced from the previous spot, except a foul by the offense in its end zone
+is a safety if the defense elects to enforce the penalty at that spot.
+(c) If there is a personal foul or unsportsmanlike conduct foul by the offense during a fumble or backward pass that is
+recovered by the defense, enforcement is from the dead ball spot. If the recovering team subsequently loses possession,
+the penalty is enforced from the spot of its recovery, and it retains possession. This also applies to a personal foul or
+unsportsmanlike conduct foul by the offense during a fumble or backward pass that is recovered by the offense, and the
+offense fails to make the line to gain.
+Notes:
+(1) If Team B gains possession in its end zone, and the impetus was provided by Team A, if Team B fumbles or throws a
+backward pass in the end zone and fouls while the ball is loose, the spot of the fumble or the backward pass is considered
+to be the B20-yard line, or the B35-yard line or B20-yard line (as applicable) if the impetus was from a free kick.
+(2) If a Team B player’s original momentum carries him into his end zone, where he fumbles the ball, the spot of the fumble
+is considered to be the spot at which the player established possession. See 11-5-1-Exc. 2.
+ARTICLE 7. FOUL DURING FREE KICK PLAY. If there is a foul during a free kick, enforcement is from the previous spot, and
+the free kick is made again. However, if the kicking team commits a foul prior to the end of the kick, or the receiving team commits
+a foul at or during a kickoff or safety kick, and the receiving team retains possession throughout the down, the offended team will
+have the option of enforcing the penalty at the previous spot and replaying the down or enforcing the penalty yardage from the
+dead ball spot. The dead ball spot for free kicks that result in a touchback is the 20-yard line or 35-yard line. (See Rule 6, Section
+1, Article 5).
+Exceptions:
+(a) A personal foul (blocking) after a fair catch signal is enforced from the spot of the foul or the previous spot if it occurs in
+Team B’s end zone;
+(b) A foul for fair catch interference is enforced from the spot of the foul;
+(c) A foul for interference with the opportunity to make a catch is enforced from the spot of the foul;
+(d) A foul for an invalid fair catch signal is enforced from the spot of the foul or the previous spot if it occurs in Team B’s end
+zone;
+(e) A foul for an illegal double team block, or an illegal wedge during the free kick, is enforced from the spot of the foul, or
+the previous spot if the foul occurs in Team B’s end zone.
+(f) For a free kick out of bounds or not reaching the landing zone, see 6-2-4.
+(g) For a free kick illegally touched, see 6-2-5.
+Note: In (a), (b), (c), and (e) above, if the foul is not part of a double foul and the opponent has possession at the end of the
+down, the foul may be enforced from the dead ball spot. See 14-2-4.
+A free kick ends when Team B establishes possession. Fouls by Team A prior to the time that Team B establishes possession
+are offensive fouls. If Team A legally recovers a free kick, there is no change of possession. After Team B establishes possession,
+a running play begins, and fouls that occur thereafter are enforced from the dead ball spot or the spot of the foul (three-and-one
+method).
+ARTICLE 8. FOUL DURING SCRIMMAGE KICK PLAY. If there is a foul from the time of the snap until a legal scrimmage kick
+ends, enforcement is from the previous spot. This includes a foul during a run prior to a legal kick, and a foul by the kicking team
+during a missed field goal attempt.
+Exceptions:
+(1) If the offensive team commits a foul in its own end zone, it is a safety if the defense elects to enforce the penalty at that
+spot.
+(2) If there is a foul by the kicking team, and the receiving team retains possession throughout the down, the receiving team
+will have the option of taking the penalty at the previous spot and replaying the down, or adding the penalty yardage on
+to the dead ball spot.
+Notes:
+(a) The dead ball spot for scrimmage kicks that result in a touchback is the 20-yard line (see 11-4-2-b for a missed field
+goal from beyond the 20-yard line).
+(b) If there is a foul for an illegal touch inside the five-yard line, the receiving team also has the option of accepting a
+touchback.
+(c) If there is a foul by the kicking team during a missed field goal attempt where the receiving team is awarded the ball
+(see 11-4-2), enforcement is from the succeeding spot.
+(3) Penalties for fair catch interference, interference with the opportunity to make a catch, an invalid fair catch signal, or a
+personal foul (blocking) after a fair catch signal are enforced from the spot of the foul. If the personal foul is not part of a
+double foul and the opponent has possession at the end of the down, it may be enforced from the dead ball spot. See
+14-2-4.
+(4) Except for fouls that are committed in an attempt to block the kick (such as running into or roughing the kicker, defensive
+holding (pull-and-shoot), leverage, leaping, and pushing teammate(s) into the offensive formation), if the receiving team
+commits a foul during a scrimmage kick play that crosses the line of scrimmage, the penalty for its infraction will be
+enforced as if it had been in possession of the ball at the time the foul occurred (a post-possession foul), provided that
+the receiving team does not lose possession of the ball at any time during the down. The penalty shall be enforced from
+whichever of the following spots is least beneficial to the receiving team:
+(a) the end of the kick; or
+(b) the spot of the foul.
+If the foul occurs in the end zone, it is deemed to have occurred at the 20-yard line, unless enforcement results in a safety
+(14-4-4).
+(5) For enforcement of a personal or unsportsmanlike conduct foul on a play that results in a score, see 14-2-3; for an illegal
+bat, see 12-5-1; and for illegally kicking a loose ball, see 12-5-2.
+When Team B establishes possession of the ball, a scrimmage kick ends, and a running play begins, and fouls that occur thereafter
+are enforced from the dead ball spot or the spot of the foul (three-and-one method, 14-3-6).
+ARTICLE 9. DEAD BALL FOUL AND FOUL BETWEEN DOWNS. A dead ball foul is a foul that occurs in the continuing action
+after a down ends, or a taunting foul that occurs at any time. If the foul occurs simultaneously with the ball becoming dead, it is
+considered a dead ball foul. The penalty for a dead ball foul is enforced from the succeeding spot, and the down counts.
+A foul between downs is a foul that occurs after the end of the down and after any continuing action resulting from the down, but
+prior to the next snap or free kick. The penalty for a foul between downs is enforced from the succeeding spot, and the down
+counts, but it cannot be combined with a live ball foul or a dead ball foul to create a multiple or double foul. A foul between downs
+is always enforced separately from any other foul. A foul against an official, regardless of when it occurs, is always treated as a
+foul between downs. See 12-3-1-e-Pen.
+Exception: If there is a personal, unsportsmanlike conduct, or taunting foul by either team following the end of the second or
+fourth periods, the penalty yardage will be enforced on the second-half kickoff or the kickoff in overtime, unless it is part of a
+double foul (See Section 5).
+Item 1. Dead Ball Foul by Team A. If there is a dead ball foul by Team A after a down in which Team A has made a first down,
+after enforcement of the penalty it will be first-and-10 for Team A. If there is a foul between downs after a down in which Team A
+has made a first down, after enforcement of the penalty it will be first-and-25 for Team A.
+Item 2. Dead Ball Fouls by Both Teams. Dead ball fouls by both teams are offset at the succeeding spot, and the down counts,
+but any disqualified player or players must be removed pursuant to Rule 5, Section 2, Article 7.
+Item 3. Live Ball and Dead Ball Fouls. Live ball fouls and dead ball fouls combine to create double fouls or multiple fouls, and
+all customary rules for enforcement apply.
+Exceptions:
+(1) If there is a 5-yard versus 15-yard double foul on the last play of a half, and the 15-yard penalty is for a dead ball foul
+(personal, unsportsmanlike conduct, or taunting) by either team, the penalty yardage will be enforced on the second half
+kickoff or the kickoff to start overtime. There will be no extension of the period.
+(2) If the scoring team commits a dead ball foul after a score, and its opponent’s live ball foul is not for a personal foul or
+unsportsmanlike conduct, the opponent’s foul is disregarded, the score counts, and the offensive team’s dead ball foul is
+enforced on the Try or succeeding free kick if there is no Try. If the opponent’s foul is a personal foul or unsportsmanlike
+conduct, the score counts, and the fouls offset after the play.
+(3) If the only foul by the defense is a dead ball foul on the last play of the half (“clean hands end of half”). If the foul by the
+offense is not a personal foul or unsportsmanlike conduct, it is disregarded, and the dead ball personal foul or dead ball
+unsportsmanlike conduct foul by the defense will be enforced on the second half kickoff or to start overtime. If both
+teams’ fouls are for a personal foul or unsportsmanlike conduct, those fouls offset at the end of the down.
+SECTION 5 FOULS BY BOTH TEAMS (DOUBLE FOULS)
+ARTICLE 1. DOUBLE FOUL WITHOUT CHANGE OF POSSESSION. If there is a double foul (3-13-1-e) during a down in which
+there is not a change of possession, the penalties are offset, and the down is replayed at the previous spot. If it is a scrimmage
+down, the number of the next down and the line to gain is the same as for the down in which the fouls occurred. Penalties for
+double fouls cannot be declined by either team.
+Exceptions:
+(1) If one or more fouls by one team includes a 15-yard penalty, and the penalty for the foul or fouls committed by the other
+team is for a five-yard penalty without an automatic first down, a loss of down, or a 10-second runoff (15 yards versus
+five yards), or that is not a spot foul, the 15-yard penalty is enforced from the previous spot, and the five-yard penalty is
+disregarded.
+(2) Five versus 15 enforcement cannot be declined by the team that committed the minor foul, except as described in (3)
+below. See 4-8-2-h and 14-4-9-Item 3-Exc. 1 for dead ball fouls at the end of a half.
+(3) If one of the fouls is a dead ball foul for delay of game for spiking the ball and the opponent’s foul is a live ball foul, the
+team that committed the delay of game foul, in addition to Article 1 above, will have the option to decline the foul
+committed by its opponent and be assessed the penalty for delay from the dead ball spot.
+(4) If both fouls are dead ball fouls or are treated as such (14-4-9), the penalties are offset, and the ball is next put in play at
+the succeeding spot, unless the dead ball fouls occur after the ball has been made ready for play, in which case five
+versus 15 enforcement applies.
+(5) 14-4-9-Item 3 exceptions for dead ball fouls at the end of a half or after a score.
+ARTICLE 2. DOUBLE FOUL WITH A CHANGE OF POSSESSION.
+Item 1. If there is a double foul during a down in which there is a change or changes of possession, including if one of the fouls
+is a post-possession foul by Team B during a scrimmage kick, the team last gaining possession will keep the ball after
+enforcement for its foul, provided it did not foul prior to last gaining possession (“clean hands”).
+Exceptions:
+(1) If Team A fouls during a free kick or scrimmage kick prior to the change of possession, Team B may elect to replay the
+down at the previous spot.
+(2) If a safety results from the enforcement of a foul by Team B, the down is replayed at the previous spot.
+(3) If the offense’s foul is for a personal foul or unsportsmanlike conduct before the change of possession, the penalties
+offset, and the team last in possession shall retain the ball at the spot where its foul would be enforced if it was the only
+foul. In this event, (1) and (2) above also apply.
+Item 2. If the team last in possession does not have "clean hands" when it establishes possession, the penalties offset, and the
+down is replayed at the previous spot.
+ARTICLE 3. DOUBLE FOUL AFTER A CHANGE OF POSSESSION.
+Item 1. If there is a double foul during a down in which there is a change or changes of possession including if one of the fouls is
+a post-possession foul by Team B during a scrimmage kick, and if both teams foul after the last change of possession (double
+foul after a change of possession), the penalties are offset, and the team last in possession shall retain the ball at the spot where
+its foul would be enforced if it was the only foul. If the spot is normally a touchback, the ball is placed on the 20-yard line, or the
+35-yard line or 20-yard line (as applicable by Rule 6-1-5) if the impetus was from a free kick. If it is normally a safety, the ball is
+placed on the one-yard line.
+Item 2. If there is a double foul after a change of possession and the offense also fouled prior to the change of possession, the
+enforcement outlined in this Article, Item 1 shall apply. If this is the case on a kicking play, Team B may elect to replay the down
+at the previous spot. In all situations, if the team last in possession does not have "clean hands" when it establishes possession,
+the penalties offset, and the down is replayed at the previous spot.

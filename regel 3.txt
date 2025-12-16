@@ -1,0 +1,412 @@
+RULE 3 DEFINITIONS
+SECTION 1 APPROVED RULING (A.R.)
+An Approved Ruling (A.R.) is a written decision on a given statement of facts and serves to illustrate the intent and application of
+a rule. Supplemental Notes are used to amplify a rule. A Note is more specific and applies to a particular situation. It is also used
+to indicate pertinent references to other rules.
+An Official Ruling (O.R.) is a ruling made in the interim between the annual rules meetings and is official only during the current
+season.
+SECTION 2 THE BALL AND POSSESSION OF THE BALL
+ARTICLE 1. DEAD BALL. A dead ball is one that is not in play. The time period during which the ball is dead is between downs.
+This includes the interval during all timeouts, including intermission, and from the time the ball becomes dead until it is legally put
+in play.
+ARTICLE 2. BALL READY FOR PLAY. A dead ball is ready for play while the 40-second play clock is running when the ball is
+placed down by an official at the spot where the ball will next be put in play, or when the Referee signals for the 25-second play
+clock to start.
+ARTICLE 3. LIVE BALL. A live ball is a ball that is in play. A dead ball becomes a live ball when it is:
+(a) legally kicked on a free kick down (6-1-1; 6-1-3; 6-1-6);
+(b) legally snapped on a scrimmage down (7-1-1; 7-6-1); or
+(c) legally kicked on a fair catch kick down (10-2-4;11-4-3).
+It continues in play until the down ends (3-8-1).
+ARTICLE 4. LOOSE BALL. A loose ball is a live ball that is not in player possession, i.e., any ball that has been kicked, passed,
+or fumbled. A loose ball is considered to be in possession of the team (offense) whose player kicked, passed, or fumbled it. It is a
+loose ball until a player secures possession or until the ball becomes dead. If it has not yet struck the ground, a loose ball is in
+flight.
+ARTICLE 5. FUMBLE. A fumble is any act, other than passing, successful handing, or legally kicking the ball, which results in a
+loss of player possession. It is not a fumble if the player immediately regains control of the ball. A fumble ends when a player of
+either team possesses the ball, or when the ball is dead. The use of the term fumble always means that the ball was in possession
+of a player when the act occurred (8-7-3).
+Note: An intentional fumble that causes the ball to go forward is a forward pass and may be illegal (8-1-1-Pen. a–c).
+ARTICLE 6. MUFF. A muff is the touching of a loose ball by a player in an unsuccessful attempt to obtain possession of it.
+Note: Any ball intentionally muffed forward is a bat and may be a foul (3-3; 12-5-1; 3-14).
+Touching the ball refers to any contact with the ball. There is no distinction between a player touching the ball with his hands, or
+with any other part of his body, including his hair, except as specifically provided for (9-2-2).
+(a) See 6-1-4, 6-1-6 and 6-2-5 for touching a free kick.
+(b) See 6-2-4 for touching a free kick before it goes out of bounds between the goal lines or in advance of the front yard line of
+the landing zone.
+(c) See 8-1-8 for ineligible offensive player touching a forward pass on, behind, or beyond the line.
+(d) See 9-2-1, 9-3-1 for touching a scrimmage kick on or behind the line, and 9-2-4 for being pushed into a kick by an opponent.
+(e) See 11-4-2 for touching a kick during an attempted field goal.
+(f) Simultaneous touching by two opponents in an attempt to establish possession of a ball that has been kicked is treated as a
+first touch by the kicking team.
+ARTICLE 7. PLAYER POSSESSION.
+A player is in possession when he is inbounds and has control of the ball with his hands or arms.
+To gain possession of a loose ball that has been caught, intercepted, or recovered, a player (a) must have complete control of the
+ball with his hands or arms and (b) have both feet or any other part of his body, other than his hands, completely on the ground
+inbounds, and, after (a) and (b) have been fulfilled, clearly perform any act common to the game (e.g., extend the ball forward,
+take an additional step, tuck the ball away and turn upfield, or avoid or ward off an opponent). It is not necessary that he commit
+such an act, provided that he maintains control of the ball long enough to do so. This rule applies in the field of play, at the sideline,
+and in the end zone.
+Notes:
+(1) Movement of the ball does not automatically result in loss of control.
+(2) If a player who has completed the first two, but not the third requirement for possession, contacts the ground and loses
+control of the ball, there is no possession if the ball hits the ground before he regains control, or if he regains control out
+of bounds. If a player would have caught, intercepted, or recovered a ball inbounds, but is carried out of bounds, player
+possession will be granted (8-1-3-Note 5).
+(3) If any part of the foot hits out of bounds during the normal continuous motion of taking a step (heel-toe or toe-heel), then
+the foot is out of bounds. A player is inbounds if he drags his foot, or if there is a delay between the heel-toe or toe-heel
+touching the ground.
+The terms catch, intercept, recover, advance, and fumble denote player possession (as distinguished from touching or muffing).
+A catch is made when a player inbounds secures possession of a pass, kick, or fumble that is in flight. An interception is made
+when an opponent who is inbounds catches a forward or backward pass or a fumble that has not touched the ground.
+Notes:
+(1) It is a catch, or an interception, if, in the process of attempting to possess the ball, a player secures control of the ball
+prior to it touching the ground, and that control is maintained during and after the ball has touched the ground.
+(2) In the field of play, if a catch or interception has been completed, and the ball comes loose before the player is down by
+contact, it is a fumble, and the ball remains alive. It is also a fumble if the action occurs in the end zone of the player who
+caught the loose ball. If the action occurs in the opponent’s end zone, it is a touchdown or a touchback.
+A recovery is made when a player inbounds secures possession of a loose ball after it has touched the ground.
+If a loose ball is controlled simultaneously by two opponents, and both players retain it, it is simultaneous possession, and the ball
+belongs to the team last in possession, or to the receiving team when there has been a free kick, scrimmage kick, or fair catch
+kick. It is not simultaneous possession if a player gains control first and an opponent subsequently gains joint control.
+SECTION 3 BAT
+A bat is the intentional striking of the ball with any part of the hand or arm. See 12-5-1.
+SECTION 4 BLOCKING
+Blocking is the act of obstructing or impeding an opponent by contacting him with a part of the blocker’s body.
+A block in the back is a block that is delivered from behind an opponent above his waist. It is not a block in the back:
+(a) if a player is making a personal attempt to recover a loose ball;
+(b) if the opponent turns away from the blocker when contact is imminent; or
+(c) if both of the blocker’s hands are on the opponent’s side.
+A block below the waist is when the initial contact with any part of the blocker’s body is below the waist of an opponent, other than
+the runner, who has one or both feet on the ground. A blocker who makes contact above the waist and then slides below the waist
+has not blocked below the waist. If an opponent uses his hands to ward off a block creating contact below the waist, it is not a
+block below the waist.
+SECTION 5 CHUCKING
+Chucking is intentionally contacting an eligible receiver who is in front of a defender.
+SECTION 6 CLOSE-LINE PLAY
+Close-line play is contact that occurs in an area extending between the outside edges of the normal tackle positions and three
+yards on either side of the line of scrimmage. Close-line play no longer exists after the ball leaves that area.
+SECTION 7 DISQUALIFIED PLAYER
+A disqualified player is one who is prohibited from further participation in the game. He must return to his dressing room within a
+reasonable period of time and is not permitted to reappear in his team uniform or return to any area other than to which spectators
+have access.
+SECTION 8 DOWN
+ARTICLE 1. DOWN. A down is a period of action that starts when the ball is put in play (3-2-3) and ends when the ball is declared
+dead (7-2-1).
+A down that starts with a snap is a scrimmage down (3-29).
+A down that starts with a free kick is a free kick down (6-1-1).
+A down that starts with a fair catch kick is a fair catch kick down (10-2-4; 11-4-3).
+ARTICLE 2. SERIES OF DOWNS. A series of downs is the four consecutive charged scrimmage downs allotted to the offensive
+team during which it must advance the ball to a yard line called “the line to gain” in order to retain possession.
+ARTICLE 3. LINE TO GAIN. The line to gain is the spot 10 yards in advance of the spot of the snap that starts a series, except
+when a goal line is less than 10 yards from this spot. In that case, the line to gain is the goal line.
+ARTICLE 4. CHARGED DOWN. A charged down is a scrimmage down that is not nullified by a penalty, or during which there is
+not a change of possession. It counts as a down in a series of downs.
+ARTICLE 5. FIRST DOWN. The initial down in each series is the first down. If it is a charged down, subsequent charged downs
+are numbered consecutively (i.e., second down, third down, or fourth down) until a new series is declared for either team (7-3).
+SECTION 9 FAIR CATCH
+A fair catch is an unhindered catch of a scrimmage kick that has crossed the line of scrimmage and has not touched the ground
+or of a free kick that has not touched the ground, by a player of the receiving team who has given a valid fair catch signal. A fair
+catch may be followed by a fair catch kick (See 10-2-4 and 11-4-3).
+SECTION 10 FIELD GOAL
+A field goal is made by kicking the ball from the field of play through the plane of the opponent’s goal, which is an area either
+between the goal posts and above the crossbar, or, if above the goal posts, between the outside edges of the goal posts. A field
+Rule 3
+4
+goal is made by a drop kick or a place kick from (a) on or behind the line on a play from scrimmage or (b) during a fair catch kick
+(See 3-17-1-Item 1-2; 10-2-4; and 11-4-3).
+SECTION 11 THE FIELD
+ARTICLE 1. BOUNDARY LINES. The boundary lines are the end lines and the sidelines and enclose the field upon which the
+game is played.
+ARTICLE 2. END LINES. The end lines are the lines at each end of the field and are perpendicular to the sidelines. The end line
+is 10 yards from the goal line and at the back of the end zone.
+ARTICLE 3. END ZONE. The end zone is the rectangle formed by the goal line, the end line, and the sidelines. The goal line and
+the pylons are in the end zone.
+ARTICLE 4. FIELD OF PLAY. The field of play is the rectangle formed by the goal lines and the sidelines. It does not include the
+end zone.
+ARTICLE 5. GOAL. The goal is the area above the crossbar between the uprights, or, if above the uprights, the area between
+the outside edges of the uprights. A team’s own goal is the one it is defending. The adjacent goal line is known as its goal line.
+ARTICLE 6. GOAL LINES. The goal lines are the lines between the sidelines that separate the end zone from the field of play.
+The goal lines are vertical planes that are parallel to and 10 yards from the end lines.
+ARTICLE 7. INBOUNDS LINES. The inbounds lines are hash marks on the field of play that are 70 feet, 9 inches from and
+parallel to each sideline and intersect each yard line marking at right angles.
+ARTICLE 8. SIDELINES. The sidelines are the lines on each side of the field and are perpendicular to the end lines. The sidelines
+separate the field of play from the area that is out of bounds.
+ARTICLE 9. YARD LINE. A yard line is any line and its vertical plane parallel to the end line. The yard lines (marked or unmarked)
+in the field of play are named by number in yards from a team’s goal line to the center of the field. By way of example, the yard
+line 19 yards from Team A’s goal line is called A’s 19-yard line. The yard line 51 yards from A’s goal line is called B’s 49-yard line.
+For brevity, these are referred to as A’s 19 and B’s 49 or A19 and B49.
+SECTION 12 FORWARD PROGRESS
+ARTICLE 1. FORWARD PROGRESS. The forward progress of a runner or airborne receiver is the point at which his advance
+toward his opponent’s goal ends and is the spot at which the ball is declared dead by rule, irrespective of the runner or receiver
+being pushed or carried backward by an opponent.
+ARTICLE 2. FORWARD, BEYOND, OR IN ADVANCE. Forward, beyond, or in advance of are terms that designate a point nearer
+the goal line of the defense. Backward or behind designate a point nearer the goal line of the offense. A pass parallel to a yard
+line, or an offensive player moving parallel to it at the snap, is considered backward.
+SECTION 13 FOULS AND SPOTS OF ENFORCEMENT, VIOLATION
+ARTICLE 1. TYPES OF FOULS. A foul is any infraction of a playing rule for which a penalty is prescribed.
+(a) A live ball foul is a foul that occurs during the period after the snap until the ball is dead.
+(b) A dead ball foul is a foul that occurs in the continuing action after a down ends, or a taunting foul that occurs at any time.
+(c) A foul between downs is a foul that occurs after the end of the down and after any continuing action resulting from the down,
+but prior to the next snap or free kick.
+(d) A multiple foul is one of two or more fouls by the same team during the same down (14-1-3), including dead ball fouls.
+(e) A double foul is a foul by either team during the same down during which both teams commit at least one foul, including dead
+ball fouls.
+ARTICLE 2. BASIC SPOT. The basic spot is a reference point for specific types of plays that is used to determine the spot of
+enforcement.
+ARTICLE 3. SPOTS OF ENFORCEMENT. The spot of enforcement is the spot at which a penalty is enforced. The spots of
+enforcement are as follows:
+(a) The previous spot: The spot at which the ball was last put in play.
+(b) The spot of the foul: The spot at which a foul was committed or, by rule, is considered to have been committed.
+(c) The spot of a backward pass or a fumble: The spot at which the backward pass or fumble occurred during the down in which
+there was a foul.
+(d) The dead ball spot: The spot at which the ball became dead.
+(e) The succeeding spot: The spot at which the ball will next be put in play (i.e., the spot of the ball after enforcement for a foul,
+or, if there has been no foul, the spot at which the ball became dead).
+(f) The other Try spot. The yard line of the other Try option, as determined by any previously enforced penalties, if applicable.
+(g) The spot of a change of possession: The spot at which possession is gained by or awarded to the opponent.
+ARTICLE 4. VIOLATION. A violation is an infraction of a playing rule for which a penalty is not prescribed. A violation does not
+offset a foul.
+SECTION 14 HANDING THE BALL
+Handing the ball is transferring player possession from one teammate to another without passing or kicking it.
+(a) Except where permitted by rule, handing the ball forward to a teammate is illegal.
+(b) Loss of player possession by unsuccessful execution of attempted handing is a fumble charged to the player that last had
+possession. A muffed handoff (legal or illegal) is a fumble, unless either player immediately regains control of the ball, and
+the ball remains alive.
+(c) A forward handoff occurs when the ball is handed (regardless of the direction of the movement of the ball) to a player who is
+in advance of a teammate from whose hands he takes or receives it.
+SECTION 15 HUDDLE
+A huddle is the action of two or more players in the field of play or in the end zone who, instead of assuming their normal position
+for the snap, free kick, or fair catch kick, form a group for receiving instructions for the next play or for any other reason.
+SECTION 16 IMPETUS
+Impetus is the action of a player who carries the ball or provides the force (i.e., a pass, kick, snap, or fumble) that causes a ball in
+the field of play to touch or cross a goal line. If a loose ball touches or crosses a goal line, the impetus is attributed to the team
+whose player passed, kicked, snapped, or fumbled the ball, unless an opponent:
+(a) muffs a ball that is at rest, or nearly at rest;
+(b) bats a ball that has been kicked or fumbled;
+(c) bats a backward pass after it has struck the ground; or
+(d) illegally kicks any ball (see 12-5-2).
+Note:
+(1) A loose ball retains its original status (as a pass, kick, fumble, etc.) even if a new impetus is added.
+(2) The impetus is always attributed to the offense, unless the defense creates a new force that sends the ball behind its
+own goal line by muffing a ball which is at rest or nearly at rest, or by batting a loose ball on the ground or kicking any
+loose ball.
+(3) If a passive player is pushed or blocked into any kicked or fumbled ball or into a backward pass after it has struck the
+ground, causing the loose ball to touch a goal line or anything on or behind a goal line, the impetus is attributed to the
+pusher or blocker, provided that the pushed (blocked) player was not making an attempt to block an opponent.
+SECTION 17 KICKS
+ARTICLE 1. KICK. A kick is intentionally striking the ball with the knee, lower leg, or foot. A kick ends when a player of either
+team possesses the ball, or when the ball is dead.
+Item 1. Drop Kick. A drop kick is a kick by a player who drops the ball and kicks it as, or immediately after, it touches the ground.
+Item 2. Place kick. A place kick is a kick made by a player while the ball is in a fixed position on the ground. The ball may be held
+in position by a teammate. If it is a free kick, it is permissible to use an approved manufactured tee.
+Item 3. Punt. A punt is a kick made by a player who drops the ball and kicks it before it strikes the ground.
+ARTICLE 2. KICKER. A kicker is the player of Team A who legally drop kicks, place kicks, or punts the ball. Team A is identified
+as the kickers during a down in which there is a scrimmage kick, free kick, or fair catch kick.
+ARTICLE 3. RECEIVER. A receiver is any Team B player during a down in which there is a scrimmage kick, free kick, or fair
+catch kick. Team B is identified as the receiving team during the entire down.
+ARTICLE 4. FAIR CATCH KICK. A fair catch kick is a drop kick or place kick without a tee from the spot of a fair catch in an
+attempt to score a field goal.
+ARTICLE 5. FREE KICK. A free kick is a kickoff, safety kick, or onside kick that puts the ball in play to start a free kick down.
+Item 1. Kickoff. A kickoff is a kick that puts the ball in play at the start of each half, at the start of overtime, after a try, and after a
+successful field goal.
+Item 2. Safety Kick. A safety kick is a kick that puts the ball in play after a safety.
+Item 3. Onside Kick. An onside kick is a free kick that the kicking team attempts to legally recover from the kicking team’s
+restraining line to the furthest point downfield within the onside kick setup zone.
+ARTICLE 6. RESTRAINING LINES. The restraining lines are lines which restrict the alignment of the kicking and receiving teams
+during a free kick and fair catch kick.
+ARTICLE 7. SCRIMMAGE KICK. A scrimmage kick is a punt, drop kick, or place kick from on or behind the line of scrimmage.
+Item 1. Scrimmage Kick Formation. A scrimmage kick formation is a formation with no player in position to receive a hand-tohand
+snap and;
+(a) Punt formation: at least one player 10 or more yards behind the neutral zone; or
+(b) Field Goal or Try Kick formation: a potential holder and potential kicker seven or more yards behind the neutral zone in position
+for a place kick.
+For either (a) or (b) to qualify as a scrimmage kick formation, it must be obvious that a kick may be attempted. If Team A is in a
+scrimmage kick formation at the snap, any action by Team A during the down is deemed to be from a scrimmage kick formation.
+ARTICLE 8. TEE. A tee is an approved device that is used to elevate the ball for a place kick during any free kick.
+SECTION 18 LINE OF SCRIMMAGE, NEUTRAL ZONE
+ARTICLE 1. SCRIMMAGE LINE. The line of scrimmage is the vertical plane of the yard line that passes through the forward point
+of the ball after it has been made ready for play. The term scrimmage line, or line, implies a play from scrimmage.
+ARTICLE 2. NEUTRAL ZONE. The neutral zone is the space between the forward and backward points of the ball (planes) and
+extends to the sidelines. It starts when the ball is ready for play (See neutral zone infraction, 7-4-4).
+ARTICLE 3. PLAYER ON LINE OF SCRIMMAGE. A player of Team A, who is on the line of scrimmage, must have his shoulders
+facing Team B’s goal line.
+Item 1. Non-Snapper. If he is not the snapper, no part of his body is permitted to be in the neutral zone at the snap, and his
+helmet must break a vertical plane that passes through the beltline of the snapper.
+Item 2. Snapper. If he is the snapper, no part of his body may be beyond the neutral zone.
+Item 3. Team B. A Team B player is considered to be on the line of scrimmage if he is within one yard of the neutral zone.
+ARTICLE 4. ENCROACHING. A player is encroaching (7-4-3) on the neutral zone when any part of his body is in it, and he
+contacts an offensive player or the ball prior to the snap.
+ARTICLE 5. LOOSE BALL CROSSES LINE OF SCRIMMAGE. A loose ball has crossed the line of scrimmage when, as the
+result of a fumble, pass, or legal kick by a Team A player, it touches the ground or any player or official beyond the neutral zone.
+SECTION 19 OFFSIDE
+A player is offside when any part of his body or his person is in the neutral zone, or is beyond the kicking team’s restraining line
+for an onside kick or fair catch kick line when the ball is put in play, unless he is a holder of a place kick for an onside kick (6-1-6-
+d-1) or fair catch kick (11-4-3), or a kicker for an onside kick (6-1-6-d-2). The snapper is offside if any part of his body is beyond
+the neutral zone. The kicker is not offside unless his kicking foot is beyond his restraining line when the ball is kicked.
+SECTION 20 OUT OF BOUNDS, INBOUNDS, AND INBOUNDS SPOT
+ARTICLE 1. PLAYER OR OFFICIAL OUT OF BOUNDS. A player or an official is out of bounds when he touches a boundary
+line, or when he touches anything that is on or outside a boundary line, except a player, an official, or a pylon.
+ARTICLE 2. PLAYER INBOUNDS. A player who has been out of bounds reestablishes himself as an inbounds player when both
+feet, or any part of his body other than his hands, touch the ground within the boundary lines, provided that no part of his body is
+touching a boundary line or anything other than a player, an official, or a pylon on or outside a boundary line.
+ARTICLE 3. BALL OUT OF BOUNDS.
+Item 1. Ball in Player Possession. A ball that is in player possession is out of bounds when the runner is out of bounds, or when
+the ball touches a boundary line or anything that is on or outside such line, except another player or an official.
+Item 2. Loose Ball. A loose ball that is not in player control is out of bounds when it touches a boundary line or anything that is
+on or outside such line, including a player, an official, or a pylon.
+ARTICLE 4. OUT OF BOUNDS SPOT.
+Item 1. Loose Ball. If a loose ball touches anything on or outside a boundary line, the out of bounds spot is the forward point of
+the ball when the ball crosses the sideline.
+Item 2. Runner Out of Bounds. If the ball is in player possession when that player goes out of bounds, the out of bounds spot is
+the forward point of the ball when the ball crosses the sideline, or, if the ball does not cross the sideline, the forward point of the
+ball at the instant the player is out of bounds.
+Item 3. Runner Inbounds. If the ball, while in possession of a player who is inbounds, is declared out of bounds because of
+touching anything that is out of bounds, the out of bounds spot is the yard line through the forward point of the ball at the instant
+of such touching.
+ARTICLE 5. INBOUNDS SPOT. The inbounds spot is a spot on the inbounds line (the hash marks) that passes through the spot
+where the ball went out of bounds between the goal lines.
+ARTICLE 6. PLAYER INSIDE THE LANDING ZONE. A player who has been outside the front yard line of the landing zone reestablishes
+himself as a player inside the landing zone when both feet or any part of his body, other than his hands, touch the
+ground within the landing zone, provided that no part of his body is touching outside the landing zone or anything other than a
+player outside the landing zone.
+ARTICLE 7. LOOSE BALL OUT OF LANDING ZONE. A loose ball on a kickoff or safety kick is outside the landing zone when
+it first touches the ground or anything that is outside the front yard line of the landing zone, including a player.
+SECTION 21 PASS
+ARTICLE 1. PASS. A pass is the movement caused by a player intentionally throwing or shoveling/pushing (shovel pass) the
+ball.
+ARTICLE 2. PASSER AND PASSING TEAM. A player who makes a legal forward pass is known as the passer until the play
+ends. The teammates of any player who passes the ball forward (legally or illegally) are known collectively as the passing team
+or passers.
+ARTICLE 3. FORWARD PASS. It is a forward pass if:
+(a) the ball initially moves forward (to a point nearer the opponent’s goal line) after leaving the passer’s hand(s);
+(b) the ball first touches the ground, a player, an official, or anything else at a point that is nearer the opponent’s goal line than
+the point at which the ball leaves the passer’s hand(s); or
+(c) when a Team A player is holding the ball to pass it forward, any intentional movement forward of his hand starts a forward
+pass.
+Item 1. Contact by Team B Player. If contact by an opponent materially affects a passer after the passer begins his throwing
+motion, it is a forward pass if he passes the ball, regardless of where the ball strikes the ground, a player, an official, or anything
+else. When this occurs, intentional grounding rules do not apply.
+When a passer is contacted by an opponent before beginning his throwing motion, the direction of the pass is the responsibility of
+the passer, and intentional grounding rules apply.
+Item 2. Passer Tucks Ball. If the player loses possession of the ball during an attempt to bring it back toward his body, or if the
+player loses possession after he has tucked the ball into his body, it is a fumble.
+Item 3. Passer Re-Cocks His Arm. If the player loses possession of the ball while attempting to re-cock his arm, it is a fumble.
+Item 4. Fumbled or Muffed Ball Goes Forward. The fact that a fumbled or muffed ball goes forward is disregarded, unless the
+act is ruled intentional. If it is intentional, a fumbled ball that goes forward is a forward pass (8-1-1), and a muff is a bat (12-5-1).
+ARTICLE 4. BACKWARD PASS. It is a backward pass if the yard line at which the ball is first touched by a player, or the ground
+is parallel to or behind the yard line at which the ball leaves the passer’s hand. A snap becomes a backward pass when the
+snapper releases the ball.
+Note: If a pass is batted, muffed, punched, or kicked in any direction, its original designation as a forward pass or a backward
+pass does not change.
+SECTION 22 PENALTY
+ARTICLE 1. PENALTY. A penalty is imposed upon a team that has committed a foul and may result in loss of down, loss of
+yardage, an automatic first down, a charged timeout, a loss of playing time, withdrawal or disqualification of a player, extension of
+a period, the award of a score, or a combination thereof.
+ARTICLE 2. LOSS OF DOWN. The phrase loss of down indicates that a team committing a foul will not have the opportunity to
+repeat the down after enforcement of any yardage penalty.
+SECTION 23 PLAYER
+A player is a participant of either team who is in the game.
+SECTION 24 PLAYS
+ARTICLE 1. FREE KICK PLAY. A free kick play begins with a legal or illegal free kick and ends when a player of either team
+establishes possession of the ball, or when the ball is dead by rule. A running play begins when a player of Team B establishes
+possession.
+ARTICLE 2. PASSING PLAY. A passing play begins with the snap and ends when a forward pass thrown from behind the line
+of scrimmage is caught by a player of either team or is incomplete. At the instant that a pass is caught, a running play begins.
+ARTICLE 3. RUNNING PLAY. A running play begins in the following situations:
+(a) If there is not a subsequent kick or legal or illegal forward pass from behind the line of scrimmage, a running play begins with
+the snap.
+(b) If there is a legal or illegal forward pass thrown from behind the line of scrimmage, a running play begins when the forward
+pass is caught by a player of either team.
+(c) If there is a running play followed by an illegal forward pass thrown from beyond the line of scrimmage, or by an illegal forward
+pass not from scrimmage, a new running play begins when the pass is caught by a player of either team.
+(d) If there is a free kick, a running play begins when Team B establishes possession of the ball.
+(e) If there is a scrimmage kick, a running play begins when Team B establishes possession of the ball, or when Team A
+establishes possession of a kicked ball behind the line of scrimmage.
+(f) If there is a running play followed by a fumble or a backward pass, a new running play begins when a player of either team
+establishes possession of the ball.
+A running play ends:
+(a) When the ball is declared dead;
+(b) When a runner loses or relinquishes possession by a fumble or a backward pass; or
+(c) When a player of either team throws an illegal forward pass beyond the line of scrimmage or when there is not a line of
+scrimmage.
+Note: The running play includes the loose ball action before a player gains or regains possession or the ball is declared dead.
+ARTICLE 4. SCRIMMAGE KICK PLAY. A scrimmage kick play begins with the snap. It ends when a player of either team
+establishes possession of a kicked ball, or when the ball is dead by rule.
+ARTICLE 5. FAIR CATCH KICK PLAY. A fair catch kick play begins when the ball is kicked. It ends when a player of either team
+establishes possession of the ball, or when the ball is dead by rule.
+ARTICLE 6. COMBINATIONS OF PLAYS. There may be a combination of a running play and a passing play, free kick play,
+scrimmage kick play, or fair catch kick play during the same down, and there may be more than one running play or scrimmage
+kick play during the same down.
+SECTION 25 POCKET AREA
+The pocket area is the area between the outside edges of the normal tackle positions on each side of the center extending
+backward to the offensive team’s end line. A player who is in possession of the ball is out of the pocket area, and the pocket area
+no longer exists, if any part of his body or the ball is outside of the pocket area.
+SECTION 26 POST-POSSESSION FOUL
+A foul by the receiving team is a post-possession foul if it occurs during a scrimmage kick that crosses the line of scrimmage,
+provided that the receiving team does not lose possession during the rest of the down. See 9-5-1-Exc. 4.
+SECTION 27 RUNNER
+A runner is the offensive player who is in possession of a live ball (3-2-7), i.e., holding the ball or carrying it in any direction.
+SECTION 28 SAFETY
+It is a safety, if the ball is dead in possession of a team on or behind its own goal line when the impetus (3-16) comes from the
+team defending that goal line. If the offense commits a foul behind its own goal line, it is a safety if the defense elects to enforce
+the penalty at that spot.
+SECTION 29 SCRIMMAGE DOWN, FROM SCRIMMAGE, NOT FROM SCRIMMAGE
+A scrimmage down is one that starts with a snap (3-31). From scrimmage refers to any action from the start of the snap until the
+down ends or until Team B secures possession. Any action that occurs during the down after a change of team possession is not
+from scrimmage.
+SECTION 30 SHIFT
+A shift is any simultaneous change of position or stance by two or more offensive players before the snap after the ball has been
+made ready for play for a scrimmage down, including movement to the line of scrimmage by the offensive team prior to the snap
+(7-4-7).
+SECTION 31 SNAP AND THE SNAPPER
+A snap is a backward pass that puts the ball in play to start a scrimmage down, either by handing it or passing it backward from
+its position on the ground. The snapper is the offensive player who initiates this action.
+SECTION 32 SUSPENDED PLAYER
+A suspended player is one who must be withdrawn, in accordance with Rule 5, for correction of illegal equipment (5-4).
+SECTION 33 TIGHT END BOX
+The tight end box is a rectangle that is enclosed by imaginary lines two yards outside the normal tackle positions and five yards
+on either side of the line of scrimmage. The tight end box continues to exist after the ball leaves the area.
+SECTION 34 TACKLING
+Tackling is an attempt by a defensive player to hold a runner to halt his advance or bring him to the ground.
+SECTION 35 TEAM A AND B, OFFENSE AND DEFENSE
+ARTICLE 1. OFFENSE AND DEFENSE. Whenever a team is in possession of the ball (3-2-7), it is the offense, and its opponent
+is the defense. When there is a change of possession during the down, the team that is the offense becomes the defense.
+ARTICLE 2. TEAM A AND TEAM B. The team that puts the ball in play is Team A, and its opponent is Team B. They remain
+Team A and Team B until a down ends, even though there may be one or more changes of possession during the down. Team A
+is always the offense when a down starts but becomes the defense if Team B secures possession during the down. A player of
+Team A is referred to as A1 and his teammates as A2, A3, etc. The opponents are B1, B2, etc.
+ARTICLE 3. CHANGE OF POSSESSION. A change of possession occurs when a player of the defensive team secures
+possession of a ball that has been kicked, passed, or fumbled by a player of the offensive team, or when the ball is awarded to
+the opposing team by rule. A change of possession includes, but is not limited to:
+(a) An interception of a forward pass;
+(b) A catch or recovery of a fumble or backward pass;
+(c) A catch or recovery of a scrimmage kick, free kick, or fair catch kick;
+(d) When the offensive team fails to reach the line to gain on fourth down; or
+(e) When the offensive team misses a field goal attempt.
+SECTION 36 TIMEOUT OR TIME IN
+ARTICLE 1. TIMEOUT. A timeout is any interval during which the game clock is stopped (4-4) and includes the intermission (4-
+1-2 and 4-1-3).
+During any timeout, including an intermission, all playing rules continue in effect. Representatives of either team are prohibited
+from entering the field, unless they are incoming substitutes, or team attendants or trainers entering to provide for the welfare of
+a player, and any game-type activities are prohibited on the field of play. The head coach may enter the field to check on the
+welfare of a player who is injured, but no assistant coach may enter the field.
+ARTICLE 2. CHARGED TEAM TIMEOUT. A charged team timeout is an interval during which the game clock is stopped and
+play is suspended at the request of one of the teams or when it is charged to one of the teams by rule. A timeout may be granted
+only when the ball is dead.
+ARTICLE 3. TIME IN. Time In is any interval during which the game clock is running (4-3).
+SECTION 37 TOUCHBACK
+It is a touchback if the ball is dead on or behind the goal line a team is defending, provided that the impetus comes from an
+opponent, and that it is not a touchdown or an incomplete pass.
+SECTION 38 TOUCHDOWN
+It is a touchdown if any part of the ball is on, above, or behind the opponent’s goal line while legally in possession of an inbounds
+player, provided it is not a touchback.
+SECTION 39 TRIPPING
+Tripping is the use of the leg or foot to obstruct any opponent, including a runner (12-2-14).
+SECTION 40 TRY
+A Try is the attempt by a team that has scored a touchdown to add one point (by a field goal) or two points (by a touchdown)
+during one untimed scrimmage down (11-3).
+SECTION 41 TWO-MINUTE WARNING
+The two-minute warning is an automatic timeout that occurs at the conclusion of the last down for which the ball is legally snapped
+or kicked prior to two minutes remaining on the game clock in the second and fourth periods.
+SECTION 42 T-FORMATION QUARTERBACK
+A “T-Formation Quarterback” is defined as a player aligned one yard or less behind the snapper.

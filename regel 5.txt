@@ -1,0 +1,342 @@
+RULE 5 PLAYERS, SUBSTITUTES, EQUIPMENT, GENERAL RULES
+SECTION 1 PLAYERS
+ARTICLE 1. NUMBER OF PLAYERS. The game is played by two teams of 11 players each.
+If Team A has more than 11 players in its formation for more than three seconds, or if Team B has more than 11 players in its
+formation and the snap is imminent, it is a foul. Once the ball is made ready for play, if either team has more than 11 players in its
+formation prior to a free kick, it is also a foul. In these instances, game officials shall blow their whistles immediately and not allow
+the snap or kick to occur.
+Penalty: For more than 11 players in the formation prior to the snap or free kick: Loss of five yards from the succeeding
+spot.
+If a team has more than 11 players on the field of play or the end zone when a snap, free kick, or fair catch kick is made, the ball
+is in play, and it is a foul.
+Exception: If Team A is using a designated holder pursuant to 6-1-1-Note, the designated holder may be the 12th person on
+the field when the ball is kicked for a kickoff or safety kick, but he is a non-player and must leave the field on his team’s sideline
+with the kicking tee immediately after the ball is kicked (5-2-8-h) and is also subject to the rules of non-player conduct in
+accordance with Rule 13.
+Penalty: For more than 11 players on the field of play or the end zone while the ball is in play: Loss of five yards from the
+previous spot.
+ARTICLE 2. PLAYERS NUMBERED BY POSITION. All players must wear numerals on their jerseys in accordance with Rule 5,
+Section 4, Article 3, Item 3. Such numerals must be by playing position, as follows:
+(a) quarterbacks: 0-19;
+(b) punters and placekickers: 0-49 and 90-99;
+(c) defensive backs: 0-49;
+(d) running backs, fullbacks, tight ends, H-backs, and wide receivers: 0-49 and 80-89;
+(e) offensive linemen: 50-79;
+(f) defensive linemen: 50-79 and 90-99;
+(g) linebackers: 0-59 and 90-99.
+Eligible pass receivers and a T-Formation Quarterback must be wearing numerals 0-49 or 80-89. All other numerals are worn by
+ineligible players unless they report a change in their position. See 5-3-1.
+If a player changes his position during his playing career in the NFL, and such change moves him from a position as an ineligible
+pass receiver to that of an eligible pass receiver, or from a position as an eligible pass receiver to that of an ineligible pass receiver,
+he must be issued an appropriate new jersey numeral. A change in jersey numeral is not required if the change is from an ineligible
+position to another ineligible position, or from an eligible position to another eligible position, provided that the player has
+participated at least one season at his position prior to the change.
+Any request to wear a numeral for a special position not specified above must be made to the Commissioner. During the preseason
+period when playing rosters are larger, the League will allow duplication and other temporary deviations from the numbering
+scheme specified above, but the rule must be adhered to for all players during the regular season and postseason. Clubs must
+make numerals available to adhere to the rule, even if it requires returning to circulation a numeral that has been retired or withheld
+for other reasons. See 5-3-1 for reporting a change of position.
+SECTION 2 SUBSTITUTES AND WITHDRAWN PLAYERS
+ARTICLE 1. NUMBER OF PLAYERS IN HUDDLE. There can never be more than 11 players in the offensive huddle while the
+play clock is running. It is a foul, the whistle is blown immediately, and the ball remains dead. See 5-2-8-a.
+ARTICLE 2. SUBSTITUTE BECOMES PLAYER. A substitute becomes a player when he:
+(a) participates in at least one play (including a play negated by penalty prior to the snap or during the play); or
+(b) is on the field of play or the end zone when a snap, fair catch kick, or free kick is made, or when such a play is imminent.
+A player becomes a substitute when he is withdrawn from the game and does not participate in at least one play. A play negated
+by penalty prior to the snap or during the play counts as a missed play.
+ARTICLE 3. LEGAL SUBSTITUTIONS. Any number of substitutes may enter the field of play or end zone while the ball is dead.
+ARTICLE 4. ILLEGAL SUBSTITUTIONS. If a substitute enters the field of play or end zone while the ball is in play, it is an illegal
+substitution. If an illegal substitute interferes with the play, it may be a palpably unfair act (see 12-3-4).
+ARTICLE 5. OFFENSIVE SUBSTITUTIONS. The substitution rules are intended to prevent teams from using simulated
+substitutions to confuse an opponent, while still permitting a player (or players) to enter and leave without participating in a play in
+certain situations, such as a change in a coaching decision on fourth down, even though he has approached the huddle and
+communicated with a teammate or an official. Similarly, if a player who participated in the previous play leaves the playing field by
+mistake, and returns to the playing field prior to the snap, he is not required to reach the inside of the field numerals, provided the
+defense has the opportunity to match up with him. However, a substitute (i.e., someone who did not participate in the previous
+play) is required to reach the inside of the field numerals. The following are applicable to any offensive substitute who is entering
+the game:
+(a) He must move onto the field of play or the end zone as far as the inside of the field numerals prior to the snap to be a legal
+substitution. If he does not and is on the field of play or end zone at the time of a legal snap, he is an illegal substitute.
+(b) If he approaches the huddle and communicates with a teammate or an official, he is required to participate in at least one
+play before being withdrawn. After a warning, subsequent violations of this rule shall be penalized for unsportsmanlike
+conduct. See 5-2-11.
+ARTICLE 6. WITHDRAWN PLAYERS. A player or players who have been replaced must leave the playing field or end zone on
+their own team’s side between the end lines prior to the next snap, free kick, or fair catch kick.
+ARTICLE 7. DISQUALIFIED AND SUSPENDED PLAYERS. A player must be withdrawn and substituted for when he is
+disqualified (12-2, 12-3) or suspended (5-4). A suspended player may re-enter after at least one legal snap, provided that the
+reason for his suspension has been corrected. A disqualified player must leave the playing field enclosure and go to the team
+locker room within a reasonable time.
+ARTICLE 8. PENALTIES FOR ILLEGAL SUBSTITUTION OR WITHDRAWAL. Penalties are:
+(a) For 12 or more players in the offensive huddle (whistle blown immediately and ball remains dead): Loss of five yards
+from the succeeding spot.
+(b) For a substitute entering the field during a live ball: Loss of five yards.
+(c) For interference with the play by a substitute who enters the field during a live ball: Palpably unfair act. See 12-3-4.
+(d) For an offensive substitute who does not move onto the field as far as the inside of the field numerals: Loss of five
+yards from the previous spot.
+(e) For a withdrawn player clearing the field on the opponent’s side or across an end line: Loss of five yards from the
+previous spot.
+(f) For illegal return of a suspended player: Loss of five yards from the previous spot if discovery is made while the ball
+is in play or prior to the start of the next down. If the previous spot is not definitely known, enforcement is five yards
+from the succeeding spot as a foul between downs. See 14-4-9.
+(g) For return of a disqualified player: Loss of 15 yards from the previous spot if discovery is made while the ball is in
+play, or 15 yards from the succeeding spot if discovered between downs, and, in either case, exclusion from the
+playing field enclosure.
+(h) For a designated holder clearing the field on the opponent’s side or across an end line: Loss of five yards.
+ARTICLE 9. PROCEDURE FOLLOWING TIMEOUT OR CHANGE OF POSSESSION. Following a timeout or change of
+possession, the offense may huddle outside the numbers near its bench area, but will not be allowed to line up and snap the ball
+before the defense has an opportunity to match personnel. If the offense snaps the ball before the defense has had an opportunity
+to complete its substitutions, and a defensive foul for too many players on the field results, no penalties will be enforced, except
+for personal fouls and unsportsmanlike conduct fouls, and the down will be replayed. At this time, the Referee will notify the head
+coach that any further use of this tactic will result in a penalty for unsportsmanlike conduct.
+Penalty: For unsportsmanlike conduct after a warning: Loss of 15 yards from the succeeding spot.
+ARTICLE 10. DEFENSIVE MATCHUPS FOLLOWING SUBSTITUTIONS. If a substitution is made by the offense before the twominute
+warning of either half, the offense shall not be permitted to snap the ball until the defense has been permitted to respond
+with its substitutions. While in the process of a substitution (or simulated substitution), the offense is prohibited from rushing quickly
+to the line of scrimmage and snapping the ball in an obvious attempt to cause a defensive foul (i.e., too many men on the field). If
+the offense substitutes, the following procedure will apply:
+(a) The Umpire will stand over the ball until the Referee deems that the defense has had a reasonable time to complete its
+substitutions.
+(b) If the offense snaps the ball before the defense has had an opportunity to complete its substitutions, and a defensive foul for
+too many players on the field results, no penalties will be enforced, except for personal fouls and unsportsmanlike conduct,
+and the down will be replayed. At this time, the Referee will notify the head coach that any further use of this tactic will result
+in a penalty for unsportsmanlike conduct. The game clock will be reset to the time remaining when the snap occurred, and
+the clock will start on the snap.
+(c) On a fourth-down punting situation, the Referee and the Umpire will not allow a quick snap that prevents the defense from
+having a reasonable time to complete its substitutions. This applies throughout the entire game.
+(d) If the play clock expires before the defense has completed its substitution, it is delay of game by the offense.
+ARTICLE 11. UNSPORTSMANLIKE CONDUCT. Using entering substitutes, legally returning players, substitutes on sidelines,
+or withdrawn players to confuse opponents, or lingering by players leaving the field when being replaced by a substitute, is
+unsportsmanlike conduct. See 12-3-1-k. The offense is prevented from sending simulated substitutions onto the field toward its
+huddle and returning them to the sideline without completing the substitution in an attempt to confuse the defense.
+Penalty: For unsportsmanlike conduct: Loss of 15 yards.
+SECTION 3 CHANGES IN POSITION
+ARTICLE 1. REPORTING CHANGE OF POSITION. An offensive player wearing the number of an ineligible pass receiver (50–
+79 and 90–99) is permitted to line up in the position of an eligible pass receiver or T-Formation Quarterback (0–49 and 80–89).
+An offensive player wearing the number of an eligible pass receiver is permitted to line up in the position of an ineligible pass
+receiver, provided he lines up within the normal five-player core formed by ineligible players and is not more than two players
+removed from the middle player of a seven-player line.
+In both cases, the player must immediately report the change in his eligibility status to the Referee, who will inform the defensive
+team. He must participate in such eligible or ineligible position as long as he is continuously in the game, but prior to each play
+he must again report his status to the Referee, who will inform the defensive team. The game clock shall not be stopped, and the
+ball shall not be put in play until the Referee takes his normal position.
+ARTICLE 2. RETURNING TO ORIGINAL POSITION. A player who has reported a change in his eligibility status to the Referee
+is permitted to return to a position indicated by the eligibility status of his number after:
+(a) a team time out;
+(b) the end of a quarter;
+(c) the two-minute warning;
+(d) a foul;
+(e) a replay review;
+(f) a touchdown;
+(g) a kick from scrimmage;
+(h) a change of possession; or
+(i) the player has been withdrawn for one legal snap.
+Penalty: For a player failing to notify the Referee of a change in his status when required, or an offensive player with an
+eligible number reports as ineligible and lines up outside normal five-player core: Loss of five yards for illegal
+substitution.
+ARTICLE 3. SPEAKERS IN HELMETS. The Coach-to-Player system allows a member of the coaching staff in the bench area
+or the coaches’ booth to communicate to a designated offensive or defensive player with a speaker in his helmet. The
+communication begins once a game official has signaled a down to be over and is cut off when the play clock reaches 15 seconds
+or the ball is snapped, whichever occurs first.
+Each offensive and defensive team is permitted no more than one player on the field with a speaker in his helmet. Each team is
+permitted to have a maximum of three active radio receivers to be used on offense by its quarterbacks, and a maximum of three
+active radio receivers to be used on defense by players who have been designated as primary and backup users.
+Clubs that have a player whose principal position is as a non-quarterback (e.g., wide receiver, running back) and who also is used
+as a quarterback from time to time must have two helmets for that player—one with and one without radio components.
+When a quarterback enters the game for the first time or re-enters the game if he has previously been in the game and removed,
+he must report to the Referee.
+Whenever the backup defensive user enters or re-enters the game wearing a helmet with a speaker, he must report to the Umpire.
+If the primary defensive user subsequently re-enters the game wearing a helmet with a speaker, he must report to the Umpire. If
+the primary and backup players have been removed from the game, no other player may wear the radio speaker in his helmet.
+Teams must use other methods to communicate signals to their players.
+It is not necessary that the offensive player with the speaker in his helmet receive the snap.
+For special teams’ plays, only one player per team with a receiver will be permitted on the field.
+All players that have radio components in their helmet must have a decal, supplied by the League, displayed on the midline of the
+rear of the helmet. Players who have speakers in their helmets must be identified in the Communication System section of the
+Game Day Administration Report that is submitted to the Referee or a member of his crew no later than one hour and 30 minutes
+prior to kickoff.
+For additional requirements and policies pertaining to the system, including regulations for the storage of a backup helmet for a
+non-quarterback who is used as a quarterback, or for the backup defensive player’s helmet, please refer to the Policy Manual for
+Member Clubs/Game Operations.
+Penalty: For a player failing to notify the Referee or Umpire of a change in his status when required: Loss of five yards
+for illegal substitution.
+SECTION 4 EQUIPMENT, UNIFORMS, PLAYER APPEARANCE
+ARTICLE 1. GENERAL POLICY. Throughout the game day period while in view of the stadium and television audience, including
+during team pregame warm-ups, all players must dress in a professional manner under the uniform standards. The helmet and
+mandatory padding referenced in Article 3 below are intended to provide reasonable protection to a player while reasonably
+avoiding risk of injury to other players. The development of Playing Rules should be governed by this Article. Players generally
+must present an appearance that is appropriate to representing their individual clubs and the National Football League. The term
+uniform, as used in this policy, applies to every piece of equipment worn by a player, including helmet, shoulder pads, thigh pads,
+knee pads, and any other item of protective gear, and to every visible item of apparel, including but not limited to pants, jerseys,
+wristbands, gloves, game socks and/or leg coverings, shoes, visible undergarments, and accessories such as headwear worn
+under helmets and hand towels. All visible items worn on game day by players must be issued by the club or the League, or, if
+from outside sources, must have approval in advance by the League office.
+ARTICLE 2. TEAM COLORS. Pursuant to the official colors established for each NFL club in the League Constitution and Bylaws,
+playing squads are permitted to wear only those colors or a combination of those colors for helmets, jerseys, pants, and game
+socks and/or leg coverings; provided that white is also an available color for jerseys and mandatory color for the lower portion of
+game socks and/or leg coverings. (See 5-4-3-Item 6, “Game socks and/or Leg Coverings,” below). Each player on a given team
+must wear the same colors on his uniform as all other players on his team in the same game. Home clubs shall choose their jersey
+color (either white or official team color) and visiting clubs must wear the opposite. The two competing teams may wear jerseys in
+their official colors (non-white), provided the Commissioner determines that such colors are of sufficient contrast.
+ARTICLE 3. MANDATORY EQUIPMENT, APPAREL. All players must wear the equipment and uniform apparel listed below,
+which must be of a suitably protective nature and must be designed and produced by a professional football equipment
+manufacturer. All components recommended by the manufacturer must be present and must not be cut, reduced in size, or
+otherwise altered unless for medical reasons approved in advance by the Commissioner. During pregame team warm-ups, players
+may omit certain protective equipment at their option, except that helmets, shoulder pads, thigh pads, and knee pads must be
+worn.
+Item 1. Helmet, Face Protectors. Helmet with all points of the chin strap (white only) fastened and facemask attached. Facemasks
+must not be more than ⅝-inch in diameter and must be made of rounded material; transparent materials are prohibited. Clear
+(transparent) plastic eye shields are optional. Tinted eye shields may be worn only after the League office is supplied with
+appropriate medical documentation and approval is subsequently granted. The League office has final approval. No visible
+identification of a manufacturer’s name or logo on the exterior of a helmet or on any attachment to a helmet is permitted unless
+provided for under a commercial arrangement between the League and manufacturer; in no event is identification of any helmet
+manufacturer permitted on the visible surface of a rear cervical pad. All helmets must carry a small NFL shield logo on the rear
+lower-left exterior, and an approved warning label on the rear lower-right exterior. Both labels will be supplied in quantity by the
+League office.
+Item 2. Jerseys. Jersey must cover all pads and other protective equipment worn on the torso and upper arms, and must be
+appropriately tailored to remain tucked into the uniform pants throughout the game. Jerseys are permitted to be hemmed but the
+length must be long enough to cover the waist area. Skin exposure due to improperly wearing jerseys is prohibited at all times
+throughout the game. Tear-away jerseys are prohibited. Mesh jerseys with large fishnet material (commonly referred to as “bullethole”
+or “port-hole” mesh) are also prohibited. Surnames of players in letters a minimum of 2½ inches high must be affixed to the
+exterior of jerseys across the upper back above the numerals; nicknames are prohibited. All jerseys must carry a small NFL Shield
+logo at the middle of the yoke of the neck on the front of the garment. All fabrics must be approved by the League office prior to
+production. For optional equipment permitted to be worn under jerseys, see 5-4-6 Item 1, “Garments Under Jersey” below.
+Item 3. Numerals. Numerals on the back and front of jerseys as specified under NFL rules for the player’s specific position. Such
+numerals must be a minimum of 8 inches high and 4 inches wide, and their color must be in sharp contrast with the color of the
+jersey. Smaller numerals should be worn on the tops of the shoulders or upper arms of the jersey. Small numerals on the back of
+the helmet or on the uniform pants are optional.
+Item 4. Pants. Pants must be worn over the entire knee area; pants shortened or rolled up are prohibited. No part of the pants
+may be cut away unless an appropriate gusset or other device is used to replace the removed material. All pants must carry a
+small NFL Shield logo on the front left groin area of the pants, midway between the fly opening and side seam, and ½-inch below
+the belt.
+Item 5. Shoulder Pads, Thigh Pads, and Knee Pads. All players must wear shoulder pads, thigh pads, and knee pads which
+have been approved by the League office. All pads must be covered by the outer uniform. Knee pads must be at least ¼-inch
+thick and must cover the knees. Basketball-type knee pads are permitted but must be covered by the outer uniform. Punters and
+placekickers may omit thigh and knee pads.
+Item 6. Game Socks and/or Leg Coverings. Game socks and/or leg coverings must cover the entire area from the shoe to the
+bottom of the pants and must meet the pants below the knee. Players are permitted to wear as many layers of game socks and/or
+leg coverings and tape on the lower leg as they prefer, provided the exterior is either a: (a) one-piece game sock and/or leg
+covering that includes solid white from the top of the shoe to the mid-point of the lower leg, and approved team color or colors
+(non-white) from that point to the top of the game sock and/or leg covering; or (b) solid color game sock and/or leg covering (i.e.,
+entire covering from bottom of pant leg to top of shoe), but all players must be in the same covering style and color in any particular
+game. Solid game socks and/or leg coverings must be a consistent color from the bottom of the pant leg to the top of the shoe.
+Uniform game socks and/or leg coverings may not be altered (e.g., over-stretched, cut at the toes, or sewn short) in order to bring
+the line between solid white and team colors lower or higher than the mid-point of the lower leg. Skin exposure of the lower leg
+and ankle area due to improper wear of game socks and/or leg coverings is prohibited at all times throughout the game. No other
+game socks and/or leg coverings, and/or opaque tape, may be worn over the one-piece, two-color uniform game socks. Barefoot
+punters and placekickers may omit the game sock and/or leg covering of the kicking foot in preparation for and during kicking
+plays.
+Item 7. Shoes. Shoes must be of standard football design, including “sneaker” type shoes such as basketball shoes, cross-training
+shoes, etc. A player may wear shoes that are black, white, or any Constitutional team color, or any combination of black, white,
+and a Constitutional team color. Each player may select among shoe styles previously approved by the League office. Logos,
+names, or other commercial identification on shoes are not permitted to be visible unless advance approval is granted by the
+League office. Size and location of logos and names on shoes must be approved by the League office. When a shoe logo or name
+approved by the League is covered with an appropriate use of tape, players will be allowed to cut out the tape covering the original
+logo or name, provided the cut is clean and is the exact size of the logo or name. The logo or name of the shoe manufacturer
+must not be re-applied to the exterior of taped shoes unless advance approval is granted by the League office. Kicking shoes
+must not be modified (including using a shoelace wrapped around toe and/or bottom of the shoe), and any shoe that is worn by a
+player with an artificial limb on his kicking leg must have a kicking surface that conforms to that of a normal kicking shoe. Punters
+and placekickers may omit the shoe from the kicking foot in preparation for and during kicking plays.
+ARTICLE 4. OTHER PROHIBITED EQUIPMENT, APPAREL. In addition to the prohibited items of equipment and apparel
+specified above, the following also are prohibited:
+Item 1. Projecting Objects. Metal or other hard objects that project from a player’s person or uniform, including from his shoes.
+Item 2. Uncovered Hard Objects, Substances. Hard objects, exposed jewelry, and substances, including but not limited to casts,
+guards or braces for hand, wrist, forearm, elbow, hip, thigh, knee, and shin, unless such items are appropriately covered on all
+edges and surfaces by a minimum of ⅜-inch foam rubber or similar soft material. Any such item worn to protect an injury must not
+contain colors, designs, logos, or personal messages that are not approved by the NFL and must be reported by the applicable
+coaching staff to the Umpire in advance of the game, and a description of the injury must be provided.
+Item 3. Torn Items. Torn or improperly fitting equipment creating a risk of injury to other players, e.g., the hard surfaces of shoulder
+pads exposed by a damaged jersey.
+Item 4. Improper Cleats. Shoe cleats made of metal or other material that may chip, fracture, or develop a cutting edge. Conical
+cleats with concave sides or points which measure less than ⅜-inch in diameter at the tips, or cleats with oblong ends which
+measure less than ¼ by ¾-inch at the end tips are also prohibited. Nylon cleats with flat steel tips are permitted. A detachable
+kicking toe is prohibited.
+Item 5. Improper Tape. Opaque, contrasting-color tape that covers any part of the helmet, jersey, pants, game socks and/or leg
+coverings, or shoes; transparent tape or tape of the same color as the background material is permissible for use on these items
+of apparel. Players may use opaque white, black or one dominant club color tape on hands and arms, provided it conforms to
+above (“Uncovered Hard Objects, Substances”) and below (“Approved Glove Color”). Opaque tape either black or white on shoes
+is permitted, provided it is black or white to match the selected dominant shoe choice of the club and provided it does not carry up
+into the game sock and/or leg covering area.
+Item 6. Items Colored Like Football. Headgear or any other equipment or apparel which, in the opinion of the Referee, may
+confuse an opponent because of its similarity in color to that of the game football. If such color is worn, it must be broken by stripes
+or other patterns of sharply contrasting color or colors.
+Item 7. Adhesive, Slippery Substances. Adhesive or slippery substances on the body, equipment, or uniform of any player;
+provided, however, that players may wear gloves with a tackified surface if such tacky substance does not adhere to the football
+or otherwise cause handling problems for players.
+ARTICLE 5. RECOMMENDED EQUIPMENT. It is recommended that all players wear hip pads designed to reasonably avoid the
+risk of injury. Unless otherwise provided by individual team policy, it is the player’s responsibility and decision whether to follow
+this recommendation and use such pads. If worn, such pads must be covered by the outer uniform.
+ARTICLE 6. OPTIONAL EQUIPMENT. Among the types of optional equipment that are permitted to be worn by players are the
+following:
+Item 1. Garments Under Jerseys. Quarterbacks will be allowed to wear under the game jersey a solid-colored T-shirt, turtleneck,
+or sweatshirt (consistent with team undergarment color) with sleeves cut to any length, as long as both sleeves are evenly trimmed,
+and the edges are sewn and hemmed. All other players may wear garments under game jerseys only if the undergarment sleeves
+either (a) are full length to the wrist; or (b) are the half sleeve length as provided by the licensee each of which must be approved
+by the NFL. Players may not wear long-sleeved undergarments that include pebble-grip sleeves. Undergarments should be tucked
+in the uniform pants. Any undergarment that is untucked must not hang out from the bottom of the jersey in length longer than the
+small NFL Shield logo and the manufacturer’s logo located on the front area of the uniform pants, or the undergarment must be
+tucked in the uniform pants. Any garments under jerseys that are exposed at any point throughout the game and that carry an
+exposed logo or commercial name/identification must be licensed and approved by the League office for wear on the field. All
+members of the same team who wear approved undergarments with exposed necks or sleeves must wear the same color on a
+given day, which color must be white or a solid color that is an official team color (solid means that sleeves must not carry stripes,
+designs, or team names). Players may not wear undergarments with an exposed hood hanging outside the collar of the jersey.
+Item 2. Approved Glove Color. Gloves, wrappings, elbow pads, and other items worn on the arms below or over the jersey
+sleeves must be white, black or the official uniform color of the applicable team. Clubs are not required to designate to the League
+office the color of gloves that will be worn by their players.
+Item 3. Rib Protectors. Rib protectors (“flak jackets”) under the jersey.
+Item 4. Wristbands. Wristbands, provided they are white, black, or an official uniform color of the applicable team only.
+Item 5. Towels. Towels, provided they are white only, licensed towels approved by the League office for use on the playing field.
+Players are prohibited from adding personal messages, logos, names, symbols, or illustrations. A player may wear no more than
+one towel. Players are prohibited from discarding on the playing field any loose towels or other materials used for wiping hands
+and the football. Streamers or ribbons, regardless of length, hanging from any part of the uniform are prohibited.
+Item 6. Headwear. When players are on the field during the pregame, game, and postgame periods, they may wear approved
+caps, skull caps and bands, approved cold weather gear, or other approved headwear for medical purposes only, as determined
+by the Commissioner. Any permissible headwear must be approved by the League office, and if worn under the helmet, no portion
+may hang from or otherwise be visible outside the helmet. Players are not permitted to wear bandanas or other unapproved
+headwear anywhere on the field during the pregame, game, or postgame periods, even if such items are worn under their helmets.
+ARTICLE 7. LOGOS AND COMMERCIAL IDENTIFICATION. Throughout the period on game day that a player is visible to the
+stadium and television audience (including in pregame warm-ups, in the bench area, and during postgame interviews in the locker
+room or on the field), players are prohibited from wearing, displaying, or orally promoting equipment, apparel, or other items that
+carry commercial names or logos/identifications of companies, unless such commercial identification has been approved in
+advance by the League office. The size of any approved logo or other commercial identification involved in an agreement between
+a manufacturer and the League will be modest and unobtrusive, and there is no assurance that it will be visible to the television
+audience.
+ARTICLE 8. PERSONAL MESSAGES. Throughout the period on game day that a player is visible to the stadium and television
+audience (including in pregame warm-ups, in the bench area, and during postgame interviews in the locker room or on the field),
+players are prohibited from wearing, displaying, or otherwise conveying personal messages either in writing or illustration, unless
+such message has been approved in advance by the League office. Items to celebrate anniversaries or memorable events, or to
+honor or commemorate individuals, such as helmet decals, and arm bands and jersey patches on players’ uniforms, are prohibited
+unless approved in advance by the League office. All such items approved by the League office, if any, must relate to team or
+League events or personages. The League will not grant permission for any club or player to wear, display, or otherwise convey
+messages, through helmet decals, arm bands, jersey patches, mouthpieces, or other items affixed to game uniforms or equipment,
+which relate to political activities or causes, other non-football events, causes or campaigns, or charitable causes or campaigns.
+Further, any such approved items must be modest in size, tasteful, non-commercial, and non-controversial; must not be worn for
+more than one football season; and if approved for use by a specific team, must not be worn by players on other teams in the
+League.
+ARTICLE 9. GENERAL APPEARANCE. Consistent with the equipment and uniform rules, players must otherwise present a
+professional and appropriate appearance while before the public on game day. Among the types of activity that are prohibited are
+use of tobacco products (smokeless included) while in the bench area and use of facial makeup. In addition to the game day
+penalties described in this rule, the Commissioner may subsequently impose independent disciplinary action on the club and
+involved player, up to and including suspension from the team’s next game – preseason, regular season, or postseason, whichever
+i s applicable.
+Penalties:
+a) For violation of this Section 4 discovered during pregame warm-ups or at other times prior to the game, player will
+be advised to make appropriate correction; if the violation is not corrected, player will not be permitted to enter the
+game.
+b) For violation of this Section 4 that is discovered while player is in the game, and which involves the competitive or
+player safety aspects of the game (e.g., illegal kicking toe of shoe, an adhesive or slippery substance, failure to wear
+mandatory equipment), player will be removed from the game until he has complied.
+c) For any other violation of this Section 4 (e.g., wristbands and mouthpieces that are not League-approved, towel with
+a personal message, impermissible headwear under the helmet) that is discovered while the player is in the game,
+player will be advised to make appropriate correction at the next change of possession; if the violation is not
+corrected, player will not be permitted to enter the game.
+d) For violation of this Section 4 detected in the bench area: Player and head coach will be asked to remove the
+objectionable item, properly equip the player, or otherwise correct the violation. The involved player or players will
+not be permitted to enter the game until the player has complied.
+e) For illegal entry or return of a player suspended under this Section 4: Loss of five yards from succeeding spot and
+removal until properly equipped after one down. See 3-32.
+f) For repeat violation: Disqualification from game.
+Notes:
+(1) If a player is suspended for having adhesive or slippery substances on his body, equipment, or uniform, he must remain
+out of the game for one play, even if there is a team time out, the two-minute warning, or the end of a period.
+(2) If a player (kicker) is suspended for having an illegal kicking shoe, he must remain out of the game for one play, unless
+there is a team time out, the two-minute warning, or the end of the period.

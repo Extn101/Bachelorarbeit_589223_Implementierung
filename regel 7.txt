@@ -1,0 +1,196 @@
+RULE 7 BALL IN PLAY, DEAD BALL, SCRIMMAGE
+SECTION 1 BALL IN PLAY
+ARTICLE 1. LIVE BALL. After the ball has been declared ready for play, it becomes a live ball when it is legally snapped or
+legally kicked (a free kick or fair catch kick). The ball remains dead if it is snapped or kicked before it is made ready for play.
+SECTION 2 DEAD BALL
+ARTICLE 1. DEAD BALL DECLARED. An official shall declare the ball dead and the down ended:
+(a) when a runner is contacted by an opponent and touches the ground with any part of his body other than his hands (including
+the wrist) or feet (including the ankle);
+(b) when a runner is held or otherwise restrained so that his forward progress ends;
+(c) when a quarterback immediately drops to his knee, or simulates dropping to his knee, behind or beyond the line of scrimmage;
+Note: If a quarterback does not immediately drop to a knee, and contact from a rushing defender is unavoidable, it is not a
+foul unless the defender commits some other act that would constitute unnecessary roughness.
+(d) when a runner declares himself down by:
+(1) falling to the ground or kneeling, and clearly making no immediate effort to advance; or
+(2) sliding or diving. When a runner slides or dives feet or head first or simulates sliding or diving, the ball is dead the instant
+he touches the ground with anything other than his hands or his feet, or begins to simulate touching the ground;
+Notes:
+(1) Defenders are required to treat a sliding or diving runner as they would a runner who is down by contact.
+(2) A defender must pull up when a runner begins a slide or dive. This does not mean that all contact by a defender is illegal.
+If a defender has already committed himself, and the contact is unavoidable, it is not a foul unless the defender makes
+forcible contact into the head or neck area of the runner with the helmet, shoulder, or forearm, or commits some other
+act that is unnecessary roughness.
+(3) A runner who desires to take advantage of this protection is responsible for starting his slide or dive before contact by a
+defensive player is imminent; if he does not and waits until the last moment to begin his slide or dive, he puts himself in
+jeopardy of being contacted.
+(e) when a runner is out of bounds;
+(f) when an opponent takes a ball that is in the possession of a runner who is on the ground;
+(g) when a forward pass (legal or illegal) is incomplete (See 8-1-4);
+(h) when any legal or illegal kick touches the receivers’ goal posts or crossbar;
+(i) when a loose ball comes to rest anywhere in the field, and no player attempts to recover it; the official covering the play should
+pause momentarily before signaling that the ball is dead. Any legal (or illegal) kick is awarded to the receivers, and any other
+ball is awarded to the team last in possession. When awarded to a team behind a goal line, the ball is placed on the one-yard
+line;
+(j) when any legal or illegal kick is caught or recovered by the kickers, except a scrimmage kick that is kicked from behind the
+line and is recovered behind the line (See 9-3-2-Item 3 for exception);
+(k) when a kickoff or safety kick first touches the ground or a player in advance of the front yard line of the landing zone;
+(l) when an onside kick goes untouched beyond the onside kick setup zone;
+(m) when a touchdown, touchback, safety, field goal, or Try has been made;
+(n) when any receiver catches or recovers the ball after a fair catch signal (valid or invalid) has been made, provided the ball has
+not been touched by an opponent, before or after it strikes the ground;
+(o) when an official sounds the whistle erroneously while the ball is still in play;
+(1) If the ball is in player possession, the team in possession may elect to put the ball in play where it has been declared
+dead or to replay the down.
+(2) If the ball is a loose ball resulting from a fumble, backward pass, or illegal forward pass, the team last in possession may
+elect to put the ball in play at the spot where possession was lost or to replay the down.
+(3) If the ball is a loose ball resulting from a legal forward pass, a free kick, a fair catch kick, or a scrimmage kick, the ball is
+returned to the previous spot, and the down is replayed.
+(4) If there is a foul by either team during any of the above, and the team in possession at the time of the erroneous whistle
+elects not to replay the down, penalty enforcement is the same as for fouls during a run, forward pass, kick, fumble, and
+backward pass. If the team in possession elects to replay the down, all penalties will be disregarded, except for personal
+fouls and unsportsmanlike conduct fouls, which will be administered prior to the replaying of the down. If the down is
+replayed, the game clock will be reset to the time remaining when the snap occurred, and the clock will start on the snap.
+(p) when a fumble is recovered or caught by a teammate of the fumbling player, and the fumble occurs on a play that is subject
+to the “two-minute”, “Try”, or “fourth-down” fumble provisions (See 8-7-5 and 8-7-6);
+(q) when the ball is out of bounds;
+(r) if a loose ball in play strikes a video board, guide wire, sky cam, or any other object, the ball will be dead immediately, and
+the down will be replayed at the previous spot. In the event the down is replayed, the game clock will be reset to the time
+remaining when the snap occurred, and the clock will start on the snap. All penalties will be disregarded, except for personal
+fouls or unsportsmanlike conduct fouls, which will be administered prior to the replaying of the down; or
+(s) when a runner’s helmet comes completely off.
+ARTICLE 2. BALL TOUCHES OFFICIAL. The ball is not dead because it touches an official who is inbounds, or because of a
+signal by an official other than a whistle.
+SECTION 3 NEW SERIES OF DOWNS
+ARTICLE 1. NEW SERIES FOR TEAM A. A new series of four scrimmage downs is awarded to Team A when the following
+conditions exist:
+(a) During a given series, the ball is declared dead in possession of Team A while at or beyond the line to gain;
+(b) Enforcement of a foul by Team B results in the placement of the ball at or beyond the line to gain,
+or if the enforcement of a foul awards an automatic first down to Team A;
+(c) If there is a change of possession during the down, and Team A has possession at the end of the down;
+(d) The kicking team recovers a scrimmage kick anywhere in the field of play after it first has been touched beyond the line of
+scrimmage by the receivers; or
+(e) The kicking team legally recovers a free kick.
+ARTICLE 2. NEW SERIES FOR TEAM B. A new series of four scrimmage downs is awarded to Team B when the following
+conditions exist:
+(a) Team A fails to advance the ball to the line to gain during a series of downs;
+(b) There is a change of possession during the down, and Team B has possession at the end of the down, or has been awarded
+possession at the end of the down; or
+(c) When the ball is declared dead in possession of the receiving team after a free kick, scrimmage kick, or fair catch kick.
+ARTICLE 3. FORWARD PART OF BALL. The forward part of the ball in its position when it is declared dead in the field of play
+shall be the determining point in measuring any distance gained or lost. The ball shall be rotated so that its long axis is parallel to
+the sidelines before measuring while maintaining the forward most point. When an airborne player of either team completes a
+catch or interception inbounds after an opponent has driven him backward, the ball is declared dead, and forward progress is
+awarded at the spot where initial contact by the opponent was made after the player established control of the ball while in the air.
+SECTION 4 ACTION AT OR BEFORE THE SNAP
+ARTICLE 1. BALL READY FOR PLAY. After the neutral zone has been established (ball is made or declared ready for play), an
+offensive player may not make a false start, a defensive player may not encroach (initiate contact with a member of the offensive
+team) or commit a neutral zone infraction, and no player of either team may be offside when the ball is put in play.
+ARTICLE 2. FALSE START. It is a false start if the ball has been placed ready for play, and, prior to the snap, an offensive player
+who has assumed a set position moves in such a way as to simulate the start of a play, or if an offensive player who is in motion
+makes a sudden movement toward the line of scrimmage. Any quick abrupt movement by a single offensive player, or by several
+offensive players in unison, which simulates the start of the snap, is a false start, and the official shall blow the whistle immediately,
+whether the snap is made or there is a reaction by the defense. For actions by a defensive player who attempts to cause an
+offensive player to commit a false start, see 4-6-5-d.
+Item 1. Interior Lineman. It is a false start if an interior lineman (tackle to tackle) takes or simulates a three-point stance and then
+changes his position or moves the hand that is on the ground.
+An interior lineman who is in a two-point stance is permitted to reset in a three-point stance or change his position, provided that
+he comes to a complete stop prior to the snap. If he does not come to a complete stop prior to the snap, it is a false start.
+Item 2. Eligible Receiver. If all offensive players have been set for at least one full second, and an eligible receiver who is on
+the line of scrimmage moves forward, it is a false start, regardless of whether the action is quick and abrupt or slow and
+deliberate.
+If an eligible receiver who is on the line of scrimmage moves backward or changes his stance (two point to three point or
+conversely) and does not come to a complete stop before the snap, it is a false start.
+Any eligible backfield player who changes his stance does not have to come to a complete stop prior to the snap, as long as his
+actions are not abrupt (false start) or forward (illegal motion).
+Item 3. T-Formation Quarterback. It is legal for a T-Formation Quarterback to go in motion, whether he has placed his hands
+under center, on his knees, or on the body of the center. However, it is a false start if the action is quick and abrupt. If the player
+fails to come to a complete stop for at least one full second prior to the ball being snapped, it is illegal motion.
+Item 4. Shotgun Formation. A player who is in position to receive the snap in shotgun formation is permitted to shift his feet prior
+to the snap, but any quick and abrupt movement is a false start. This includes thrusting his hands forward when there is not a
+simultaneous snap.
+Item 5. Attempt to Draw Offside. Any obvious attempt by the quarterback or other player in position to receive the snap to draw
+an opponent offside is a false start.
+Item 6. Shift Converts to False Start. With the game clock running after the two-minute warning of either half, if all offensive
+players are not set simultaneously for one full second prior to the snap, it is a false start. If all players get set, and then two or
+more players shift without resetting prior to the snap, it is a live ball foul for an illegal shift (7-4-7).
+Penalty: For a false start: Loss of five yards from the line of scrimmage. The penalty is enforced prior to the snap.
+ARTICLE 3. ENCROACHMENT. It is encroachment if a defensive player enters the neutral zone and contacts an offensive player
+or the ball prior to the snap, or if he interferes with the ball during the snap. Officials are to blow their whistles immediately.
+Penalty: For encroachment: Loss of five yards from the line of scrimmage. The penalty is enforced prior to the snap.
+ARTICLE 4. NEUTRAL ZONE INFRACTION. It is a neutral zone infraction when the following occur. Officials are to blow their
+whistles immediately:
+(a) a defender moves beyond the neutral zone prior to the snap and is parallel to or beyond an offensive lineman with an
+unimpeded path to the quarterback or kicker, even though no contact is made by a blocker;
+(b) a defender enters the neutral zone prior to the snap, causing the offensive player(s) in close proximity (including a T-Formation
+Quarterback) to react (move) immediately to protect himself (themselves) against impending contact. If there is no immediate
+reaction by the offensive player(s) in close proximity, and the defensive player returns to a legal position prior to the snap
+without contacting an opponent, there is no foul. A flexed or split receiver is considered to be in close proximity if he is lined
+up on the side of the ball on which the violation occurs; other offensive players are considered to be in close proximity if they
+are within two-and-one-half positions of the defender who enters the neutral zone. If the defender is directly over the center,
+a T-Formation Quarterback, the center, and the guards and tackles on both sides of the center are considered to be within
+close proximity; if the defender is in a gap, the two offensive players on either side of the gap are considered to be within
+close proximity (including a T-Formation Quarterback, if applicable); or
+(c) during the last two minutes of a half the ball is snapped before all members of the defensive team are on their side of the line
+of scrimmage. The offense must be legally set.
+Penalty: For a neutral zone infraction: Loss of five yards from line of scrimmage. Penalty is enforced prior to snap.
+ARTICLE 5. OFFSIDE. A player is offside when any part of his body is in or beyond the neutral zone or beyond a restraining line
+for an onside kick when the ball is put in play.
+Penalty: For offside: Loss of five yards.
+ARTICLE 6. COMPLETE STOP. All offensive players are required to come to a complete stop and be in a set position
+simultaneously for at least one full second prior to the snap. Failure to do so is an illegal shift (see 7-4-2-Item 6 for such an illegal
+shift foul after the two-minute warning of either half which converts to a false start).
+ARTICLE 7. SHIFTS. The offensive team must present a legal formation before and after a shift. It is permitted to shift and have
+two or more players in motion multiple times before the snap. However, after the last shift, all players must come to a complete
+stop and be in a set position simultaneously for at least one full second.
+If any eligible backfield player goes in motion (one at a time) after the last shift and comes to a complete stop, there is no
+requirement for a full second pause before a second player can legally go in motion.
+However, if the first player has not come to a complete stop when the second player goes in motion, it is another shift and requires
+another simultaneous stop for at least one full second by all players.
+It is also an illegal shift if a T-Formation Quarterback goes in motion and fails to come to a complete stop for at least one full
+second before a second player goes in motion.
+Penalty: For an illegal shift: Loss of five yards.
+ARTICLE 8. ILLEGAL MOTION. When the ball is snapped, one player who is lined up in the backfield may be in motion, provided
+that he is moving parallel to or away from the line of scrimmage. No player is permitted to be moving toward the line of scrimmage
+when the ball is snapped. All other players must be stationary in their positions.
+If an eligible receiver who is on the line moves to another position on the line (not forward), he must come to a complete stop prior
+to the snap. If he does not come to a complete stop, it is illegal motion.
+It is also illegal motion if a T-Formation Quarterback goes in motion and fails to come to a complete stop for at least one full second
+prior to the snap.
+Penalty: For a player illegally in motion at the snap: Loss of five yards.
+SECTION 5 POSITION OF PLAYERS AT THE SNAP
+ARTICLE 1. OFFENSIVE TEAM. The offensive team must comply with the following at the snap:
+(a) It must have seven or more players on the line, who may lock legs (3-18).
+(b) Eligible receivers must be on both ends of the line, and all of the players on the line between them must be ineligible receivers.
+(c) No player may be out of bounds.
+(d) No player may take a position that is neither clearly on, nor clearly off the line of scrimmage, unless he is directly behind the
+snapper. Only one player may be in such a position, and he must wear an eligible number, unless he has reported in
+accordance with Rule 5, Section 3, Article 1. Regardless of number or reporting status, this player must comply with all rules
+pertaining to motion (7-4-8) and eligibility (8-1-5, 8-1-6 and 8-3-1).
+(e) Players in eligible positions must wear an eligible number, unless they have reported in accordance with Rule 5, Section 3,
+Article 1.
+Penalty: For illegal formation by the offense: Loss of five yards.
+SECTION 6 PUTTING THE BALL IN PLAY
+ARTICLE 1. BALL IN PLAY. The offensive team must put the ball in play with a snap at the spot where the previous down ended,
+unless the enforcement of a penalty moves the ball to another spot or the down ended outside the inbounds lines. If a fair catch
+kick is chosen after a fair catch, 10-2-4 and 11-4-3 apply.
+ARTICLE 2. SNAP AT INBOUNDS SPOT. The ball is next put in play at the inbounds spot by the team entitled to possession (7-
+1-1 and 7-4-1) when:
+(a) a loose ball other than an incomplete forward pass is out of bounds between the goal lines;
+(b) a runner is out of bounds between the goal lines;
+(c) the ball is dead in a side zone (see 1-1-1);
+(d) the ball is placed in the side zone as the result of a penalty enforcement; or
+(e) a fair catch is made or awarded in a side zone.
+ARTICLE 3. RESTRICTIONS FOR SNAPPER. The snap (3-31) may be made by any offensive player who is on the line of
+scrimmage but must conform to the following provisions:
+(a) The snap must start with the ball on the ground, with its long axis at right angles to the line.
+(b) It is not necessary that the snap be between the snapper’s legs, but it must be one quick and continuous motion of the hand
+or hands of the snapper. The ball must leave or be taken from his hands during this motion.
+(c) The snapper may not snap the ball after it is ready for play until all of the officials have had a reasonable time to assume their
+normal positions. If this occurs, the ball remains dead, and no penalty is assessed unless it is a repeated act after a warning
+(delay of game).
+Penalty: For illegally snapping the ball: Loss of five yards from the line of scrimmage.
+ARTICLE 4. LEGAL SNAP. A snap is a backward pass. The snap must be received by a player who is not on the line of
+scrimmage at the snap, unless the ball first strikes the ground. If the ball first strikes the ground, or is muffed by an eligible backfield
+receiver, or a T-Formation Quarterback, it can be recovered and advanced by any player.
+Penalty: For snapping the ball to a player who is ineligible to receive the snap: Loss of five yards from the line of
+scrimmage. The whistle shall be blown immediately.
