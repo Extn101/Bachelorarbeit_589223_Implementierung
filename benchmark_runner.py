@@ -2,126 +2,159 @@ import json
 import csv
 import time
 import os
-from HTW_Ollama_API import OllamaApi  # Deine Datei heißt jetzt so
+import tiktoken
+from HTW_Ollama_API import OllamaApi
 
 # --- KONFIGURATION ---
-INPUT_FILE = "promptset.json"           # Dein neuer Dateiname
+INPUT_FILE = "promptset_TEST.json"
 OUTPUT_FILE = "benchmark_results_nfl.csv"
 
-# Deine Modelle
+# Modelle
 MODELS_TO_TEST = [
     "llama3.1:8b",
     "llama3.3:70b"
 ]
 
-# Pause zwischen Fragen (kurz, da Modell jetzt im Speicher bleibt)
-DELAY_SECONDS = 0.5
-
-# RAG-Einstellungen (Angepasst an H100 Power!)
+# Einstellungen (Deterministisch)
 RAG_OPTIONS = {
-    "temperature": 0.1,    # Faktentreue
-    "num_ctx": 16384,      # 16k Kontext! Reicht für ca. 40-50 Seiten Text.
+    "temperature": 0.0,
+    "num_ctx": 16384,
     "top_p": 0.9,
+    "seed": 42
 }
 
+# --- HILFSFUNKTIONEN ---
+
+def count_tokens(text):
+    """
+    Zaehlt die Tokens fuer die Kostenberechnung.
+    """
+    try:
+        encoding = tiktoken.get_encoding("cl100k_base")
+        return len(encoding.encode(text))
+    except Exception as e:
+        print(f"[FEHLER] Token-Zaehlung fehlgeschlagen: {e}")
+        return 0
+
+def build_system_prompt(context_text):
+    """
+    Erstellt den System-Prompt.
+    Geht davon aus, dass IMMER Kontext vorhanden ist (auch bei Kat 4).
+    """
+    return (
+            "Du bist ein strikter Regel-Analyst für die National Football League (NFL). "
+            "Deine Aufgabe ist es, Fragen ausschließlich basierend auf dem untenstehenden Kontext zu beantworten.\n\n"
+            "Befolge strikt diese Anweisungen:\n"
+            "1. **Wissensbegrenzung:** Nutze NUR Informationen aus dem Abschnitt 'KONTEXT'. Greife NICHT auf dein internes Trainingswissen zurück.\n"
+            "2. **Rejection:** Wenn die Antwort auf die Frage nicht eindeutig im Kontext steht, antworte exakt mit: 'Dazu habe ich keine Informationen.' (Erfinde nichts!).\n"
+            "3. **Sprache:** Antworte in deutscher Sprache. Behalte englische Fachbegriffe (z.B. 'Touchdown', 'Fumble', 'Line of Scrimmage') bei, da diese im deutschen American Football Standard sind.\n"
+            "4. **Präzision:** Antworte direkt und faktenbasiert. Vermeide Einleitungen wie 'Laut dem Text...'.\n\n"
+            f"KONTEXT:\n{context_text}"
+        )
+
+# --- HAUPTPROGRAMM ---
+
 def run_benchmark():
-    # 1. Fragen laden
+    # 1. Datei laden
     if not os.path.exists(INPUT_FILE):
-        print(f"❌ Fehler: Datei '{INPUT_FILE}' nicht gefunden.")
+        print(f"[FEHLER] Datei '{INPUT_FILE}' nicht gefunden.")
         return
 
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         questions = json.load(f)
 
     # 2. CSV vorbereiten
+    # WICHTIG: Wir nutzen jetzt das Semikolon als Trennzeichen fuer bessere Kompatibilitaet
     file_exists = os.path.exists(OUTPUT_FILE)
 
-    # Mode 'a' (append) ist sicherer, falls das Skript abbricht
+    fieldnames = [
+        "id",
+        "category",
+        "model",
+        "time_sec",
+        "input_tokens",
+        "output_tokens",
+        "question",
+        "model_answer",
+        "ground_truth",
+        "context_snippet"
+    ]
+
+    # delimiter=';' sorgt dafuer, dass Excel die Spalten in Deutschland direkt erkennt
+    # quotechar='"' sorgt dafuer, dass Text in Anfuehrungszeichen gesetzt wird, falls er ein Semikolon enthaelt
     with open(OUTPUT_FILE, "a", newline="", encoding="utf-8") as csvfile:
-        fieldnames = ["id", "category", "difficulty", "model", "time_sec", "tokens", "question", "context_used", "model_answer", "ground_truth", "source"]
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
         if not file_exists:
             writer.writeheader()
 
-        print(f"🚀 Starte Benchmark: {len(questions)} Fragen x {len(MODELS_TO_TEST)} Modelle.")
-        print(f"💾 Output: {OUTPUT_FILE}")
+        print("-" * 60)
+        print(f"[INFO] START BENCHMARK")
+        print(f"[INFO] Fragen: {len(questions)}")
+        print(f"[INFO] Modelle: {MODELS_TO_TEST}")
         print("-" * 60)
 
-        # 3. ÄUßERER LOOP: MODELLE (Optimierung: Modell wird nur 1x geladen)
+        # 3. Schleife ueber Modelle
         for model_name in MODELS_TO_TEST:
-            print(f"\n🔵 Lade Modell: {model_name} (Bitte warten...)")
+            print(f"\n[INFO] Lade Modell: {model_name}...")
 
-            # Kleiner "Warm-Up" Call, damit das Modell sicher im VRAM liegt
+            # Warm-Up
             try:
-                OllamaApi.chat([{"role": "user", "content": "Hi"}], model=model_name)
-                print("   Modell geladen. Starte Fragen...")
+                OllamaApi.chat([{"role": "user", "content": "Hallo"}], model=model_name)
+                print("   [INFO] Modell bereit.")
             except Exception as e:
-                print(f"   ❌ Fehler beim Laden von {model_name}: {e}")
+                print(f"   [FEHLER] Konnte Modell {model_name} nicht laden: {e}")
                 continue
 
-            # 4. INNERER LOOP: FRAGEN
+            # 4. Schleife ueber Fragen
             for i, entry in enumerate(questions):
                 q_id = entry.get("id")
-                question = entry.get("question")
-                context = entry.get("context_text", "")
+                category = entry.get("category")
+                question_text = entry.get("question")
+                context_text = entry.get("context_text", "") # Ist jetzt nie leer (durch Distraktoren)
+                ground_truth = entry.get("ground_truth", "")
 
-                # Fortschrittsanzeige in einer Zeile (sieht sauberer aus)
-                print(f"\r   [{i+1}/{len(questions)}] Frage ID {q_id}...", end="", flush=True)
-
-                # System Prompt bauen
-                if context:
-                    system_prompt = (
-                        "Du bist ein Experte für das NFL-Regelwerk und fungierst als Tutor. "
-                        "Deine Aufgabe ist es, Fragen präzise und vollumfassend zu beantworten.\n"
-                        "Regeln:\n"
-                        "1. Nutze primär den untenstehenden KONTEXT für deine Antwort.\n"
-                        "2. Wenn die Info NICHT im Kontext steht, sage: 'Dazu habe ich keine Infos.'\n"
-                        "3. Antworte auf Deutsch, nutze aber englische Fachbegriffe.\n"
-                        "4. Halte die Antwort so kurz wie möglich, aber so lang wie nötig.\n\n"
-                        f"KONTEXT:\n{context}"
-                    )
-                    context_used = "YES"
-                else:
-                    system_prompt = "Du bist ein NFL-Regel-Experte. Antworte präzise auf Deutsch mit englischen Fachbegriffen."
-                    context_used = "NO"
+                # System Prompt & Token
+                system_message = build_system_prompt(context_text)
+                total_input_text = system_message + "\n" + question_text
+                input_token_count = count_tokens(total_input_text)
 
                 chat_messages = [
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": question}
+                    {"role": "system", "content": system_message},
+                    {"role": "user", "content": question_text}
                 ]
 
+                print(f"\r   [STATUS] Frage {i+1}/{len(questions)} (ID: {q_id}) an {model_name}...", end="", flush=True)
+
                 try:
-                    # API Call
                     response = OllamaApi.chat(chat_messages, model=model_name, options=RAG_OPTIONS)
 
                     if response and "result" in response:
                         writer.writerow({
                             "id": q_id,
-                            "category": entry.get("category", "Unknown"),
-                            "difficulty": entry.get("difficulty", "Unknown"),
+                            "category": category,
                             "model": model_name,
                             "time_sec": response["time"],
-                            "tokens": response["token"], # Das sind die Output-Tokens
-                            "question": question,
-                            "context_used": context_used,
+                            "input_tokens": input_token_count,
+                            "output_tokens": response["token"],
+                            "question": question_text,
                             "model_answer": response["result"],
-                            "ground_truth": entry.get("ground_truth", ""),
-                            "source": entry.get("source_ref", "")
+                            "ground_truth": ground_truth,
+                            "context_snippet": context_text[:50] + "..." if context_text else "EMPTY"
                         })
-                        csvfile.flush() # Sofort speichern
+                        csvfile.flush()
                     else:
-                        print(f" (Keine Antwort) ", end="")
+                        print(" [KEINE ANTWORT] ", end="")
 
                 except Exception as e:
-                    print(f" (Fehler: {e}) ", end="")
+                    print(f" [FEHLER: {e}] ", end="")
 
-                # Kurze Pause reicht jetzt, da Modell nicht neu geladen werden muss
-                time.sleep(DELAY_SECONDS)
+                time.sleep(0.2)
 
-            print(f"\n✅ {model_name} abgeschlossen.")
+            print(f"\n   [INFO] Durchlauf fuer {model_name} beendet.")
 
-    print("\n🏁 Benchmark komplett fertig!")
+    print("\n[INFO] ALLE TESTS ABGESCHLOSSEN.")
+    print(f"[INFO] Ergebnisse gespeichert in: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     run_benchmark()
