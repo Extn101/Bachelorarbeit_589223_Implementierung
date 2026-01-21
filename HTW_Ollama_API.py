@@ -235,14 +235,31 @@ class OllamaApi:
             # LLM Chat return as string
             message = parsed_json.get('message').get('content') if "message" in parsed_json else parsed_json.get('response')
 
-            microseconds_elapsed = parsed_json.get('total_duration')
-            seconds_elapsed = round(microseconds_elapsed / 1000000000, 3)
-            token_count = parsed_json.get('eval_count')
+            # --- ZEITEN (in Sekunden umrechnen) ---
+            # 1. Gesamte Wartezeit (User Sicht)
+            total_duration = parsed_json.get('total_duration', 0) / 1_000_000_000
+
+            # 2. Ladezeit (sollte ~0 sein bei Warm-Up)
+            load_duration = parsed_json.get('load_duration', 0) / 1_000_000_000
+
+            # 3. Lese-Zeit (Wie lange braucht er für den Kontext?)
+            prompt_eval_duration = parsed_json.get('prompt_eval_duration', 0) / 1_000_000_000
+
+            # 4. Schreib-Zeit (Reine Generierung)
+            eval_duration = parsed_json.get('eval_duration', 0) / 1_000_000_000
+
+            # --- TOKENS ---
+            token_count_output = parsed_json.get('eval_count', 0)
+            token_count_input = parsed_json.get('prompt_eval_count', 0)
 
             return {
                 "result": cls.fix_invalid_escapes(message),
-                "time": float(seconds_elapsed),
-                "token": int(token_count),
+                "time": float(total_duration),          # User Wartezeit
+                "time_load": float(load_duration),      # Hardware Ladezeit
+                "time_read": float(prompt_eval_duration),# Kontext Verarbeitungszeit
+                "time_write": float(eval_duration),     # Generierungszeit
+                "token": int(token_count_output),
+                "input_token": int(token_count_input),
                 "info": {}
             }
 
