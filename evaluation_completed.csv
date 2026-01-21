@@ -1,0 +1,21 @@
+id;category;model;time_total;time_read;time_write;input_tokens;output_tokens;tps_read;tps_write;question;model_answer;ground_truth;context_snippet;score
+101;Information Retrieval;llama3.3:70b;19.731;0.969;0.635;730;17;753.51;26.78;Wie groß ist das Spielfeld?;Das Spielfeld ist 360 Fuß lang und 160 Fuß breit.;Das gesamte Feld ist 360 Fuß lang und 160 Fuß breit.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The...";1.0
+102;Reasoning & Synthesis;llama3.1:8b;0.447;0.023;0.344;742;53;32479.51;153.88;Was ist der Unterschied zwischen 'Field of Play' und dem gesamten Spielfeld?;Der 'Field of Play' umfasst die Fläche, die durch die Goal Lines und die Sidelines begrenzt wird. Das gesamte Spielfeld hingegen umfasst den 'Field of Play' sowie die Endzonen.;Das 'Field of Play' ist der Bereich zwischen den Goal Lines. Das gesamte Spielfeld beinhaltet zusätzlich die beiden Endzonen.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The...";1.0
+105;Information Retrieval;llama3.3:70b;18.872;0.598;0.677;443;20;741.11;29.55;Wie hoch muss die Querstange des Torpfostens über dem Boden sein?;Die Oberseite der Querstange muss 10 Fuß über dem Boden liegen.;Die Oberkante der Querstange muss 10 Fuß über dem Boden sein.;"SECTION 3 GOAL
+ARTICLE 1. CROSSBAR. In the plane o...";1.0
+105;Information Retrieval;llama3.1:8b;0.311;0.035;0.149;443;19;12772.28;127.53;Wie hoch muss die Querstange des Torpfostens über dem Boden sein?;Die Querstange (Crossbar) ist 10 Fuß über dem Boden.;Die Oberkante der Querstange muss 10 Fuß über dem Boden sein.;"SECTION 3 GOAL
+ARTICLE 1. CROSSBAR. In the plane o...";1.0
+102;Reasoning & Synthesis;llama3.3:70b;2.193;0.058;1.731;742;55;12737.15;31.78;Was ist der Unterschied zwischen 'Field of Play' und dem gesamten Spielfeld?;Der 'Field of Play' umfasst die Fläche, die von den Goal Lines und den Sidelines begrenzt wird. Das gesamte Spielfeld hingegen umfasst sowohl den 'Field of Play' als auch die End Zones.;Das 'Field of Play' ist der Bereich zwischen den Goal Lines. Das gesamte Spielfeld beinhaltet zusätzlich die beiden Endzonen.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The...";1.0
+103;Regulatory Constraints;llama3.3:70b;19.297;0.806;1.013;732;32;908.34;31.60;Darf das Spielfeld blau sein?;Nein, die Oberfläche des gesamten Spielfelds muss eine liga-genehmigte Schattierung von Grün sein.;Nein. Die Oberfläche muss ein von der Liga genehmigter Grünton sein.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The...";1.0
+103;Regulatory Constraints;llama3.1:8b;0.189;0.010;0.061;732;8;69740.22;130.77;Darf das Spielfeld blau sein?;Dazu habe ich keine Informationen.;Nein. Die Oberfläche muss ein von der Liga genehmigter Grünton sein.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The...";0.0
+104;Regulatory Constraints;llama3.1:8b;6.278;0.444;0.283;886;37;1995.56;130.52;Dürfen die Mannschaftsbänke näher als 30 Fuß an der Seitenlinie stehen?;Nein, nach Artikel 4 des Kontextes dürfen keine Bänke oder starren Fixierungen näher als 30 Fuß von den Seitenlinien stehen.;Nein. Die Zonen für die Mannschaftsbänke müssen einen bestimmten Abstand zur Seitenlinie haben (mindestens 30 Fuß).;"SECTION 2 MARKINGS
+ARTICLE 1. YARD LINE MARKINGS. ...";1.0
+101;Information Retrieval;llama3.1:8b;6.527;0.399;0.122;730;17;1828.30;139.46;Wie groß ist das Spielfeld?;Das Spielfeld ist 360 Fuß lang und 160 Fuß breit.;Das gesamte Feld ist 360 Fuß lang und 160 Fuß breit.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The...";1.0
+104;Regulatory Constraints;llama3.3:70b;27.138;0.940;1.010;886;32;943.01;31.69;Dürfen die Mannschaftsbänke näher als 30 Fuß an der Seitenlinie stehen?;Nein, es dürfen keine Bänke oder starren Einrichtungen näher als 30 Fuß von den Seitenlinien entfernt sein.;Nein. Die Zonen für die Mannschaftsbänke müssen einen bestimmten Abstand zur Seitenlinie haben (mindestens 30 Fuß).;"SECTION 2 MARKINGS
+ARTICLE 1. YARD LINE MARKINGS. ...";1.0

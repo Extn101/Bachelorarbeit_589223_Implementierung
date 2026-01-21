@@ -4,7 +4,7 @@ import os
 from collections import defaultdict
 
 # --- KONFIGURATION ---
-INPUT_FILE = "benchmark_results_nfl.csv"
+INPUT_FILE = "../benchmark_results_open_source.csv"
 
 def print_separator(char="-", length=100):
     print(char * length)
