@@ -1,0 +1,237 @@
+id;category;model;time_total;time_read;time_write;input_tokens;output_tokens;tps_read;tps_write;question;model_answer;ground_truth;context_snippet
+101;Information Retrieval;gpt-5-mini;8.880;0.000;0.000;696;23;0.00;2.59;Wie groß ist das Spielfeld?;Das Spielfeld ist 360 Fuß lang und 160 Fuß breit.;Das gesamte Feld ist 360 Fuß lang und 160 Fuß breit.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+101;Information Retrieval;gpt-5-mini;2.044;0.000;0.000;696;23;0.00;11.25;Wie groß ist das Spielfeld?;Das Spielfeld ist 360 Fuß lang und 160 Fuß breit.;Das gesamte Feld ist 360 Fuß lang und 160 Fuß breit.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+102;Reasoning & Synthesis;gpt-5-mini;6.674;0.000;0.000;705;70;0.00;10.49;Was ist der Unterschied zwischen 'Field of Play' und dem gesamten Spielfeld?;"Der ""Field of Play"" ist der Bereich, der von den Goal Lines und den Sidelines begrenzt wird. Das gesamte Spielfeld (the field) umfasst hingegen sowohl den Field of Play als auch die Endzonen (die von Goal Lines, End Lines und Sidelines begrenzten Bereiche).";Das 'Field of Play' ist der Bereich zwischen den Goal Lines. Das gesamte Spielfeld beinhaltet zusätzlich die beiden Endzonen.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+103;Regulatory Constraints;gpt-5-mini;5.514;0.000;0.000;697;16;0.00;2.90;Darf das Spielfeld blau sein?;Dazu habe ich keine Informationen.;Nein. Die Oberfläche muss ein von der Liga genehmigter Grünton sein.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+104;Regulatory Constraints;gpt-5-mini;1.683;0.000;0.000;846;16;0.00;9.51;Dürfen die Mannschaftsbänke näher als 30 Fuß an der Seitenlinie stehen?;Dazu habe ich keine Informationen.;Nein. Die Zonen für die Mannschaftsbänke müssen einen bestimmten Abstand zur Seitenlinie haben (mindestens 30 Fuß).;"SECTION 2 MARKINGS
+ARTICLE 1. YARD LINE MARKINGS. ..."
+105;Information Retrieval;gpt-5-mini;4.781;0.000;0.000;405;26;0.00;5.44;Wie hoch muss die Querstange des Torpfostens über dem Boden sein?;Die Querstange (Topface) muss 10 Fuß über dem Boden sein.;Die Oberkante der Querstange muss 10 Fuß über dem Boden sein.;"SECTION 3 GOAL
+ARTICLE 1. CROSSBAR. In the plane o..."
+106;Information Retrieval;gpt-5-mini;9.150;0.000;0.000;397;22;0.00;2.40;Welche Farbe müssen die Torpfosten haben?;Die Torpfosten müssen bright gold (hellgold) sein.;Die Torpfosten müssen in hellem Gold gestrichen sein.;"SECTION 3 GOAL
+ARTICLE 1. CROSSBAR. In the plane o..."
+107;Out-of-Domain;gpt-5-mini;8.035;0.000;0.000;704;16;0.00;1.99;Wie viel kostet der Rasen, der für das Spielfeld verwendet wird?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+108;Out-of-Domain;gpt-5-mini;7.133;0.000;0.000;708;16;0.00;2.24;Wie hoch muss der Zaun um das Stadion sein, damit keine Fans auf das Feld laufen?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+201;Information Retrieval;gpt-5-mini;10.922;0.000;0.000;447;16;0.00;1.46;Welcher Luftdruck ist für den Spielball vorgeschrieben?;Dazu habe ich keine Informationen.;Der Ball muss auf 12 ½ bis 13 ½ Pfund (psi) aufgepumpt sein.;"SECTION 1 DIMENSIONS
+The ball must be a “Wilson,” ..."
+202;Information Retrieval;gpt-5-mini;8.270;0.000;0.000;384;29;0.00;3.51;Wie viele Bälle muss jedes Team vor dem Spiel für den Referee zum Testen bereitstellen?;Jedes Team muss 12 primary, 12 backup und drei specially marked kicking balls bereitstellen.;Insgesamt 27 Bälle: 12 primäre Bälle, 12 Ersatzbälle (Backup) und 3 speziell markierte Kicking-Bälle.;"SECTION 2 SUPPLY
+Each team will make 12 primary, 1..."
+203;Reasoning & Synthesis;gpt-5-mini;6.708;0.000;0.000;387;68;0.00;10.14;Das Heimteam stellt die Bälle. Was passiert, wenn deren Bälle nicht den Regeln entsprechen oder ausgehen?;"Wenn ein Teamball nicht den Spezifikationen entspricht oder die Versorgung erschöpft ist, sichert der Referee einen passenden Ball vom gegnerischen Team; falls das nicht möglich ist, verwendet er den bestverfügbaren Ball. Solche Umstände müssen dem Commissioner gemeldet werden.";Der Referee muss sich einen korrekten Ball vom gegnerischen Team besorgen. Wenn das nicht geht, wird der beste verfügbare Ball verwendet.;"SECTION 2 SUPPLY
+Each team will make 12 primary, 1..."
+204;Regulatory Constraints;gpt-5-mini;6.476;0.000;0.000;384;40;0.00;6.18;Es regnet stark und der Ball ist nass. Darf die Offense den Ball tauschen?;Ja. Bei Regen oder einem nassen, matschigen oder rutschigen Feld darf auf Anfrage des Centers der Offensive ein spielbarer Ball verwendet werden.;Ja, bei nassem oder schlammigem Wetter darf auf Anfrage des Centers ein spielbarer (trockener) Ball verwendet werden. Die Uhr wird dafür aber nicht angehalten.;"SECTION 2 SUPPLY
+Each team will make 12 primary, 1..."
+205;Information Retrieval;gpt-5-mini;2.018;0.000;0.000;442;23;0.00;11.40;Welche Farbe muss der Ball haben?;"Der Ball muss naturtannfarben (""natural tan color"") sein.";Er muss eine natürliche Bräunung haben.;"SECTION 1 DIMENSIONS
+The ball must be a “Wilson,” ..."
+206;Out-of-Domain;gpt-5-mini;6.180;0.000;0.000;452;16;0.00;2.59;Von welcher Marke muss der offizielle Spielball hergestellt sein und wie teuer ist er?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 DIMENSIONS
+The ball must be a “Wilson,” ..."
+301;Reasoning & Synthesis;gpt-5-mini;3.736;0.000;0.000;1741;187;0.00;50.05;Ab wann gilt ein Ball als gefangen?;"Ein Ball gilt als gefangen (Catch), wenn ein Spieler, der inbounds ist,
+- die Kontrolle des Balls mit seinen Händen oder Armen erlangt und
+- beide Füße oder ein anderer Teil seines Körpers (nicht die Hände) vollständig inbounds den Boden berühren
+und
+- nachdem die ersten beiden Voraussetzungen erfüllt sind, eindeutig eine zum Spiel gehörende Handlung ausführt (z. B. den Ball nach vorn strecken, einen weiteren Schritt machen, den Ball sichern und in Feldrichtung drehen oder einen Gegner abwehren).
+Es ist nicht erforderlich, diese Handlung tatsächlich auszuführen, sofern der Spieler den Ball lange genug kontrolliert, um sie ausführen zu können.
+
+Hinweis: Ein Catch liegt auch vor, wenn der Spieler den Ball vor dem Bodenkontakt sichert und diese Kontrolle während und nach dem Aufkommen des Balls auf dem Boden beibehält.";Ein Spieler muss den Ball mit den Händen oder Armen Kontrollieren und mit beiden Füßen den Boden Berühren. Wenn diese beiden Punkte erfüllt sind muss der Ball lange genug im Besitz bleiben um einen 'act common to the game' ausführen zu können, unabhängig davon ob die Aktion ausgeführt werden kann (z. B. den Ball wegstecken, ausweichen, den Ball vorstrecken), damit der Catch vollständig ist. ;"SECTION 2 THE BALL AND POSSESSION OF THE BALL
+ARTI..."
+302;Reasoning & Synthesis;gpt-5-mini;6.036;0.000;0.000;1764;16;0.00;2.65;Der Ball wird bei einem Kickoff gekickt. Ein Spieler berührt den Ball in dem Versuch, ihn zu fangen. Gilt das als Fumble?;Dazu habe ich keine Informationen.;Nein, das ist ein 'Muff'. Ein Fumble setzt voraus, dass der Spieler vorher im Ballbesitz war. Ein Muff ist das Berühren eines freien Balls, wodurch dieser weiter frei bleibt.;"SECTION 2 THE BALL AND POSSESSION OF THE BALL
+ARTI..."
+303;Reasoning & Synthesis;gpt-5-mini;3.921;0.000;0.000;1748;149;0.00;38.00;Was ist der Unterschied zwischen einem 'Live Ball' und einem 'Loose Ball'?;"Ein Live Ball ist ein Ball, der in play ist. Ein toter Ball wird live, wenn er (a) legal auf einem free kick down gekickt, (b) legal auf einem scrimmage down gesnapt oder (c) legal auf einem fair catch kick down gekickt wird; er bleibt bis zum Ende des Downs in play.
+
+Ein Loose Ball ist ein live Ball, der nicht in Spielerbesitz ist — also jeder Ball, der gekickt, gepasst oder gefumbled wurde. Ein Loose Ball gilt als im Besitz der Mannschaft, deren Spieler ihn gekickt, gepasst oder gefumbled hat, bis ein Spieler Besitz erlangt oder der Ball dead wird.";Ein 'Live Ball' ist jeder Ball, der aktiv im Spiel ist bzw gespielt wird. Ein 'Loose Ball' ist ein Live Ball, der sich nicht im Besitz eines Spielers befindet (z. B. ein Pass in der Luft, ein Fumble am Boden oder ein Kick).;"SECTION 2 THE BALL AND POSSESSION OF THE BALL
+ARTI..."
+304;Reasoning & Synthesis;gpt-5-mini;2.490;0.000;0.000;853;73;0.00;29.32;Ab wann wird ein Passing Play ein Running Play?;Ein Passing Play beginnt mit dem Snap und endet, wenn ein forward pass, der von hinter der Line of Scrimmage geworfen wurde, von einem Spieler einer der beiden Mannschaften gefangen wird oder unvollständig ist. Ab dem Augenblick, in dem ein solcher Pass gefangen wird, beginnt ein Running Play.;Ein Passing Play wird zu einem Running Play, sobald der Vorwärtspass erfolgreich gefangen wurde.;"SECTION 24 PLAYS
+ARTICLE 1. FREE KICK PLAY. A free..."
+305;Reasoning & Synthesis;gpt-5-mini;7.047;0.000;0.000;1759;73;0.00;10.36;Zwei gegnerische Spieler springen hoch, fangen den Ball gleichzeitig und landen beide sicher im Feld. Wessen Ball ist es?;Wenn zwei Gegner den Ball gleichzeitig kontrollieren und beide ihn behalten (simultane possession), gehört der Ball dem Team, das zuletzt in Ballbesitz war. Wenn zuletzt kein Team Besitz hatte (z. B. bei einem Free Kick, Scrimmage Kick oder Fair Catch Kick), gehört der Ball dem Empfangsteam.;Das nennt sich 'Simultaneous Possession'. Der Ball gehört dem Team, das zuletzt im Ballbesitz war (Offense), oder bei einem Kick dem empfangenden Team (Receiving Team).;"SECTION 2 THE BALL AND POSSESSION OF THE BALL
+ARTI..."
+306;Information Retrieval;gpt-5-mini;1.757;0.000;0.000;627;55;0.00;31.30;Was ist die 'Neutral Zone'?;Die Neutral Zone ist der Raum zwischen den Forward- und Backward-Punkten des Balls (die entsprechenden Ebenen) und erstreckt sich bis zu den Seitenlinien. Sie beginnt, wenn der Ball ready for play ist.;Das ist der Raum zwischen der vorderen und hinteren Spitze des Balls, wenn er vor dem Snap auf dem Boden liegt. Sie erstreckt sich über die gesamte Breite des Feldes.;"SECTION 18 LINE OF SCRIMMAGE, NEUTRAL ZONE
+ARTICLE..."
+308;Information Retrieval;gpt-5-mini;6.543;0.000;0.000;560;51;0.00;7.80;Was bedeutet 'Down'?;Ein Down ist ein Zeitraum der Aktion, der beginnt, wenn der Ball in Spiel gebracht wird (3-2-3), und endet, wenn der Ball für tot erklärt wird (7-2-1).;Ein 'Down' ist eine Zeiteinheit im Spiel, die mit dem Snap oder Kickoff beginnt und endet, wenn der Ball tot (Dead Ball) erklärt wird.;"SECTION 8 DOWN
+ARTICLE 1. DOWN. A down is a period..."
+309;Out-of-Domain;gpt-5-mini;6.125;0.000;0.000;335;16;0.00;2.61;Wie wird der 'Quarterback Rating' Wert statistisch genau berechnet?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 APPROVED RULING (A.R.)
+An Approved Rulin..."
+401;Information Retrieval;gpt-5-mini;9.194;0.000;0.000;2020;16;0.00;1.74;Wie viele Timeouts hat jedes Team im Spiel?;Dazu habe ich keine Informationen.;Jedes Team hat 3 Timeouts pro Halbzeit, also theoretisch 6 pro Spiel.;"SECTION 5 TIMEOUTS
+ARTICLE 1. CHARGED TEAM TIMEOUT..."
+402;Out-of-Domain;gpt-5-mini;1.313;0.000;0.000;2030;16;0.00;12.18;Wie lange darf die Werbeunterbrechung beim 'Two-Minute Warning' maximal dauern?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 5 TIMEOUTS
+ARTICLE 1. CHARGED TEAM TIMEOUT..."
+502;Reasoning & Synthesis;gpt-5-mini;6.214;0.000;0.000;1167;16;0.00;2.57;Wie kann ein Spieler sich als fangberechtigt anmelden?;Dazu habe ich keine Informationen.;Ein Spieler mit einer Nummer, die normalerweise nicht berechtigt ist (50-79), muss sich sofort beim Referee melden ('report as eligible'), bevor er sich als Receiver aufstellt. Der Referee informiert dann die Defense.;"SECTION 3 CHANGES IN POSITION
+ARTICLE 1. REPORTING..."
+520;Out-of-Domain;gpt-5-mini;1.081;0.000;0.000;1012;16;0.00;14.80;Wie hoch ist das Mindestgehalt für einen Rookie-Spieler laut Regelwerk?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 PLAYERS
+ARTICLE 1. NUMBER OF PLAYERS. Th..."
+521;Out-of-Domain;gpt-5-mini;4.273;0.000;0.000;4544;16;0.00;3.74;Wer ist dafür verantwortlich, die Trikots der Spieler nach dem Spiel zu waschen?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 4 EQUIPMENT, UNIFORMS, PLAYER APPEARANCE
+A..."
+601;Regulatory Constraints;gpt-5-mini;11.796;0.000;0.000;3090;237;0.00;20.09;Wann darf ein Kicking Tee verwendet werden?;"Ein Kicking Tee darf während eines free kick verwendet werden. Genauer:
+- Bei einem kickoff (Abschnitt 1(a)) darf ein Drop kick oder place kick verwendet werden; ein manufactured tee, das den Ball höchstens ein Inch vom Boden hält und von der League genehmigt ist, darf während eines free kick verwendet werden (Hinweis unter Article 1).
+- Bei einem safety kick (Abschnitt 1(b)) darf ein Drop kick, place kick oder Punt verwendet werden; ein Tee darf für einen safety kick verwendet werden (Abschnitt 1(b) und Hinweis unter Article 1).
+- Bei einem onside kick darf ein Holder verwendet werden; nur wenn das onside kick deklariert ist, darf der Ball auf dem Boden gegen das Tee gelehnt werden. Das Tee darf den Ball höchstens ein Inch über dem Boden halten und muss genehmigt sein; nach dem Platzieren darf das Tee nicht bewegt werden. Wenn der Ball zweimal vom Tee fällt, muss bei Kickoff oder safety kick mit einem designated holder gekickt werden bzw. bei onside kick mit einem Holder (Hinweis unter Article 1).";Ein Kicking Tee darf nur bei einem Free Kick verwendet werden. Der Free Kick umfasst Kickoffs, Safety Kicks und Onside Kicks.;"SECTION 1 PROCEDURES FOR A FREE KICK
+ARTICLE 1. FR..."
+602;Reasoning & Synthesis;gpt-5-mini;2.248;0.000;0.000;3096;97;0.00;43.14;Was passiert, wenn der Ball beim Kickoff vom Kicking Tee fällt?;Wenn der Ball vom Kickoff-Kicking-Tee fällt, müssen die Covering Officials das Spiel stoppen und den Timing-Prozess ohne Strafe für das kicking team neu starten. Wenn der Ball während desselben free kick downs ein zweites Mal vom Tee fällt, muss das kicking team ihn beim nächsten Versuch mit der Verwendung eines designated holders beim kickoff oder safety kick, bzw. mit einem holder bei einem onside kick, vom Tee kicken.;Das Spiel wird sofort unterbrochen, bevor ein Spielzug entstehen kann. Der Kickoff wird wiederholt. Falls der Ball ein zweites Mal während desselben Kickoff-Downs vom Tee fällt, muss der Kicker den Ball mit einem Holder kicken.;"SECTION 1 PROCEDURES FOR A FREE KICK
+ARTICLE 1. FR..."
+603;Reasoning & Synthesis;gpt-5-mini;3.517;0.000;0.000;2019;113;0.00;32.13;Was passiert, wenn der Ball beim Kickoff out of bounds landet?;"Die empfangende Mannschaft kann wählen, den Ball an einer der folgenden Stellen in Ballbesitz zu nehmen:
+
+- 25 Yards von der Stelle des Kicks entfernt am inbounds line auf der Seite des Spielfelds, wo der Ball out of bounds ging, oder
+- am Out-of-bounds-Punkt, oder
+- an der Stelle, wo der Ball landete oder berührt wurde, falls dies vor der vorderen Kante der Landing Zone geschah und weniger als 25 Yards sind.";Das ist ein Foul. Wenn ein Kickoff oder Onside Kick versucht wurde darf die Offense wählen ob: der Ball am Spot des Fouls, oder 25 Yards vor dem Kick-Punkt. Wenn ein Saftey Kick versucht wurde sind es 30 Yards.;"SECTION 2 OTHER FREE KICK FOULS
+ARTICLE 1. BLOCKIN..."
+604;Reasoning & Synthesis;gpt-5-mini;6.125;0.000;0.000;4897;16;0.00;2.61;Was passiert, wenn das Receiving Team den Ball beim Onside Kick innerhalb der ersten 10 Yards berührt?;Dazu habe ich keine Informationen.;Das ist legal. Die 10-Yard-Sperre gilt nur für das Kicking Team. Sobald das Receiving Team den Ball berührt, ist er frei für alle.;"SECTION 1 PROCEDURES FOR A FREE KICK
+ARTICLE 1. FR..."
+605;Regulatory Constraints;gpt-5-mini;8.276;0.000;0.000;3102;16;0.00;1.93;Dürfen 2 Spieler des Receiving Teams einen gegnerischen Spieler beim Kickoff gemeinsam blocken?;Dazu habe ich keine Informationen.;Ja ein Double-Team Block ist unter bestimmten Voraussetzung erlaubt. Beide Blocker müssen sich in der Setup-Zone beim Kick aufstellen und den zu blockenden Spieler zeitgleich kontaktieren. Weiterer Spieler darf nicht am Blocken teilnehmen.;"SECTION 1 PROCEDURES FOR A FREE KICK
+ARTICLE 1. FR..."
+606;Regulatory Constraints;gpt-5-mini;4.413;0.000;0.000;3093;288;0.00;65.26;Wer muss beim Kickoff alles stillstehen und wie lange?;"Alle Spieler, bei denen dies im Text steht, müssen mit beiden Füßen auf dem Boden bleiben und in einer stationären Position stehen:
+
+- Alle Spieler der kicking team außer dem Kicker: Sie müssen mit ihrem vorderen Fuß auf der kicking team’s restraining line (kicking team’s restraining line = 35‑Yard‑Line bei einem Kickoff) ausgerichtet sein, und beide Füße müssen auf dem Boden bleiben, vom Beginn der Anlaufbewegung des Kickers bis der Ball den Boden oder einen Spieler in der landing zone oder der Endzone berührt. (SECTION 1, ART.3(a)(1) und (c))
+
+- Alle receiving team Spieler in der setup zone: Sie müssen ebenfalls mit beiden Füßen auf dem Boden bleiben vom Beginn der Anlaufbewegung des Kickers bis der Ball den Boden oder einen Spieler in der landing zone oder der Endzone berührt. Mindestens neun Spieler müssen in der setup zone positioniert sein; mindestens sechs davon mit dem vorderen Fuß auf der receiving team’s restraining line (SECTION 1, ART.3(b) und (c)).
+
+Zusätzlich: Sobald das kicking team in einer stationären Position gelandet ist, darf das receiving team eine angemessene Zeit (reasonable amount of time) zum Aufstellen in der setup zone verbleiben. (SECTION 1, ART.3(d))";Alle Spieler des Kicking Teams außer dem Kicker müssen mit dem vorderen Fuß auf der Restraining Line des Kicking Teams aufgestellt sein und beide Füße müssen bis zum Kick auf dem Boden bleiben. Alle Spieler des Receiving Teams müssen inbounds und hinter ihrer Restraining Line stehen, und mindestens neun Spieler müssen in der Setup-Zone positioniert sein. Diese Regeln gelten ab dem Zeitpunkt, an dem der Kicker seinen Anlauf zum Ball beginnt, bis der Ball den Boden oder einen Spieler in der Landing Zone oder Endzone berührt.;"SECTION 1 PROCEDURES FOR A FREE KICK
+ARTICLE 1. FR..."
+607;Regulatory Constraints;gpt-5-mini;2.668;0.000;0.000;2029;42;0.00;15.74;Wie viele Yards Strafe gibt es für einen illegalen wedge-block und gibt es einen legalen wedge-block?;Für einen illegalen wedge block beträgt die Strafe 15 Yards. Einen legalen wedge block gibt es nicht — ein wedge block ist zu keinem Zeitpunkt erlaubt.;Die Strafe beträgt 15 Yards (Spot Foul oder vom Kickoff Spot, je nach Situation). Ein Wedge Block (mehr als 2 Spieler Schulter-an-Schulter) ist generell verboten.;"SECTION 2 OTHER FREE KICK FOULS
+ARTICLE 1. BLOCKIN..."
+610;Out-of-Domain;gpt-5-mini;10.043;0.000;0.000;3102;16;0.00;1.59;Dürfen Cheerleader das Feld betreten, während der Kicker sich beim Timeout aufwärmt?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 PROCEDURES FOR A FREE KICK
+ARTICLE 1. FR..."
+701;Reasoning & Synthesis;gpt-5-mini;12.510;0.000;0.000;1563;308;0.00;24.62;Wann ist ein Spieler 'down'?;"Ein Spieler ist 'down' (der Ball ist tot und der Down beendet), wenn eine der in SECTION 2 ARTICLE 1 genannten Bedingungen erfüllt ist, insbesondere:
+
+- Ein Runner wird von einem Gegner berührt und berührt mit einem Körperteil außer Händen (inkl. Handgelenk) oder Füßen (inkl. Knöchel) den Boden.
+- Ein Runner wird gehalten oder anderweitig so zurückgehalten, dass sein Vorwärtsdrang endet.
+- Ein Quarterback geht unmittelbar hinter oder jenseits der Line of Scrimmage auf ein Knie oder täuscht dies vor.
+- Ein Runner erklärt sich selbst down, indem er fällt oder kniet und deutlich keinen sofortigen Versuch unternimmt, weiter vorzurücken, oder indem er slidet oder taucht (das Ballspiel ist tot in dem Moment, in dem er mit etwas anderem als Händen oder Füßen den Boden berührt oder beginnt, das Berühren des Bodens zu simulieren).
+- Ein Runner ist out of bounds.
+- Ein Gegner nimmt dem auf dem Boden befindlichen Runner den Ball ab.
+- Ein Runner beginnt einen Slide oder Dive (Verteidiger müssen aufhören bzw. zurückziehen; besondere Regeln zu unvermeidbarem Kontakt und Schutz vor Kopftreffer gelten).
+- Die Helmabnahme: Wenn der Helm eines Runners vollständig abkommt.
+
+(Weitere, in ARTICLE 1 aufgelistete Gründe für Dead Ball sind in SECTION 2 ARTICLE 1 aufgeführt.)";" Ein Spieler ist 'down', wenn er von einem Gegner berührt wird und mit einem Teil seines Körpers außer den Händen (einschließlich Handgelenk) oder Füßen (einschließlich Knöchel) den Boden berührt; wenn er gehalten oder anderweitig zurückgehalten wird, sodass sein Vorwärtsfortschritt endet; wenn ein Quarterback sofort hinter oder jenseits der Line of Scrimmage auf sein Knie fällt oder so tut, als ob er auf sein Knie fällt; wenn ein Läufer sich selbst durch Fallen, Knien, Rutschen oder Tauchen als down erklärt; wenn ein Läufer aus dem Spielfeld geht; wenn ein Gegner einen Ball nimmt, der sich im Besitz eines Läufers am Boden befindet; wenn ein Vorwärtspass unvollständig ist; wenn ein legaler oder illegaler Kick die Torpfosten oder die Querlatte berührt; wenn ein loser Ball irgendwo auf dem Spielfeld zur Ruhe kommt und kein Spieler versucht, ihn zu erobern; wenn ein legaler oder illegaler Kick von den Kickern gefangen oder erobert wird (außer bei einem Scrimmage-Kick, der von hinter der Linie gekickt und hinter der Linie erobert wird); wenn ein Kickoff oder Safety-Kick zuerst den Boden oder einen Spieler vor der vorderen Yard-Linie der Landezone berührt; wenn ein Onside-Kick unberührt über die Onside-Kick-Setup-Zone hinausgeht; wenn ein Touchdown, Touchback, Safety, Field Goal oder Try erzielt wurde; wenn ein Empfänger den Ball nach einem Fair-Catch-Signal fängt oder erobert (sofern der Ball nicht von einem Gegner berührt wurde); wenn ein Offizieller irrtümlich die Pfeife bläst, während der Ball noch im Spiel ist.; wenn ein Spieler seinen Helm verliert; wenn der Ball nicht aktiv im Spiel befindliche Ausrüstung berührt; oder wenn ein Teammitglied einen Fumble aufnimmt, während eines two minute, try oder vierten downs Spielzug.";"SECTION 1 BALL IN PLAY
+ARTICLE 1. LIVE BALL. After..."
+702;Information Retrieval;gpt-5-mini;2.085;0.000;0.000;1572;79;0.00;37.89;Liste alle Körperteile auf, mit denen ein Spieler als down gewertet wird.;"Die im Kontext genannten Körperteile, bei deren Berührung mit dem Boden ein Spieler als down gewertet wird:  
+- Hände (inklusive Handgelenk)  
+- Füße (inklusive Knöchel)  
+- jeglicher anderer Teil des Körpers außer den Händen oder Füßen (d.h. alle anderen Körperteile werden ebenfalls genannt)";Jedes Körperteil außer den Händen und den Füßen (z.B. Knie, Ellbogen, Kopf, Gesäß, Rücken).;"SECTION 1 BALL IN PLAY
+ARTICLE 1. LIVE BALL. After..."
+703;Information Retrieval;gpt-5-mini;2.643;0.000;0.000;2029;52;0.00;19.67;Was bedeutet Offside?;Ein Spieler ist offside, wenn irgendein Teil seines Körpers in oder jenseits der neutral zone oder jenseits einer restraining line bei einem Onside Kick ist, wenn der Ball in Spiel gebracht wird.;Ein Spieler befindet sich beim Snap in oder jenseits der Neutral Zone.;"SECTION 4 ACTION AT OR BEFORE THE SNAP
+ARTICLE 1. ..."
+704;Regulatory Constraints;gpt-5-mini;5.323;0.000;0.000;2035;16;0.00;3.01;Kann nur ein Defensive-Spieler im Offside sein?;Dazu habe ich keine Informationen.;Nein. Auch Offense-Spieler können im Offside sein, wenn sie Körperteile in der Neutral Zone haben (Lined up in the neutral zone).;"SECTION 4 ACTION AT OR BEFORE THE SNAP
+ARTICLE 1. ..."
+705;Reasoning & Synthesis;gpt-5-mini;3.968;0.000;0.000;2017;100;0.00;25.20;Ein Ballträger läuft ins Aus. Was gilt als Startpunkt für den nächsten Spielzug: Wo der Ball war oder wo der Ballträger war?;Der Startpunkt für den nächsten Spielzug ist der Ort, an dem der Ball deklariert wurde dead — also der Punkt, an dem sich der Ball befand, als der Ballträger out of bounds war. (Siehe Section 2, Article 1(e) und Section 3, Article 3: Der vordere Teil des Balls an der Stelle, wo der Ball dead erklärt wurde, ist der maßgebliche Punkt.);Der Spot ist dort, wo sich der Ball befand, genau in dem Moment, als der Ballträger mit einem Fuß oder einem anderem Körperteil die Seitenlinie berührte.;"SECTION 1 BALL IN PLAY
+ARTICLE 1. LIVE BALL. After..."
+706;Regulatory Constraints;gpt-5-mini;6.237;0.000;0.000;483;240;0.00;38.48;Was ist eine illegale Formation der Offense?;"Eine illegale Formation der Offense liegt vor, wenn die Offense die Vorgaben aus SECTION 5, ARTICLE 1 nicht einhält. Konkret ist eine Formation illegal, wenn eine oder mehrere der folgenden Bedingungen verletzt werden:
+
+- Es sind weniger als sieben Spieler auf der Line (Abschnitt (a)).  
+- Nicht auf beiden Enden der Line stehen eligible receivers, oder Spieler zwischen diesen Enden sind nicht ineligible (Abschnitt (b)).  
+- Ein Spieler steht out of bounds (Abschnitt (c)).  
+- Ein Spieler nimmt eine Position ein, die weder eindeutig on noch off the Line of Scrimmage ist, obwohl er nicht direkt hinter dem snapper steht; mehr als ein Spieler befindet sich in einer solchen unklaren Position; oder ein Spieler in dieser Position trägt keine eligible number und hat sich nicht gemäß Rule 5, Section 3, Article 1 gemeldet (Abschnitt (d)).  
+- Spieler in eligible Positionen tragen keine eligible number und haben sich nicht gemäß Rule 5, Section 3, Article 1 gemeldet (Abschnitt (e)).
+
+Strafe: Loss of five yards."; Eine illegale Formation der Offense liegt vor, wenn die Offense nicht mindestens sieben Spieler in der Line hat, wenn nicht beide Enden der Line von einem berechtigten Receiver besetzt sind, wenn ein Spieler out of bounds ist, wenn mehr als ein Spieler weder klar on noch klar off der Line of Scrimmage positioniert ist (außer dem Snapper), oder wenn Spieler in berechtigten Positionen keine berechtigte Nummer tragen (außer sie haben sich gemeldet).;"SECTION 5 POSITION OF PLAYERS AT THE SNAP
+ARTICLE ..."
+710;Out-of-Domain;gpt-5-mini;4.167;0.000;0.000;298;16;0.00;3.84;Welche Marke von Wasserflaschen dürfen Spieler während einer Verletzungsunterbrechung nutzen?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 BALL IN PLAY
+ARTICLE 1. LIVE BALL. After..."
+801;Regulatory Constraints;gpt-5-mini;5.998;0.000;0.000;4068;359;0.00;59.85;Wann darf ein Football nach vorne geworfen und wann nach hinten geworfen werden?;"Ein Forward Pass darf durchgeführt werden, wenn:
+- er von der Offense ausgeführt wird und nur einmal pro Down von hinter der Line of Scrimmage geworfen wird (Section 1, Art. 2).  
+- es eine Forward-Bewegung des Balls nach dem Verlassen der Hand des Passers gibt (Section 1, Art. 1(a)), oder der Ball an einem Punkt landet, der näher der gegnerischen Goal Line ist als der Ort, an dem er die Hand des Passers verließ (1(b)), oder ein absichtlich nach vorne gefummelt wurde (1(c)).  
+
+Ein Forward Pass ist untersagt (illegal), wenn:
+- der Werfer beim Abwurf mit seinem ganzen Körper und dem Ball komplett über der Line of Scrimmage steht (Section 1, Art. 2, Item 1(a));  
+- ein zweiter Forward Pass in demselben Down geworfen wird (Item 1(b));  
+- ein Forward Pass geworfen wird, nachdem der Ball die Line of Scrimmage überschritten und dann wieder dahinter gelandet ist (Item 1(c));  
+- ein Forward Pass nach einem Wechsel der Ballbesitzes geworfen wird (Item 1(d)).
+
+Ein Backward Pass (Backward Pass) darf jederzeit von einem Runner geworfen werden; jeder Snap vom Center ist ein Backward Pass (Section 7, Art. 1). Spieler beider Teams dürfen einen gefangenen oder nach dem Aufprall auf den Boden aufgenommenen Backward Pass oder Fumble vorwärts tragen (Section 7, Art. 1). Wenn ein Backward Pass ins Aus geht, gelten Sonderregeln (Section 7, Art. 2).";Ein Vorwärtspass darf nur einmal pro Spielzug von hinter der Line of Scrimmage geworfen werden. Ein Rückwärtspass ist jederzeit und von jeder Position aus erlaubt.;"SECTION 7 BACKWARD PASS AND FUMBLE
+ARTICLE 1. BACK..."
+802;Reasoning & Synthesis;gpt-5-mini;1.383;0.000;0.000;2364;16;0.00;11.57;Was bedeutet es, dass ein Spieler sich re-etablieren muss, nachdem er out of bounds gelaufen ist?;Dazu habe ich keine Informationen.;Er muss sich 're-establish'en. Das heißt, er muss mit beiden Füßen (oder einem Körperteil) wieder im Spielfeld landen, bevor er legal den Ball berühren darf.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+803;Reasoning & Synthesis;gpt-5-mini;0.937;0.000;0.000;1943;16;0.00;17.07;Wenn der Ball gefumbelt wird, wer bekommt dann den Ball und wo geht es weiter?;Dazu habe ich keine Informationen.; Wenn der Ball gefumbelt wird, kann jeder Spieler beider Teams den Ball aufnehmen und vorwärts bewegen, außer wenn der Fumble im vierten Down, nach der Zwei-Minuten-Warnung oder während eines Trys passiert. Wenn der Fumble ins Aus geht, wird der Ball an dem Punkt wieder ins Spiel gebracht, an dem der Fumble ins Aus ging, abhängig davon, ob der Fumble vorwärts oder rückwärts ging. Wenn der Ball rückwärts ins Aus geht, bekommt das Team, das zuletzt den Ball hatte, den Ball an dem Punkt, an dem der Ball ins Aus ging. Wenn der Fumble vorwärts ins Aus geht, bekommt das Team, das zuletzt den Ball hatte, den Ball an dem Punkt des Fumbles. Wenn der Fumble in der eigenen Endzone nach vorne in Field of Play und dann ins Aus geht, führt das zu einem Safety, wenn das Team den Impuls gegeben hat, der den Ball in die Endzone gebracht hat. Wenn der Impuls vom Gegner kam, führt das zu einem Touchback. Wenn nichts davon zutrifft und es keinen Ballbesitzwechsel gab und der Ball nicht das first down erreicht hat, wird der Ball dem verteidigenden Team an dem Punkt gegeben, an dem der Ball für tot erklärt wurde.;"SECTION 7 BACKWARD PASS AND FUMBLE
+ARTICLE 1. BACK..."
+804;Regulatory Constraints;gpt-5-mini;6.315;0.000;0.000;2364;16;0.00;2.53;Darf ein Spieler den Ball zu einem Mitspieler nach vorne übergeben, wenn er nicht der Quarterback ist?;Dazu habe ich keine Informationen.;Ja solange er sich hinter der Line of Scrimmage befindet und der Mitspieler ein berechtigter Empfänger ist.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+805;Regulatory Constraints;gpt-5-mini;7.417;0.000;0.000;2350;16;0.00;2.16;Darf jeder Spieler den Ball fangen?;Dazu habe ich keine Informationen.;Nein. Nur 'Eligible Receivers' (Enden der Linie, Backfield-Spieler) dürfen einen Vorwärtspass fangen. Linemen (Nr. 50-79) sind normalerweise nicht berechtigt.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+806;Regulatory Constraints;gpt-5-mini;11.583;0.000;0.000;2359;16;0.00;1.38;Wenn ein nicht fangberechtigter Spieler fängt den Ball. Welche Strafe entsteht?;Dazu habe ich keine Informationen.;Illegal Touching. Die Strafe beträgt 5 Yards und beinhaltet einen 'Loss of Down'.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+807;Reasoning & Synthesis;gpt-5-mini;4.226;0.000;0.000;2374;16;0.00;3.79;Ein nicht fangberechtigter Spieler fängt den Ball, nachdem er von einem Verteidiger berührt ('gemuffed') wurde. Ist das ein Foul?;Dazu habe ich keine Informationen.;Nein. Sobald die Defense (oder ein Offizieller) den Ball berührt, werden alle Offense-Spieler fangberechtigt.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+808;Reasoning & Synthesis;gpt-5-mini;1.030;0.000;0.000;1301;16;0.00;15.53;Bei einer offensiven pass interference, wird der Ball beim ort des foul weitergespielt, richtig?;Dazu habe ich keine Informationen.;Nein. Offensive Pass Interference ist kein Spot Foul. Es gibt 10 Yards Strafe vom Previous Spot (vorherigen Startpunkt).;"SECTION 5 PASS INTERFERENCE
+ARTICLE 1. DEFINITION...."
+809;Reasoning & Synthesis;gpt-5-mini;9.622;0.000;0.000;2361;16;0.00;1.66;Wenn der Ball hinter der Line of Scrimmage gepasst wird, folgt eine Strafe?;Dazu habe ich keine Informationen.;Nein, solange es der erste Vorwärtspass ist. Pässe hinter der Line sind legal.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+815;Out-of-Domain;gpt-5-mini;3.882;0.000;0.000;768;16;0.00;4.12;Wie viel Dezibel Lärm dürfen die Fans im Stadion verursachen, bevor der Quarterback sich beschweren darf?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 2 INTENTIONAL GROUNDING
+ARTICLE 1. DEFINIT..."
+901;Out-of-Domain;gpt-5-mini;1.186;0.000;0.000;1554;16;0.00;13.49;Darf ein Spieler Werbung für seine eigene Modemarke auf den Handschuhen tragen, um Gegner zu blocken?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 KICK FROM SCRIMMAGE
+ARTICLE 1. KICK ON O..."
+1001;Out-of-Domain;gpt-5-mini;7.192;0.000;0.000;734;16;0.00;2.22;Wie hoch ist die Geldstrafe in Dollar, die ein Spieler an die Liga zahlen muss, wenn er disqualifiziert wird?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 OPPORTUNITY TO CATCH A KICK
+ARTICLE 1. I..."
+1101;Information Retrieval;gpt-5-mini;1.568;0.000;0.000;373;16;0.00;10.20;Gibt ein Touchdown 7 Punkte?;Dazu habe ich keine Informationen.;Nein. Ein Touchdown zählt 6 Punkte. Der 7. Punkt (Extrapunkt/PAT) ist ein separater Spielzug (Try), der nach dem Touchdown gespielt wird.;"SECTION 1 VALUE OF SCORES
+ARTICLE 1. WINNING TEAM...."
+1102;Information Retrieval;gpt-5-mini;7.480;0.000;0.000;376;121;0.00;16.18;Gib mir eine Übersicht, wie Punkte erzielt werden können.;"Möglichkeiten, wie Punkte erzielt werden können:
+
+- Touchdown: 6 Punkte  
+- Field goal: 3 Punkte  
+- Safety: 2 Punkte  
+- Try after touchdown (Nachversuch): 1 Punkt (bei erfolgreichem Field goal oder Safety) oder 2 Punkte (bei erfolgreichem Touchdown)
+
+Hinweis: Die Mannschaft mit mehr Punkten am Ende des Spiels gewinnt. Bei Forfeit wird der Gegner als Sieger mit 2–0 gewertet (diese Punkte zählen nicht für offensive Statistiken oder Tiebreaker).";Touchdown (6 Punkte), Field Goal (3 Punkte), Safety (2 Punkte), Try nach Touchdown (1 Punkt per Kick oder 2 Punkte per Spielzug).;"SECTION 1 VALUE OF SCORES
+ARTICLE 1. WINNING TEAM...."
+1103;Reasoning & Synthesis;gpt-5-mini;8.596;0.000;0.000;2826;16;0.00;1.86;Kann man bei einem Fieldgoalversuch, wenn man das Fieldgoal blockt und den Ball in die gegnerische Endzone trägt, einen Touchdown erzielen?;Dazu habe ich keine Informationen.;Ja. Ein geblocktes Field Goal ist ein Live Ball (außer beim Try, da gelten Sonderregeln für 2 Punkte). Wenn die Defense ihn recovert, kann sie ihn zum Touchdown zurücktragen.;"SECTION 4 FIELD GOAL
+ARTICLE 1. SUCCESSFUL FIELD G..."
+1104;Regulatory Constraints;gpt-5-mini;6.291;0.000;0.000;1285;16;0.00;2.54;Kann ein Punter auch ein Fieldgoal schießen?;Dazu habe ich keine Informationen.;Ja, solange der Ball regelkonform gekickt wird (Placekick oder Dropkick). Die Position des Spielers ist egal, die Technik zählt.;"SECTION 4 FIELD GOAL
+ARTICLE 1. SUCCESSFUL FIELD G..."
+1105;Reasoning & Synthesis;gpt-5-mini;9.615;0.000;0.000;456;16;0.00;1.66;Muss der ganze Ball über der Endzonenlinie sein, damit es ein Touchdown ist?;Dazu habe ich keine Informationen.;Nein. Es reicht, wenn ein beliebiger Teil des Balls die vertikale Ebene der Goal Line (Plane of the Goal Line) durchbricht, während der Spieler Ballkontrolle hat.;"SECTION 2 TOUCHDOWN
+ARTICLE 1. TOUCHDOWN PLAYS. A ..."
+1106;Reasoning & Synthesis;gpt-5-mini;6.349;0.000;0.000;460;16;0.00;2.52;Muss der Ball den Boden der Endzone oder einen Pylonen berühren, damit es ein Touchdown ist?;Dazu habe ich keine Informationen.;Nein, nicht zwingend. Wenn der Spieler den Ball trägt, reicht das Durchbrechen der Linie (Airborne). Nur bei einem Loose Ball (z.B. Fumble Recovery in der Endzone) muss der Ballbesitz in der Endzone gesichert werden.;"SECTION 2 TOUCHDOWN
+ARTICLE 1. TOUCHDOWN PLAYS. A ..."
+1107;Reasoning & Synthesis;gpt-5-mini;9.059;0.000;0.000;838;16;0.00;1.77;Kann man durch eine Strafe Punkte bekommen?;Dazu habe ich keine Informationen.;Ja, aber nur bei einem Safety (wenn das Foul in der eigenen Endzone der Offense passiert). Man bekommt keine Touchdowns durch Strafen zugesprochen.;"SECTION 5 SAFETY
+ARTICLE 1. SAFETY. It is a safety..."
+1108;Information Retrieval;gpt-5-mini;8.094;0.000;0.000;834;85;0.00;10.50;Was ist ein Touchback?;Ein Touchback liegt vor, wenn der Ball tot auf oder hinter der Torlinie der verteidigenden Mannschaft ist, vorausgesetzt der Impetus kommt vom Gegner und es ist kein Touchdown oder ein unvollständiger Vorwärtspass. Ein Ball im Endzone, der zum Spielfeld getragen wird, bleibt in der Endzone, bis der gesamte Ball im Spielfeld ist.;Eine Situation, bei der der Ball in der Endzone 'tot' wird (z.B. durch Kickoff oder Interception) und das verteidigende Team den Ballbesitz erhält, normalerweise an der 20- oder 30-Yard-Line.;"SECTION 6 TOUCHBACK
+ARTICLE 1. DEFINITION. It is a..."
+1109;Reasoning & Synthesis;gpt-5-mini;8.333;0.000;0.000;835;16;0.00;1.92;Wann kann ein Touchback auftreten?;Dazu habe ich keine Informationen.;1. Kickoff landet in der Endzone. 2. Punt geht in die Endzone. 3. Interception/Fumble Recovery in der eigenen Endzone und der Spieler wird dort getackelt.;"SECTION 6 TOUCHBACK
+ARTICLE 1. DEFINITION. It is a..."
+1110;Regulatory Constraints;gpt-5-mini;1.230;0.000;0.000;1418;16;0.00;13.01;Kann man bei einem Extrapunktversuch, wenn man den Extrapunkt blockt und den Ball in die gegnerische Endzone trägt, einen 6 Punkte Touchdown erzielen?;Dazu habe ich keine Informationen.;Nein, wenn eines der beiden Teams bei dem Extrapunktversuch ein Touchdown erzielt, werden nur 2 Punkte an das Team vergeben, keine 6 Punkte.;"SECTION 3 TRY
+ARTICLE 1. GENERAL RULES. After a to..."
+1115;Out-of-Domain;gpt-5-mini;7.126;0.000;0.000;453;16;0.00;2.25;Wie viele Punkte bekommt man für den 'Fantasy Football' Score bei einem Touchdown?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 2 TOUCHDOWN
+ARTICLE 1. TOUCHDOWN PLAYS. A ..."
+1201;Information Retrieval;gpt-5-mini;9.727;0.000;0.000;5761;567;0.00;58.29;Nenne mir Aktionen, für die man ein Personal Foul bekommen kann.;"- Clipping (Blocking an opponent from behind below the waist gegen einen Non-Runner)
+- Peel back block (Initiating side/below-the-waist Kontakt while sich toward own end line bewegend unter den genannten Bedingungen)
+- Illegal blocking below the waist (in den im Text aufgeführten Situationen)
+- Chop block (High/low Doppelblock gegen denselben Verteidiger)
+- Crackback block (illegales Crackback gemäß Definition und verbotener Kontakt)
+- Blindside block (forcible contact mit Helm/Unterarm/Schulter while path toward/parallel to own end line, außer in close-line play-Ausnahme)
+- Unnecessary roughness (u. a. Leg whip, forcible contact eines Runners out of bounds, Running/Diving into gestoppten Runner, contact on ground, pulling off pile, unnötige Kontakt gegen Kicker/Punter etc.)
+- Kontakt gegen einen Spieler in defenseless posture (z. B. forcible hit to head/neck, lowering head/helmet, illegal launch)
+- Impermissible use of the helmet (lowering Kopf und forcible contact mit Helm; Benutzung von Helm/Facemask gegen Kopf/Hals)
+- Roughing the passer (verschiedene Verstöße gegen einen Passer, z. B. Überschreiten der one-step-Regel, forcible hits, low hits in Kniebereich unter bestimmten Bedingungen)
+- Roughing or running into the kicker (Roughing the kicker: Kontakt am plant leg while kicking leg in air; Running into the kicker: Kontakt an kicking leg/foot etc.; Roughing ist Personal Foul)
+- Roughing the holder (forcible contact gegen Holder bei Place Kick, außer Ausnahmen)
+- Striking, kicking, tripping or kneeing opponents (z. B. Schläge mit Fäusten, Kicken, Treten, Treten/Tripping, Schlagen des Kopf-/Halsbereichs mit Wrist/Arm/Elbow/Hand; bestimmte Ausnahmen für Palm contact)
+- Twisting/pulling/turning the facemask or helmet opening (festhalten und drehen/ziehen des Facemasks)
+- Horse-collar tackle (Greifen des inneren Kragens der Schulterpolster/Jersey und Ziehen des Runners toward ground)
+- Use of helmet as a weapon (Benutzen eines nicht getragenen Helms als Waffe)
+- Hip-drop tackle (Swiveling/dropping hips um Runner an/unter dem Knie zu trap/pinnen)
+- Sonstige Personal Fouls (alle weiteren im Text nicht gelisteten Fouls, die 15 yards Strafe beinhalten)
+
+(Dies sind die im Kontext aufgeführten Aktionen, die als Personal Foul geahndet werden.)";Dazu gehören Unnecessary Roughness, Facemask, Roughing the Passer/Kicker, Horse Collar Tackle, Clipping, Low Blocks, Striking/Kicking/Kneeing, Chop-,Crackback-,Blindside-,Peel-Back-,Cut-Block oder tief Blocken, Hip drop tackle, den Helm als Waffe benutzen oder gegen den Helm Tacklen, einen Spieler angreifen der sich nicht wehren kann.;"SECTION 2 PERSONAL FOULS
+ARTICLE 1. CLIPPING. Clip..."
+1210;Out-of-Domain;gpt-5-mini;1.290;0.000;0.000;1888;16;0.00;12.41;Muss ein Spieler nach einer Disqualifikation wegen unsportlichen Verhaltens sofort ein TV-Interview geben?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 3 UNSPORTSMANLIKE CONDUCT
+ARTICLE 1. PROHI..."
+1301;Out-of-Domain;gpt-5-mini;2.290;0.000;0.000;1485;16;0.00;6.99;Darf das Team-Maskottchen in der Halbzeitpause Tackles gegen Zuschauer üben?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 NON-PLAYER CONDUCT
+ARTICLE 1. NON-PLAYER..."
+1401;Information Retrieval;gpt-5-mini;9.413;0.000;0.000;1066;16;0.00;1.70;Was ist ein 'Spot Foul'?;Dazu habe ich keine Informationen.;Ein Foul, bei dem die Strafe direkt von der Stelle aus verhängt wird, an der das Foul begangen wurde (und nicht vom vorherigen Startpunkt). Beispiele: Defensive Pass Interference.;"SECTION 3 SPOT FROM WHICH PENALTY IS ENFORCED
+ARTI..."
+1410;Out-of-Domain;gpt-5-mini;1.329;0.000;0.000;1336;16;0.00;12.04;Erhält der Referee einen Bonus, wenn er im Spiel weniger als 5 Strafen verhängt?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 GENERAL RULES
+ARTICLE 1. REFUSAL OF PENA..."
+1502;Information Retrieval;gpt-5-mini;6.018;0.000;0.000;3212;16;0.00;2.66;Gib eine Übersicht aller Aktionen, die ein Trainer anfechten (challengen) kann.;Dazu habe ich keine Informationen.;Folgende Spielsituationen können angefochten werden: Ob ein ein Spieler die Ballkontrolle hatte, ob ein Ball einen Spieler oder den Boden berührt hat, ob ein Läufer out of bounds war, ob ein Fumble vorlag, ob der Ball die Goal Line, die first down line oder die scrimmage line überquert hat, Anzahl der Spieler auf dem Feld, ob eine Strafe vorliegt, der Ball oder ein Foul richtig gespotted wurde, ob ein Spielzug wirklich beendet war, ob die Game Clock richtig ist, die disqualifikation eines Spielers, die richtung eines Passes, einen illegallen Pass oder Ballübergabe nach vorn, einen Fieldgoalversuch und ob der Ball ein aussenstehendes Objekt berüht hat. (Nicht challengebar: Fouls wie Holding oder Pass Interference, und alle Scores/Turnovers, da diese automatisch überprüft werden).;"SECTION 3 REVIEWABLE RULINGS
+ARTICLE 1. PLAY SITUA..."
+1503;Reasoning & Synthesis;gpt-5-mini;8.134;0.000;0.000;758;16;0.00;1.97;Wie viele Timeouts hat ein Team noch, wenn eine Challenge erfolgreich war?;Dazu habe ich keine Informationen.;Nur wenn eine Challenge erfolglos war, wird ein Timeout abgezogen. Wenn eine Challenge erfolgreich war, bleibt die Anzahl der Timeouts gleich.;"SECTION 1 INITIATING A REPLAY REVIEW
+ARTICLE 1. CO..."
+1510;Out-of-Domain;gpt-5-mini;6.677;0.000;0.000;763;16;0.00;2.40;Welche Technologiefirma stellt die Tablets her, die der Referee für das Instant Replay nutzt?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 INITIATING A REPLAY REVIEW
+ARTICLE 1. CO..."
+1601;Out-of-Domain;gpt-5-mini;11.335;0.000;0.000;1682;16;0.00;1.41;Aus welchem Metall muss die Münze bestehen, die für den Coin Toss in der Overtime verwendet wird?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 OVERTIME PROCEDURES
+ARTICLE 1. SCORE TIE..."
+1701;Out-of-Domain;gpt-5-mini;5.238;0.000;0.000;1451;16;0.00;3.05;Wird das Spiel wegen eines Notfalls abgebrochen, wenn das Catering für die VIP-Logen ausfällt?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 EMERGENCIES
+ARTICLE 1. NON-PLAYER ON FIE..."
+1801;Out-of-Domain;gpt-5-mini;1.285;0.000;0.000;532;16;0.00;12.45;Muss ein Teamkapitän mindestens 5 Jahre im Verein sein, um den goldenen Stern auf dem Trikot zu tragen?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 GUIDELINES FOR CAPTAINS
+ARTICLE 1. NUMBE..."
+1901;Out-of-Domain;gpt-5-mini;7.386;0.000;0.000;478;16;0.00;2.17;Wie oft müssen die Schiedsrichter laut Regelwerk zum Augenarzt für einen Sehtest?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 OFFICIALS
+ARTICLE 1. GAME OFFICIALS. The..."

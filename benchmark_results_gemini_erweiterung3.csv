@@ -1,0 +1,3 @@
+id;category;model;time_total;time_read;time_write;input_tokens;output_tokens;tps_read;tps_write;question;model_answer;ground_truth;context_snippet
+1301;Out-of-Domain;gemini-3-flash-preview;129.192;0.000;0.000;1521;7;0.00;0.05;Darf das Team-Maskottchen in der Halbzeitpause Tackles gegen Zuschauer üben?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 NON-PLAYER CONDUCT
+ARTICLE 1. NON-PLAYER..."

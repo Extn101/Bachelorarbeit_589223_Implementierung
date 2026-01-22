@@ -1,0 +1,127 @@
+id;category;model;time_total;time_read;time_write;input_tokens;output_tokens;tps_read;tps_write;question;model_answer;ground_truth;context_snippet
+103;Regulatory Constraints;gemini-3-flash-preview;11.105;0.000;0.000;716;26;0.00;2.34;Darf das Spielfeld blau sein?;Die Oberfläche des gesamten field of play muss in einem von der League genehmigten Grünton (shade of green) gehalten sein.;Nein. Die Oberfläche muss ein von der Liga genehmigter Grünton sein.;"SECTION 1 DIMENSIONS
+ARTICLE 1. PLAYING LINES. The..."
+305;Reasoning & Synthesis;gemini-3-flash-preview;5.100;0.000;0.000;1789;63;0.00;12.35;Zwei gegnerische Spieler springen hoch, fangen den Ball gleichzeitig und landen beide sicher im Feld. Wessen Ball ist es?;Wenn ein Loose Ball gleichzeitig von zwei Gegnern kontrolliert wird und beide Spieler ihn behalten, handelt es sich um Simultaneous Possession. Der Ball gehört dem Team, das zuletzt in Ballbesitz war, oder dem Receiving Team, wenn ein Free Kick, Scrimmage Kick oder Fair Catch Kick vorausgegangen ist.;Das nennt sich 'Simultaneous Possession'. Der Ball gehört dem Team, das zuletzt im Ballbesitz war (Offense), oder bei einem Kick dem empfangenden Team (Receiving Team).;"SECTION 2 THE BALL AND POSSESSION OF THE BALL
+ARTI..."
+308;Information Retrieval;gemini-3-flash-preview;6.316;0.000;0.000;568;37;0.00;5.86;Was bedeutet 'Down'?;Ein Down ist eine Aktionsperiode, die beginnt, wenn der Ball ins Spiel gebracht wird (put in play) und endet, wenn der Ball für tot (dead) erklärt wird.;Ein 'Down' ist eine Zeiteinheit im Spiel, die mit dem Snap oder Kickoff beginnt und endet, wenn der Ball tot (Dead Ball) erklärt wird.;"SECTION 8 DOWN
+ARTICLE 1. DOWN. A down is a period..."
+309;Out-of-Domain;gemini-3-flash-preview;8.650;0.000;0.000;340;7;0.00;0.81;Wie wird der 'Quarterback Rating' Wert statistisch genau berechnet?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 APPROVED RULING (A.R.)
+An Approved Rulin..."
+401;Information Retrieval;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Wie viele Timeouts hat jedes Team im Spiel?;ERROR: Server disconnected without sending a response.;Jedes Team hat 3 Timeouts pro Halbzeit, also theoretisch 6 pro Spiel.;ERROR
+502;Reasoning & Synthesis;gemini-3-flash-preview;4.532;0.000;0.000;1203;45;0.00;9.93;Wie kann ein Spieler sich als fangberechtigt anmelden?;Ein Spieler muss die Änderung seines Status unverzüglich dem Referee melden. Der Referee informiert anschließend das defensive Team. Solange der Spieler kontinuierlich im Spiel ist, muss er seinen Status vor jedem Spielzug erneut dem Referee melden.;Ein Spieler mit einer Nummer, die normalerweise nicht berechtigt ist (50-79), muss sich sofort beim Referee melden ('report as eligible'), bevor er sich als Receiver aufstellt. Der Referee informiert dann die Defense.;"SECTION 3 CHANGES IN POSITION
+ARTICLE 1. REPORTING..."
+520;Out-of-Domain;gemini-3-flash-preview;2.968;0.000;0.000;1063;7;0.00;2.36;Wie hoch ist das Mindestgehalt für einen Rookie-Spieler laut Regelwerk?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 PLAYERS
+ARTICLE 1. NUMBER OF PLAYERS. Th..."
+610;Out-of-Domain;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Dürfen Cheerleader das Feld betreten, während der Kicker sich beim Timeout aufwärmt?;ERROR: Server disconnected without sending a response.;Dazu habe ich keine Informationen.;ERROR
+704;Regulatory Constraints;gemini-3-flash-preview;19.950;0.000;0.000;2041;21;0.00;1.05;Kann nur ein Defensive-Spieler im Offside sein?;Nein. Kein Spieler beider Teams darf Offside sein, wenn der Ball ins Spiel gebracht wird.;Nein. Auch Offense-Spieler können im Offside sein, wenn sie Körperteile in der Neutral Zone haben (Lined up in the neutral zone).;"SECTION 4 ACTION AT OR BEFORE THE SNAP
+ARTICLE 1. ..."
+705;Reasoning & Synthesis;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Ein Ballträger läuft ins Aus. Was gilt als Startpunkt für den nächsten Spielzug: Wo der Ball war oder wo der Ballträger war?;ERROR: unsupported operand type(s) for /: 'NoneType' and 'float';Der Spot ist dort, wo sich der Ball befand, genau in dem Moment, als der Ballträger mit einem Fuß oder einem anderem Körperteil die Seitenlinie berührte.;ERROR
+801;Regulatory Constraints;gemini-3-flash-preview;15.066;0.000;0.000;4158;133;0.00;8.83;Wann darf ein Football nach vorne geworfen und wann nach hinten geworfen werden?;"**Backward Pass:** Ein Runner darf einen Backward Pass zu jeder Zeit werfen.
+
+**Forward Pass:** Das offensive Team darf einen Forward Pass pro Down von hinter der Line of Scrimmage aus werfen. Ein Forward Pass ist nicht zulässig, wenn:
+* der Ball die Line of Scrimmage bereits überquert hat (unabhängig davon, ob er danach wieder hinter die Line zurückkehrt);
+* der Passer sich mit dem gesamten Körper und dem Ball jenseits der Line of Scrimmage befindet;
+* es sich um einen zweiten Forward Pass innerhalb desselben Downs handelt;
+* bereits ein Change of Possession stattgefunden hat.";Ein Vorwärtspass darf nur einmal pro Spielzug von hinter der Line of Scrimmage geworfen werden. Ein Rückwärtspass ist jederzeit und von jeder Position aus erlaubt.;"SECTION 7 BACKWARD PASS AND FUMBLE
+ARTICLE 1. BACK..."
+802;Reasoning & Synthesis;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Was bedeutet es, dass ein Spieler sich re-etablieren muss, nachdem er out of bounds gelaufen ist?;ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}};Er muss sich 're-establish'en. Das heißt, er muss mit beiden Füßen (oder einem Körperteil) wieder im Spielfeld landen, bevor er legal den Ball berühren darf.;ERROR
+803;Reasoning & Synthesis;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Wenn der Ball gefumbelt wird, wer bekommt dann den Ball und wo geht es weiter?;ERROR: unsupported operand type(s) for /: 'NoneType' and 'float'; Wenn der Ball gefumbelt wird, kann jeder Spieler beider Teams den Ball aufnehmen und vorwärts bewegen, außer wenn der Fumble im vierten Down, nach der Zwei-Minuten-Warnung oder während eines Trys passiert. Wenn der Fumble ins Aus geht, wird der Ball an dem Punkt wieder ins Spiel gebracht, an dem der Fumble ins Aus ging, abhängig davon, ob der Fumble vorwärts oder rückwärts ging. Wenn der Ball rückwärts ins Aus geht, bekommt das Team, das zuletzt den Ball hatte, den Ball an dem Punkt, an dem der Ball ins Aus ging. Wenn der Fumble vorwärts ins Aus geht, bekommt das Team, das zuletzt den Ball hatte, den Ball an dem Punkt des Fumbles. Wenn der Fumble in der eigenen Endzone nach vorne in Field of Play und dann ins Aus geht, führt das zu einem Safety, wenn das Team den Impuls gegeben hat, der den Ball in die Endzone gebracht hat. Wenn der Impuls vom Gegner kam, führt das zu einem Touchback. Wenn nichts davon zutrifft und es keinen Ballbesitzwechsel gab und der Ball nicht das first down erreicht hat, wird der Ball dem verteidigenden Team an dem Punkt gegeben, an dem der Ball für tot erklärt wurde.;ERROR
+804;Regulatory Constraints;gemini-3-flash-preview;20.405;0.000;0.000;2422;7;0.00;0.34;Darf ein Spieler den Ball zu einem Mitspieler nach vorne übergeben, wenn er nicht der Quarterback ist?;Dazu habe ich keine Informationen.;Ja solange er sich hinter der Line of Scrimmage befindet und der Mitspieler ein berechtigter Empfänger ist.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+805;Regulatory Constraints;gemini-3-flash-preview;8.104;0.000;0.000;2408;346;0.00;42.70;Darf jeder Spieler den Ball fangen?;"Nein, nicht jeder Spieler darf einen Forward Pass fangen. Es wird zwischen berechtigten (Eligible Receivers) und nicht berechtigten Spielern (Ineligible Receivers) unterschieden:
+
+**Berechtigte Spieler (Eligible Receivers):**
+*   Alle defensiven Spieler.
+*   Offensive Spieler an beiden Enden der Line, sofern sie die Nummern 0–49 oder 80–89 tragen oder ihre Position legal gemeldet haben.
+*   Offensive Spieler, die sich beim Snap mindestens ein Yard hinter der Line befinden und die Nummern 0–49 oder 80–89 tragen oder legal gemeldet sind.
+*   Alle offensiven Spieler, nachdem der Ball von einem defensiven Spieler oder einem berechtigten offensiven Spieler berührt wurde.
+
+**Nicht berechtigte Spieler (Ineligible Receivers):**
+*   Offensive Spieler, die sich nicht an den Enden der Line oder mindestens ein Yard dahinter befinden.
+*   Spieler, die es versäumt haben, den Referee über ihre Spielberechtigung zu informieren.
+*   Ein berechtigter Receiver, der vor oder während eines Passes im Aus war (außer er wurde durch ein Foul ins Aus gedrängt und kehrt sofort legal zurück).
+*   Ein Spieler in der Position eines T-Formation Quarterback, außer er bewegt sich vor dem Snap legal an das Ende der Line oder mindestens ein Yard dahinter und verharrt dort für mindestens eine Sekunde.
+
+Das absichtliche Berühren oder Fangen eines Passes durch einen ursprünglich nicht berechtigten offensiven Spieler gilt als Illegal Touching.";Nein. Nur 'Eligible Receivers' (Enden der Linie, Backfield-Spieler) dürfen einen Vorwärtspass fangen. Linemen (Nr. 50-79) sind normalerweise nicht berechtigt.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+806;Regulatory Constraints;gemini-3-flash-preview;10.874;0.000;0.000;2417;113;0.00;10.39;Wenn ein nicht fangberechtigter Spieler fängt den Ball. Welche Strafe entsteht?;"Für das Berühren oder Fangen eines Forward Pass durch einen nicht fangberechtigten Spieler sieht das Regelwerk folgende Strafen vor:
+
+1.  Handelt es sich um einen ursprünglich nicht fangberechtigten Offensivspieler (originally ineligible offensive player), beträgt die Strafe einen Verlust von fünf Yards am previous spot.
+2.  Handelt es sich um einen fangberechtigten Offensivspieler, der zuvor im Aus war (und dadurch seine Fangberechtigung verloren hat), beträgt die Strafe den Verlust des Downs am previous spot.";Illegal Touching. Die Strafe beträgt 5 Yards und beinhaltet einen 'Loss of Down'.;"SECTION 1 FORWARD PASS
+ARTICLE 1. DEFINITION. It i..."
+901;Out-of-Domain;gemini-3-flash-preview;3.653;0.000;0.000;1557;7;0.00;1.92;Darf ein Spieler Werbung für seine eigene Modemarke auf den Handschuhen tragen, um Gegner zu blocken?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 KICK FROM SCRIMMAGE
+ARTICLE 1. KICK ON O..."
+1102;Information Retrieval;gemini-3-flash-preview;34.654;0.000;0.000;384;97;0.00;2.80;Gib mir eine Übersicht, wie Punkte erzielt werden können.;"Punkte werden wie folgt erzielt:
+
+*   **Touchdown:** 6 Punkte
+*   **Field goal:** 3 Punkte
+*   **Safety:** 2 Punkte
+*   **Try after touchdown:** 1 Punkt (Field goal oder Safety) oder 2 Punkte (Touchdown)
+*   **Forfeit:** Wenn ein Team ein Spiel aufgibt (forfeit), wird der Gegner mit einem Ergebnis von 2-0 zum Sieger erklärt.";Touchdown (6 Punkte), Field Goal (3 Punkte), Safety (2 Punkte), Try nach Touchdown (1 Punkt per Kick oder 2 Punkte per Spielzug).;"SECTION 1 VALUE OF SCORES
+ARTICLE 1. WINNING TEAM...."
+1104;Regulatory Constraints;gemini-3-flash-preview;5.702;0.000;0.000;1306;7;0.00;1.23;Kann ein Punter auch ein Fieldgoal schießen?;Dazu habe ich keine Informationen.;Ja, solange der Ball regelkonform gekickt wird (Placekick oder Dropkick). Die Position des Spielers ist egal, die Technik zählt.;"SECTION 4 FIELD GOAL
+ARTICLE 1. SUCCESSFUL FIELD G..."
+1107;Reasoning & Synthesis;gemini-3-flash-preview;4.809;0.000;0.000;854;74;0.00;15.39;Kann man durch eine Strafe Punkte bekommen?;Ja. Es ist ein Safety, wenn die Offense hinter ihrer eigenen Goal Line ein Foul begeht und die Defense sich entscheidet, die Strafe an diesem Punkt durchzusetzen. Zudem ist es ein Safety, wenn ein Spieler des Teams, das den Ball abgefangen, gefangen oder erobert hat, ein Live Ball Foul in der End Zone begeht.;Ja, aber nur bei einem Safety (wenn das Foul in der eigenen Endzone der Offense passiert). Man bekommt keine Touchdowns durch Strafen zugesprochen.;"SECTION 5 SAFETY
+ARTICLE 1. SAFETY. It is a safety..."
+1301;Out-of-Domain;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Darf das Team-Maskottchen in der Halbzeitpause Tackles gegen Zuschauer üben?;ERROR: unsupported operand type(s) for /: 'NoneType' and 'float';Dazu habe ich keine Informationen.;ERROR
+1401;Information Retrieval;gemini-3-flash-preview;10.908;0.000;0.000;1085;7;0.00;0.64;Was ist ein 'Spot Foul'?;Dazu habe ich keine Informationen.;Ein Foul, bei dem die Strafe direkt von der Stelle aus verhängt wird, an der das Foul begangen wurde (und nicht vom vorherigen Startpunkt). Beispiele: Defensive Pass Interference.;"SECTION 3 SPOT FROM WHICH PENALTY IS ENFORCED
+ARTI..."
+1502;Information Retrieval;gemini-3-flash-preview;14.087;0.000;0.000;3294;883;0.00;62.68;Gib eine Übersicht aller Aktionen, die ein Trainer anfechten (challengen) kann.;"Das Replay System deckt folgende Spielsituationen ab, die Gegenstand einer Überprüfung sein können:
+
+*   **Ballbesitz (Possession):**
+    *   Completion of a Pass (vollständiger oder unvollständiger Pass).
+    *   Recovery of a Loose Ball (legale Sicherung eines freien Balls im Spielfeld, an der Seitenlinie, Goal Line oder in der Endzone).
+    *   Forward Pass oder Fumble (ob die Hand des Passgebers mit Ballkontrolle eine Vorwärtsbewegung startete oder ob ein Fumble vorlag).
+    *   Fumble (ob der Runner den Ballbesitz verlor, bevor er Down by Contact war oder sich selbst aufgegeben hatte).
+
+*   **Berührung des Balls oder des Bodens:**
+    *   Down by Contact (ob ein Spieler im Ballbesitz als Down by Contact hätte gewertet werden müssen).
+    *   Pass oder Down by Contact (ob der Ball geworfen wurde, bevor der Passgeber Down by Contact war).
+    *   Touching of a Forward Pass (ob ein Spieler einen Vorwärtspass berührt hat).
+    *   Touching of a Kick (Berührung eines Kicks und der Ort der Berührung).
+    *   Touching of a Loose Ball (Berührung eines freien Balls).
+    *   Ball Touching the Ground (ob der Ball bei einem Free Kick oder Scrimmage Kick den Boden berührt hat).
+
+*   **Goal Line:**
+    *   Ball breaking the plane (ob der Ball die Ebene der Goal Line in Spielerbesitz durchbrochen hat).
+    *   Momentum (ob der Momentum-Punkt im Spielfeld oder in der Endzone lag).
+
+*   **Boundary Lines (Begrenzungslinien):**
+    *   Runner Inbounds (ob ein als Inbounds gewerteter Runner Out of Bounds war).
+    *   Runner Out of Bounds (Spot des Balls in Relation zur Line to Gain oder Goal Line; Fumble vor zwei zusätzlichen Schritten; Erreichen der Line to Gain oder Goal Line vor zwei zusätzlichen Schritten).
+    *   Receiver Out of Bounds (ob ein Receiver Out of Bounds war bezüglich seiner Berechtigung, den Ball zu berühren).
+    *   Passer Out of Bounds (ob der Passgeber beim Wurf Inbounds war).
+    *   Player Out of Bounds on Scrimmage Kick.
+    *   Loose Ball (ob ein freier Ball eine Begrenzungslinie, einen Pylon oder ein Objekt berührt hat oder wo er die Seitenlinie überquert hat).
+
+*   **Line of Scrimmage:**
+    *   Illegal Passes (Pass jenseits der Line of Scrimmage oder nachdem der Ball die Linie bereits überquert hatte und dahinter zurückgekehrt war).
+    *   Illegal Kick (Kick jenseits der Line of Scrimmage oder ein zweiter Kick).
+
+*   **Line to Gain:**
+    *   Dead ball spot (ob der Punkt vor, an oder hinter der Line to Gain liegt).
+
+*   **Anzahl der Spieler:**
+    *   Ob ein Spieler beim Snap auf dem Feld ist oder wenn ein Dead Ball Foul für zu viele Spieler in Formation gegeben wird.
+
+*   **Game Administration:**
+    *   Penalty enforcement (Strafvollstreckung).
+    *   Proper down (korrekter Down).
+    *   Spot of a foul (Ort des Fouls).
+    *   Status der Game Clock (Wiederherstellung von Zeit).
+
+*   **Disqualification:**
+    *   Die Disqualifikation eines Spielers.
+
+*   **Weitere überprüfbare Spielzüge:**
+    *   Direction of a Pass (Vorwärts- oder Rückwärtspass).
+    *   Illegal Forward Pass.
+    *   Field Goal oder Try Attempt (ob der Ball über der Querstange und innerhalb der Pfosten war, sofern er die Ebene unterhalb der Pfostenspitzen kreuzt oder etwas berührt).
+    *   Illegal Forward Handoff.
+    *   Ball Touching a Foreign Object (Berührung von Anzeigetafeln, Führungsdrähten oder anderen Objekten).";Folgende Spielsituationen können angefochten werden: Ob ein ein Spieler die Ballkontrolle hatte, ob ein Ball einen Spieler oder den Boden berührt hat, ob ein Läufer out of bounds war, ob ein Fumble vorlag, ob der Ball die Goal Line, die first down line oder die scrimmage line überquert hat, Anzahl der Spieler auf dem Feld, ob eine Strafe vorliegt, der Ball oder ein Foul richtig gespotted wurde, ob ein Spielzug wirklich beendet war, ob die Game Clock richtig ist, die disqualifikation eines Spielers, die richtung eines Passes, einen illegallen Pass oder Ballübergabe nach vorn, einen Fieldgoalversuch und ob der Ball ein aussenstehendes Objekt berüht hat. (Nicht challengebar: Fouls wie Holding oder Pass Interference, und alle Scores/Turnovers, da diese automatisch überprüft werden).;"SECTION 3 REVIEWABLE RULINGS
+ARTICLE 1. PLAY SITUA..."
+1503;Reasoning & Synthesis;gemini-3-flash-preview;25.830;0.000;0.000;790;7;0.00;0.27;Wie viele Timeouts hat ein Team noch, wenn eine Challenge erfolgreich war?;Dazu habe ich keine Informationen.;Nur wenn eine Challenge erfolglos war, wird ein Timeout abgezogen. Wenn eine Challenge erfolgreich war, bleibt die Anzahl der Timeouts gleich.;"SECTION 1 INITIATING A REPLAY REVIEW
+ARTICLE 1. CO..."
+1601;Out-of-Domain;gemini-3-flash-preview;33.069;0.000;0.000;1732;7;0.00;0.21;Aus welchem Metall muss die Münze bestehen, die für den Coin Toss in der Overtime verwendet wird?;Dazu habe ich keine Informationen.;Dazu habe ich keine Informationen.;"SECTION 1 OVERTIME PROCEDURES
+ARTICLE 1. SCORE TIE..."
+1701;Out-of-Domain;gemini-3-flash-preview;0.000;0.000;0.000;0;0;0.00;0.00;Wird das Spiel wegen eines Notfalls abgebrochen, wenn das Catering für die VIP-Logen ausfällt?;ERROR: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}};Dazu habe ich keine Informationen.;ERROR
