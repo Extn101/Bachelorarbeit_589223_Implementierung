@@ -3,30 +3,29 @@ import csv
 import time
 import os
 from dotenv import load_dotenv
-import google.generativeai as genai
+
+from google import genai
+from google.genai import types
 
 # 1. API Key laden
 load_dotenv()
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+API_KEY = os.getenv("GOOGLE_API_KEY")
+
+if not API_KEY:
+    print("[FEHLER] Kein GOOGLE_API_KEY in der .env gefunden!")
+    exit()
+
+client = genai.Client(api_key=API_KEY)
 
 # --- KONFIGURATION ---
-INPUT_FILE = "promptset_test.json"
-OUTPUT_FILE = "benchmark_results_gemini.csv"
-MODEL_NAME = "gemini-3-flash"
+INPUT_FILE = "promptset_fehler.json"
+OUTPUT_FILE = "benchmark_results_gemini_erweiterung4.csv"
+MODEL_NAME = "gemini-3-flash-preview"
 
-# Konfiguration
-generation_config = {
-    "temperature": 0.0,
-    "top_p": 0.9,
-}
-
-# Safety Filter AUS
-safety_settings = [
-    {"category": "HARM_CATEGORY_HARASSMENT", "threshold": "BLOCK_NONE"},
-    {"category": "HARM_CATEGORY_HATE_SPEECH", "threshold": "BLOCK_NONE"},
-    {"category": "HARM_CATEGORY_SEXUALLY_EXPLICIT", "threshold": "BLOCK_NONE"},
-    {"category": "HARM_CATEGORY_DANGEROUS_CONTENT", "threshold": "BLOCK_NONE"},
-]
+generate_config = types.GenerateContentConfig(
+    temperature=0.0,
+    top_p=0.9
+)
 
 def build_system_prompt(context_text):
     return (
@@ -48,12 +47,6 @@ def run_benchmark():
     with open(INPUT_FILE, "r", encoding="utf-8") as f:
         questions = json.load(f)
 
-    try:
-        model = genai.GenerativeModel(model_name=MODEL_NAME)
-    except Exception as e:
-        print(f"[FEHLER] Modellname '{MODEL_NAME}' nicht gefunden: {e}")
-        return
-
     fieldnames = [
         "id", "category", "model",
         "time_total", "time_read", "time_write",
@@ -68,7 +61,7 @@ def run_benchmark():
         if not file_exists:
             writer.writeheader()
 
-        print(f"[INFO] Starte Benchmark mit {MODEL_NAME}...")
+        print(f"[INFO] Starte Benchmark (FAST MODE) mit {MODEL_NAME}...")
 
         for i, entry in enumerate(questions):
             q_id = entry.get("id")
@@ -80,19 +73,32 @@ def run_benchmark():
             try:
                 start_time = time.time()
 
-                response = model.generate_content(
-                    full_prompt,
-                    generation_config=generation_config,
-                    safety_settings=safety_settings
+                # API Aufruf (Kein Retry, kein Loop)
+                response = client.models.generate_content(
+                    model=MODEL_NAME,
+                    contents=full_prompt,
+                    config=generate_config
                 )
 
                 end_time = time.time()
                 duration = end_time - start_time
 
-                content = response.text
-                usage = response.usage_metadata
-                in_tok = usage.prompt_token_count
-                out_tok = usage.candidates_token_count
+                # Text-Extraktion (Minimale Fehlerbehandlung)
+                content = ""
+                if response.text:
+                    content = response.text
+                elif response.candidates and response.candidates[0].content.parts:
+                    content = response.candidates[0].content.parts[0].text
+                else:
+                    content = "[EMPTY RESPONSE]"
+
+                # Tokens
+                in_tok = 0
+                out_tok = 0
+                if response.usage_metadata:
+                    in_tok = response.usage_metadata.prompt_token_count
+                    out_tok = response.usage_metadata.candidates_token_count
+
                 tps_total = out_tok / duration if duration > 0 else 0
 
                 writer.writerow({
@@ -114,10 +120,24 @@ def run_benchmark():
                 csvfile.flush()
 
             except Exception as e:
+                # Bei Fehler sofort weitermachen, aber Fehler loggen
                 print(f" [FEHLER: {e}] ", end="")
+                writer.writerow({
+                    "id": q_id,
+                    "category": entry.get("category"),
+                    "model": MODEL_NAME,
+                    "time_total": "0.000",
+                    "time_read": "0.000", "time_write": "0.000",
+                    "input_tokens": 0, "output_tokens": 0,
+                    "tps_read": "0.00", "tps_write": "0.00",
+                    "question": entry.get("question"),
+                    "model_answer": f"ERROR: {str(e)}",
+                    "ground_truth": entry.get("ground_truth"),
+                    "context_snippet": "ERROR"
+                })
+                csvfile.flush()
 
-            # PAUSCHALER SLEEP
-            time.sleep(10)
+            # KEIN SLEEP MEHR
 
     print(f"\n[INFO] Fertig. Gespeichert in {OUTPUT_FILE}")
 
