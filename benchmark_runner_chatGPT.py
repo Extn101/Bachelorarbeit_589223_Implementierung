@@ -10,15 +10,15 @@ load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # --- KONFIGURATION ---
-INPUT_FILE = "promptset_test.json"
+INPUT_FILE = "promptset.json"
 OUTPUT_FILE = "benchmark_results_chatgpt.csv"
 MODEL_NAME = "gpt-5-mini"
 
 # Einstellungen
 PARAMS = {
-    "temperature": 0.0,
+    # Es werden nur die Defaultwerte für "temperature" und "top_p" unterstützt.
     "seed": 42,
-    "top_p": 0.9
+    "reasoning_effort": "minimal"
 }
 
 def build_system_prompt(context_text):
