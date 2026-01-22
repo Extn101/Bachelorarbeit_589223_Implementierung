@@ -5,7 +5,7 @@ import os
 from HTW_Ollama_API import OllamaApi
 
 # --- KONFIGURATION ---
-INPUT_FILE = "promptset_TEST.json"
+INPUT_FILE = "promptset.json"
 OUTPUT_FILE = "benchmark_results_open_source.csv"
 
 # Modelle
@@ -51,7 +51,7 @@ def run_benchmark():
         questions = json.load(f)
 
     # 2. CSV vorbereiten
-    # Wir nutzen Semikolon (;) als Trennzeichen für Excel-Kompatibilität
+    # Semikolon (;) als Trennzeichen für Excel-Kompatibilität
     file_exists = os.path.exists(OUTPUT_FILE)
 
     fieldnames = [

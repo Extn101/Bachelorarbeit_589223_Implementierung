@@ -3,7 +3,7 @@ import os
 
 # --- KONFIGURATION ---
 INPUT_FILE = "evaluation_completed.csv"
-OUTPUT_FILE = "BA_Rohdaten_Uebersicht3.xlsx"
+OUTPUT_FILE = "spaeter loeschen/BA_Rohdaten_Uebersicht3.xlsx"
 
 def create_overview_excel():
     if not os.path.exists(INPUT_FILE):
