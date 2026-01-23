@@ -5,7 +5,7 @@ import os
 import random
 
 # --- KONFIGURATION ---
-INPUT_FILE = "benchmark_results_chatgpt.csv"
+INPUT_FILE = "benchmark_results_merged.csv"
 OUTPUT_FILE = "evaluation_completed.csv"
 
 # Rubrik-Definitionen für die Anzeige
