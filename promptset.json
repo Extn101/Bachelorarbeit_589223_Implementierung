@@ -107,7 +107,7 @@
     "id": 206,
     "category": "Out-of-Domain",
     "question": "Von welcher Marke muss der offizielle Spielball hergestellt sein und wie teuer ist er?",
-    "ground_truth": "Dazu habe ich keine Informationen.",
+    "ground_truth": "Der Ball muss von der Marke Wilson sein, zu dem Preis habe ich keine Informationen.",
     "source_ref": "Rule 2, Section 1",
     "context_text": "SECTION 1 DIMENSIONS\nThe ball must be a “Wilson,” hand selected, bearing the signature of the Commissioner of the League, Roger Goodell.\nThe ball shall be made up of an inflated (12½ to 13½ pounds) urethane bladder enclosed in a pebble grained, leather case (natural\ntan color) without corrugations of any kind. It shall have the form of a prolate spheroid, and the size and weight shall be: long axis,\n11 to 11¼ inches; long circumference, 28 to 28½ inches; short circumference, 21 to 21¼ inches; weight, 14 to 15 ounces.\nThe Referee shall be the sole judge as to whether all balls offered for play comply with these specifications. A League-approved\ninflation measurement device will be provided to the officials for every game. In addition, a pump is to be furnished by the home\nclub. The balls shall remain under the supervision of the Referee until they are delivered to members of the ball crew just prior to\nthe start of the game."
   },
