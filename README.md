@@ -12,29 +12,37 @@ Die Analyse der Ergebnisse erfolgt außerhalb dieses Repositories.
 
 ## Verzeichnisstruktur
 Dateien zum Abrufen der Modelle:
+
 benchmark_runner.py - für die Llama 3 Modelle
+
 benchmark_runner_gpt.py - für das Modell ChatGPT 5 Mini
+
 benchmark_runner_gemini.py - für das Modell Gemini 3 Flash
 
 Diese Dateien enthalten den Code, um die jeweiligen Modelle zu laden und die Benchmarks durchzuführen, sowie die Ergebnisse zu speichern.
 
 ### Ergebnisdateien
 Die Ergebnisse der Benchmarks werden in CSV-Dateien gespeichert:
+
 benchmark_results_open_source.csv - Ergebnisse der beiden Open-Source-Modelle
+
 benchmark_results_chatgpt(_ohne_duplikate).csv - Ergebnisse des ChatGPT 5 Mini Modells
+
 benchmark_results_gemini(2-4).csv - Ergebnisse des Gemini 3 Flash Modells
 
 Diese Dateien enthalten die unbewerteten Daten der Benchmarks.
 Enthalten sind: id;category;model;time_total;time_read;time_write;input_tokens;output_tokens;tps_read;tps_write;question;model_answer;ground_truth;context_snippet
 
-Die Daten wurd nach einem Durchlauf mit der Hilfsdatei check_data.py überprüft.
+Die Daten wurden nach einem Durchlauf mit der Hilfsdatei check_data.py überprüft.
 Bei Einträgen die Fehlerhaft waren, weil keine Metadaten mitgeschickt oder weil ein ERROR 503 aufgetreten ist, wurden die entsprechenden Fragen erneut abgerufen.
 
-Die Daten wurden dann mit der Hilfsdatei merge_csv.py zusammengeführt.
+Die Daten wurden dann mit der Hilfsdatei merge_csv.py zusammengeführt:
+
 benchmark_results_merged.csv - zusammengeführte Ergebnisse aller Modelle
 
 ### Bewertete Ergebnisdatei
-Die bewerteten Ergebnisse der Benchmarks werden in der Datei gespeichert:
+Die bewerteten Ergebnisse der Benchmarks werden in csv-Datei gespeichert:
+
 evaluation_completed.csv - bewertete Ergebnisse aller Modelle
 
 Um die Ergebnisse blind zu bewerten, wurde die Hilfsdatei rate_answers.py verwendet. 
@@ -68,6 +76,7 @@ Unterstützung bei dem Erstellen durch Generieren des Python-Codes sowie Unterst
 
 ## Quellen
 Goodell, R. (2025). OFFICIAL PLAYING RULES OF THE NATIONAL FOOTBALL LEAGUE. National Football League. https://operations.nfl.com/the-rules/nfl-rulebook/
+
 Tenckhoff, S. (2025). Htw-ollama-py/emxamples.py. GitHub. https://github.com/sotenck/htw-ollama-py/blob/main/examples.py
 
 ## Lizenzhinweise
