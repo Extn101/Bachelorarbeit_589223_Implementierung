@@ -93,7 +93,7 @@ Dies gestattet die Nutzung, Veränderung und Verbreitung unter der Bedingung der
 * Die Datei `HTW_Ollama_API.py` basiert auf der Arbeit von Sönke Tenckhoff (2025) und unterliegt dessen ursprünglichen Urheberrechtsbestimmungen bzw. Lizenzvorgaben.
 
 ### 2. Daten (Promptset & Ergebnisse)
-Die erstellten Datensätze (insbesondere `benchmark_results_*.csv`, `evaluation_completed.csv` und die Struktur sowie die Fragen in `promptset.json`) sind lizenziert unter der **Creative Commons Attribution 4.0 International (CC BY 4.0)** Lizenz.
+Die erstellten Datensätze (insbesondere `benchmark_results_*.csv`, `evaluation_completed.csv` und die Struktur sowie die Fragen in `promptset.json`) sind lizenziert unter der **Creative Commons Attribution 4.0 International (CC BY 4.0)(http://creativecommons.org/licenses/by/4.0/)** Lizenz.
 
 **Wichtiger rechtlicher Hinweis zu Fremdinhalten:**
 * Die Datei `promptset.json` enthält Textauszüge aus dem offiziellen Regelwerk der National Football League (NFL).
