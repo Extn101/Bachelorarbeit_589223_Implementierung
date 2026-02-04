@@ -1,6 +1,6 @@
 # Bachelorarbeit_589223_Implementierung
 Ein GitHub-Repo zum speichern und versionieren der Implementierung meiner Bachelorarbeit.
-Bachelorarbeit WiSe25/26 Benedict Heidecker
+Bachelorarbeit WiSe25/26 Benedict Heidecker.
 
 ## Implementierungen und Inhalt
 Es wurden Pythonbackends zum Abrufen der Chatfunktionalität der Modelle Llama 3.1 8B und 3.3 70B, ChatGPT 5 Mini und Gemini 3 Flash erstellt.
