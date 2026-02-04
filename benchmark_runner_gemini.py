@@ -18,7 +18,7 @@ if not API_KEY:
 client = genai.Client(api_key=API_KEY)
 
 # --- KONFIGURATION ---
-INPUT_FILE = "promptset_fehler.json"
+INPUT_FILE = "promptset.json"
 OUTPUT_FILE = "benchmark_results_gemini_erweiterung4.csv"
 MODEL_NAME = "gemini-3-flash-preview"
 
@@ -136,8 +136,6 @@ def run_benchmark():
                     "context_snippet": "ERROR"
                 })
                 csvfile.flush()
-
-            # KEIN SLEEP MEHR
 
     print(f"\n[INFO] Fertig. Gespeichert in {OUTPUT_FILE}")
 

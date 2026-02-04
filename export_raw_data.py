@@ -20,7 +20,6 @@ def create_overview_excel():
         return
 
     # 2. Datentypen erzwingen (damit Excel damit rechnen kann)
-    # Wir fügen hier ALLE neuen Spalten hinzu, die wir im Benchmark-Runner erstellt haben
     numeric_cols = [
         'score',
         'time_total', 'time_read', 'time_write', 'time_sec', # time_sec für Abwärtskompatibilität
@@ -38,7 +37,6 @@ def create_overview_excel():
         with pd.ExcelWriter(OUTPUT_FILE, engine='openpyxl') as writer:
 
             # --- BLATT 1: ROHDATEN (Alles) ---
-            # Wir sortieren nach ID, damit man Modell A und B direkt untereinander sieht
             if 'id' in df.columns and 'model' in df.columns:
                 df_sorted = df.sort_values(by=['id', 'model'])
             else:
@@ -47,7 +45,6 @@ def create_overview_excel():
             df_sorted.to_excel(writer, sheet_name="Rohdaten_Komplett", index=False)
 
             # --- BLATT 2: QUALITÄTS-CHECK (Nur Scores) ---
-            # Eine Pivot-Tabelle, damit du sofort siehst, ob Daten fehlen
             if 'score' in df.columns:
                 pivot_quality = df.pivot_table(
                     index="category",
@@ -58,7 +55,6 @@ def create_overview_excel():
                 pivot_quality.to_excel(writer, sheet_name="Check_Scores")
 
             # --- BLATT 3: EFFIZIENZ (Zeit & Token) ---
-            # Hier schauen wir, welche Zeit-Spalte wir haben (time_total ist neu, time_sec alt)
             tech_cols = []
             if 'time_total' in df.columns:
                 tech_cols.append('time_total')

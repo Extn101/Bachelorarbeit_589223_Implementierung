@@ -180,7 +180,7 @@ class BlindRaterApp:
         self.txt_ground_truth.delete(1.0, tk.END)
         self.txt_ground_truth.insert(tk.END, data['ground_truth'] + "\n\n")
 
-        # Kontext Snippet anzeigen, damit du checken kannst, ob die Info wirklich da stand
+        # Kontext Snippet anzeigen
         snippet = data.get('context_snippet', '')
         self.txt_ground_truth.insert(tk.END, "--- Verwendeter Kontext-Ausschnitt ---\n", "context_mark")
         self.txt_ground_truth.insert(tk.END, snippet, "context_mark")

@@ -15,7 +15,7 @@ MODELS_TO_TEST = [
 ]
 
 # Einstellungen (Deterministisch)
-RAG_OPTIONS = {
+CONFIG_OPTIONS = {
     "temperature": 0.0,
     "num_ctx": 8192,
     "seed": 42
@@ -113,7 +113,7 @@ def run_benchmark():
 
                 try:
                     # --- API AUFRUF ---
-                    response = OllamaApi.chat(chat_messages, model=model_name, options=RAG_OPTIONS)
+                    response = OllamaApi.chat(chat_messages, model=model_name, options=CONFIG_OPTIONS)
 
                     if response and "result" in response:
 

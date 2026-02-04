@@ -231,21 +231,21 @@ class OllamaApi:
             if 'done' not in parsed_json or parsed_json.get('done') is False:
                 print("ERROR: Response has returned but Model didn't complete the answer")
                 return {**cls.FALSE_RETURN, "info": {"error": 'Incomplete answer'}}
-
+            # Ab hier wurde der Code Angepasst
             # LLM Chat return as string
             message = parsed_json.get('message').get('content') if "message" in parsed_json else parsed_json.get('response')
 
             # --- ZEITEN (in Sekunden umrechnen) ---
-            # 1. Gesamte Wartezeit (User Sicht)
+            # 1. Gesamte Wartezeit
             total_duration = parsed_json.get('total_duration', 0) / 1_000_000_000
 
-            # 2. Ladezeit (sollte ~0 sein bei Warm-Up)
+            # 2. Ladezeit
             load_duration = parsed_json.get('load_duration', 0) / 1_000_000_000
 
-            # 3. Lese-Zeit (Wie lange braucht er für den Kontext?)
+            # 3. Lese-Zeit
             prompt_eval_duration = parsed_json.get('prompt_eval_duration', 0) / 1_000_000_000
 
-            # 4. Schreib-Zeit (Reine Generierung)
+            # 4. Schreib-Zeit
             eval_duration = parsed_json.get('eval_duration', 0) / 1_000_000_000
 
             # --- TOKENS ---
@@ -262,7 +262,7 @@ class OllamaApi:
                 "input_token": int(token_count_input),
                 "info": {}
             }
-
+        # Bis hierhin
         except json.JSONDecodeError as e:
             print(f"ERROR: Failed to decode JSON: {e}")
             return {**cls.FALSE_RETURN, "info": {"error": 'JSON decode error on the ollama server\'s response'}}

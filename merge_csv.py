@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # --- KONFIGURATION ---
-# Trage hier exakt die Dateinamen ein, die du zusammenfügen willst
+#
 FILES_TO_MERGE = [
     "benchmark_results_chatgpt_ohne_duplikat.csv",
     "benchmark_results_gemini.csv",
